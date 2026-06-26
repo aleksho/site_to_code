@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "{\"id\":\"222:1309\",\"name\":\"Контактная информация\",\"type\":\"TEXT\",\"bounds\":{\"x\":25,\"y\":769,\"width\":170,\"height\":16},\"styles\":{\"opacity\":1,\"blendMode\":\"PASS_THROUGH\",\"visible\":true,\"fills\":[{\"type\":\"SOLID\",\"color\":\"#414141\",\"opacity\":1}],\"strokes\":[],\"strokeWeight\":1,\"strokeAlign\":\"OUTSIDE\",\"constraints\":{\"horizontal\":\"MIN\",\"vertical\":\"MIN\"},\"fontSize\":15,\"fontFamily\":\"Circe\",\"fontStyle\":\"Bold\",\"fontWeight\":700,\"textDecoration\":\"NONE\",\"lineHeight\":{\"value\":100,\"unit\":\"PERCENT\"},\"letterSpacing\":{\"value\":0,\"unit\":\"PERCENT\"},\"textAlignHorizontal\":\"LEFT\",\"textAlignVertical\":\"TOP\",\"textAutoResize\":\"NONE\"},\"characters\":\"Контактная информация\"}"
+    }
+  ]
+}

@@ -1,0 +1,1712 @@
+{
+  "summary": {
+    "mobile_ready": false,
+    "desktop_ready": false,
+    "overall_ready": false,
+    "missing": []
+  },
+  "mobile": {
+    "stats": {
+      "frames": 13,
+      "colors": 9,
+      "fonts": 0,
+      "effects": 0,
+      "auto_layouts": 0,
+      "texts": 279,
+      "bounds": 411
+    },
+    "colors": [
+      "#000000",
+      "#1E1E1E",
+      "#414141",
+      "#5C4646",
+      "#877A7A",
+      "#A7A7A7",
+      "#D9D9D9",
+      "#E9E2D7",
+      "#FFFFFF"
+    ],
+    "fonts": {},
+    "bounds": [
+      {
+        "id": "221:436",
+        "name": "курсы",
+        "type": "FRAME",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        },
+        "constraints": {
+          "horizontal": "MIN",
+          "vertical": "MIN"
+        },
+        "corner_radius": null,
+        "stroke_weight": 1,
+        "stroke_align": "INSIDE",
+        "opacity": 1
+      },
+      {
+        "id": "221:499",
+        "name": "Rectangle 49",
+        "type": "RECTANGLE",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        },
+        "constraints": {
+          "horizontal": "CENTER",
+          "vertical": "MIN"
+        },
+        "corner_radius": null,
+        "stroke_weight": 1,
+        "stroke_align": "INSIDE",
+        "opacity": 1
+      },
+      {
+        "id": "221:441",
+        "name": "Rectangle 34",
+        "type": "RECTANGLE",
+        "bounds": {
+          "x": 9,
+          "y": 28,
+          "width": 371,
+          "height": 74
+        },
+        "constraints": {
+          "horizontal": "MIN",
+          "vertical": "MIN"
+        },
+        "corner_radius": 43,
+        "stroke_weight": 1,
+        "stroke_align": "INSIDE",
+        "opacity": 1
+      },
+      {
+        "id": "221:442",
+        "name": "_1_s_sh_2019 3",
+        "type": "RECTANGLE",
+        "bounds": {
+          "x": 34,
+          "y": 48,
+          "width": 132,
+          "height": 34
+        },
+        "constraints": {
+          "horizontal": "MIN",
+          "vertical": "MIN"
+        },
+        "corner_radius": null,
+        "stroke_weight": 1,
+        "stroke_align": "INSIDE",
+        "opacity": 1
+      },
+      {
+        "id": "221:452",
+        "name": "Свердловская набережная, дом 58, литера А",
+        "type": "TEXT",
+        "bounds": {
+          "x": 198,
+          "y": 50,
+          "width": 111,
+          "height": 27
+        },
+        "constraints": {
+          "horizontal": "MIN",
+          "vertical": "MIN"
+        },
+        "corner_radius": null,
+        "stroke_weight": 1,
+        "stroke_align": "OUTSIDE",
+        "opacity": 1
+      },
+      {
+        "id": "221:453",
+        "name": "Vector",
+        "type": "VECTOR",
+        "bounds": {
+          "x": 185,
+          "y": 52,
+          "width": 8,
+          "height": 12
+        },
+        "constraints": {
+          "horizontal": "SCALE",
+          "vertical": "SCALE"
+        },
+        "corner_radius": null,
+        "stroke_weight": 1,
+        "stroke_align": "INSIDE",
+        "opacity": 1
+      },
+      {
+        "id": "221:501",
+        "name": "Ellipse 1",
+        "type": "ELLIPSE",
+        "bounds": {
+          "x": 321,
+          "y": 44,
+          "width": 41,
+          "height": 42
+        },
+        "constraints": {
+          "horizontal": "MIN",
+          "vertical": "MIN"
+        },
+        "corner_radius": null,
+        "stroke_weight": 1,
+        "stroke_align": "INSIDE",
+        "opacity": 1
+      },
+      {
+        "id": "221:505",
+        "name": "Union",
+        "type": "BOOLEAN_OPERATION",
+        "bounds": {
+          "x": 331.056640625,
+          "y": 58.2119140625,
+          "width": 21.1484375,
+          "height": 13.8974609375
+        },
+        "constraints": null,
+        "corner_radius": null,
+        "stroke_weight": null,
+        "stroke_align": "INSIDE",
+        "opacity": 1
+      },
+      {
+        "id": "221:506",
+        "name": "ГЛАВНАЯ КУРСЫ",
+        "type": "TEXT",
+        "bounds": {
+          "x": 25,
+          "y": 119,
+          "width": 96,
+          "height": 15
+        },
+        "constraints": {
+          "horizontal": "MIN",
+          "vertical": "MIN"
+        },
+        "corner_radius": null,
+        "stroke_weight": 1,
+        "stroke_align": "OUTSIDE",
+        "opacity": 1
+      },
+      {
+        "id": "221:454",
+        "name": "Vector",
+        "type": "VECTOR",
+        "bounds": {
+          "x": 74,
+          "y": 123,
+          "width": 10,
+          "height": 5
+        },
+        "constraints": {
+          "horizontal": "SCALE",
+          "vertical": "SCALE"
+        },
+        "corner_radius": null,
+        "stroke_weight": 1,
+        "stroke_align": "INSIDE",
+        "opacity": 1
+      },
+      {
+        "id": "221:508",
+        "name": "программа обучения по курсу КОСМЕТОЛОГ ЭСТЕТИСТ",
+        "type": "TEXT",
+        "bounds": {
+          "x": 25,
+          "y": 151,
+          "width": 261,
+          "height": 36
+        },
+        "constraints": {
+          "horizontal": "MIN",
+          "vertical": "MIN"
+        },
+        "corner_radius": null,
+        "stroke_weight": 1,
+        "stroke_align": "OUTSIDE",
+        "opacity": 1
+      },
+      {
+        "id": "221:509",
+        "name": "Rectangle 49",
+        "type": "RECTANGLE",
+        "bounds": {
+          "x": 282,
+          "y": 171,
+          "width": 37,
+          "height": 14
+        },
+        "constraints": {
+          "horizontal": "MIN",
+          "vertical": "MIN"
+        },
+        "corner_radius": 29.5,
+        "stroke_weight": 1,
+        "stroke_align": "INSIDE",
+        "opacity": 1
+      },
+      {
+        "id": "221:510",
+        "name": "576 часов",
+        "type": "VECTOR",
+        "bounds": {
+          "x": 287,
+          "y": 176,
+          "width": 27,
+          "height": 4
+        },
+        "constraints": {
+          "horizontal": "MIN",
+          "vertical": "MIN"
+        },
+        "corner_radius": null,
+        "stroke_weight": 1,
+        "stroke_align": "OUTSIDE",
+        "opacity": 1
+      },
+      {
+        "id": "221:511",
+        "name": "Rectangle 53",
+        "type": "RECTANGLE",
+        "bounds": {
+          "x": 25,
+          "y": 207,
+          "width": 337,
+          "height": 33
+        },
+        "constraints": {
+          "horizontal": "MIN",
+          "vertical": "MIN"
+        },
+        "corner_radius": 20,
+        "stroke_weight": 1,
+        "stroke_align": "INSIDE",
+        "opacity": 1
+      },
+      {
+        "id": "221:1214",
+        "name": "Rectangle 54",
+        "type": "RECTANGLE",
+        "bounds": {
+          "x": 25,
+          "y": 250,
+          "width": 337,
+          "height": 33
+        },
+        "constraints": {
+          "horizontal": "MIN",
+          "vertical": "MIN"
+        },
+        "corner_radius": 20,
+        "stroke_weight": 1,
+        "stroke_align": "INSIDE",
+        "opacity": 1
+      },
+      {
+        "id": "221:1217",
+        "name": "Rectangle 55",
+        "type": "RECTANGLE",
+        "bounds": {
+          "x": 25,
+          "y": 293,
+          "width": 337,
+          "height": 33
+        },
+        "constraints": {
+          "horizontal": "MIN",
+          "vertical": "MIN"
+        },
+        "corner_radius": 20,
+        "stroke_weight": 1,
+        "stroke_align": "INSIDE",
+        "opacity": 1
+      },
+      {
+        "id": "221:1220",
+        "name": "Rectangle 56",
+        "type": "RECTANGLE",
+        "bounds": {
+          "x": 25,
+          "y": 336,
+          "width": 337,
+          "height": 33
+        },
+        "constraints": {
+          "horizontal": "MIN",
+          "vertical": "MIN"
+        },
+        "corner_radius": 20,
+        "stroke_weight": 1,
+        "stroke_align": "INSIDE",
+        "opacity": 1
+      },
+      {
+        "id": "221:1223",
+        "name": "Rectangle 57",
+        "type": "RECTANGLE",
+        "bounds": {
+          "x": 25,
+          "y": 379,
+          "width": 337,
+          "height": 33
+        },
+        "constraints": {
+          "horizontal": "MIN",
+          "vertical": "MIN"
+        },
+        "corner_radius": 20,
+        "stroke_weight": 1,
+        "stroke_align": "INSIDE",
+        "opacity": 1
+      },
+      {
+        "id": "221:1226",
+        "name": "Rectangle 58",
+        "type": "RECTANGLE",
+        "bounds": {
+          "x": 25,
+          "y": 422,
+          "width": 337,
+          "height": 33
+        },
+        "constraints": {
+          "horizontal": "MIN",
+          "vertical": "MIN"
+        },
+        "corner_radius": 20,
+        "stroke_weight": 1,
+        "stroke_align": "INSIDE",
+        "opacity": 1
+      },
+      {
+        "id": "221:1229",
+        "name": "Rectangle 59",
+        "type": "RECTANGLE",
+        "bounds": {
+          "x": 25,
+          "y": 465,
+          "width": 337,
+          "height": 33
+        },
+        "constraints": {
+          "horizontal": "MIN",
+          "vertical": "MIN"
+        },
+        "corner_radius": 20,
+        "stroke_weight": 1,
+        "stroke_align": "INSIDE",
+        "opacity": 1
+      }
+    ],
+    "texts": [
+      {
+        "id": "221:452",
+        "name": "Свердловская набережная, дом 58, литера А",
+        "text": "Свердловская набережная, \nдом 58, литера А",
+        "font": null,
+        "size": 9
+      },
+      {
+        "id": "221:506",
+        "name": "ГЛАВНАЯ КУРСЫ",
+        "text": "ГЛАВНАЯ       КУРСЫ",
+        "font": null,
+        "size": 10
+      },
+      {
+        "id": "221:508",
+        "name": "программа обучения по курсу КОСМЕТОЛОГ ЭСТЕТИСТ",
+        "text": "программа обучения по курсу\nКОСМЕТОЛОГ ЭСТЕТИСТ        ",
+        "font": null,
+        "size": "mixed"
+      },
+      {
+        "id": "221:512",
+        "name": "ДЕРМАТОЛОГИЯ",
+        "text": "ДЕРМАТОЛОГИЯ",
+        "font": null,
+        "size": 12
+      },
+      {
+        "id": "221:1262",
+        "name": "КОСМЕТОЛОГИЯ ТЕРАПЕВТИЧЕСКАЯ",
+        "text": "КОСМЕТОЛОГИЯ ТЕРАПЕВТИЧЕСКАЯ",
+        "font": null,
+        "size": 12
+      },
+      {
+        "id": "221:1263",
+        "name": "МАССАЖИ ЛИЦА",
+        "text": "МАССАЖИ ЛИЦА",
+        "font": null,
+        "size": 12
+      },
+      {
+        "id": "221:1264",
+        "name": "АППАРАТНАЯ КОСМЕТОЛОГИЯ",
+        "text": "АППАРАТНАЯ КОСМЕТОЛОГИЯ",
+        "font": null,
+        "size": 12
+      },
+      {
+        "id": "221:1265",
+        "name": "ИННОВАЦИОННАЯ АППАРАТНАЯ КОСМЕТОЛОГИЯ",
+        "text": "ИННОВАЦИОННАЯ АППАРАТНАЯ\nКОСМЕТОЛОГИЯ",
+        "font": null,
+        "size": 12
+      },
+      {
+        "id": "221:1266",
+        "name": "ОРГАНИЗАЦИЯ КОСМЕТОЛОГИЧЕСКОЙ ПОМОЩИ",
+        "text": "ОРГАНИЗАЦИЯ КОСМЕТОЛОГИЧЕСКОЙ\nПОМОЩИ",
+        "font": null,
+        "size": 12
+      },
+      {
+        "id": "221:1267",
+        "name": "ТРИХОЛОГИЯ",
+        "text": "ТРИХОЛОГИЯ",
+        "font": null,
+        "size": 12
+      },
+      {
+        "id": "221:1268",
+        "name": "ЭСТЕТИЧЕСКИЕ ПРОБЛЕМЫ ТЕЛА. КОРРЕКЦИЯ ФИГУРЫ",
+        "text": "ЭСТЕТИЧЕСКИЕ ПРОБЛЕМЫ ТЕЛА. \nКОРРЕКЦИЯ ФИГУРЫ",
+        "font": null,
+        "size": 12
+      },
+      {
+        "id": "221:1269",
+        "name": "ИНЪЕКЦИОННЫЕ МЕТОДИКИ В КОСМЕТОЛОГИИ",
+        "text": "ИНЪЕКЦИОННЫЕ\nМЕТОДИКИ В КОСМЕТОЛОГИИ",
+        "font": null,
+        "size": 12
+      },
+      {
+        "id": "221:1282",
+        "name": "ПРЕДОСТАВЛЯЮТСЯ НА СТАЖИРОВКЕ: профессиональные косметические средства для выполнения процедур по проблемам на моделях АТТЕСТАЦИЯ: итоговый экзамен ВЫДАВАЕМЫЕ ДОКУМЕНТЫ: диплом о профессиональной переподготовке с присвоением квалификации «Эстетическая косметология»",
+        "text": "ПРЕДОСТАВЛЯЮТСЯ НА СТАЖИРОВКЕ: профессиональные косметические средства\nдля выполнения процедур по пр",
+        "font": null,
+        "size": 10
+      },
+      {
+        "id": "222:1298",
+        "name": "+7 (929) 102 62 22",
+        "text": "+7 (929) 102 62 22",
+        "font": null,
+        "size": 10
+      },
+      {
+        "id": "222:1299",
+        "name": "Санкт- Петербург, Свердловская набережная, дом 58, литера А АНО ДПО \"Школа косметологии и анатомии Марины Егоровой\"",
+        "text": "Санкт- Петербург, Свердловская набережная, дом 58, литера А\n\nАНО ДПО \"Школа косметологии и анатомии ",
+        "font": null,
+        "size": 9
+      },
+      {
+        "id": "222:1300",
+        "name": "Телефон:",
+        "text": "Телефон:",
+        "font": null,
+        "size": 10
+      },
+      {
+        "id": "222:1301",
+        "name": "Адрес:",
+        "text": "Адрес:",
+        "font": null,
+        "size": 10
+      },
+      {
+        "id": "222:1302",
+        "name": "Социальные сети:",
+        "text": "Социальные сети:",
+        "font": null,
+        "size": 10
+      },
+      {
+        "id": "222:1309",
+        "name": "Контактная информация",
+        "text": "Контактная информация",
+        "font": null,
+        "size": 15
+      },
+      {
+        "id": "361:14",
+        "name": "Свердловская набережная, дом 58, литера А",
+        "text": "Свердловская набережная, \nдом 58, литера А",
+        "font": null,
+        "size": 9
+      }
+    ],
+    "effects": [],
+    "auto_layouts": []
+  },
+  "desktop": {
+    "stats": {
+      "frames": 13,
+      "colors": 8,
+      "fonts": 0,
+      "effects": 0,
+      "auto_layouts": 0,
+      "texts": 426,
+      "bounds": 400
+    },
+    "colors": [
+      "#000000",
+      "#414141",
+      "#5C4646",
+      "#A7A7A7",
+      "#D9D9D9",
+      "#E9E2D7",
+      "#F3EDE5",
+      "#FFFFFF"
+    ],
+    "fonts": {},
+    "bounds": [
+      {
+        "id": "2059:42",
+        "name": "Person 1",
+        "type": "FRAME",
+        "bounds": {
+          "x": 1892,
+          "y": 4892,
+          "width": 1280,
+          "height": 624
+        },
+        "constraints": {
+          "horizontal": "MIN",
+          "vertical": "MIN"
+        },
+        "corner_radius": null,
+        "stroke_weight": 1,
+        "stroke_align": "INSIDE",
+        "opacity": 1
+      },
+      {
+        "id": "185:25",
+        "name": "преподаватели слайдер",
+        "type": "GROUP",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 1280,
+          "height": 624
+        },
+        "constraints": null,
+        "corner_radius": null,
+        "stroke_weight": null,
+        "stroke_align": null,
+        "opacity": 1
+      },
+      {
+        "id": "2059:43",
+        "name": "Person 2",
+        "type": "FRAME",
+        "bounds": {
+          "x": 3231,
+          "y": 4892,
+          "width": 1280,
+          "height": 624
+        },
+        "constraints": {
+          "horizontal": "MIN",
+          "vertical": "MIN"
+        },
+        "corner_radius": null,
+        "stroke_weight": 1,
+        "stroke_align": "INSIDE",
+        "opacity": 1
+      },
+      {
+        "id": "186:33",
+        "name": "преподаватели слайдер",
+        "type": "GROUP",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 1280,
+          "height": 624
+        },
+        "constraints": null,
+        "corner_radius": null,
+        "stroke_weight": null,
+        "stroke_align": null,
+        "opacity": 1
+      },
+      {
+        "id": "186:74",
+        "name": "заявка форма заполненная",
+        "type": "GROUP",
+        "bounds": {
+          "x": 3208,
+          "y": 6305,
+          "width": 1280,
+          "height": 900
+        },
+        "constraints": null,
+        "corner_radius": null,
+        "stroke_weight": null,
+        "stroke_align": null,
+        "opacity": 1
+      },
+      {
+        "id": "186:75",
+        "name": "Rectangle 28",
+        "type": "RECTANGLE",
+        "bounds": {
+          "x": 3208,
+          "y": 6305,
+          "width": 1280,
+          "height": 900
+        },
+        "constraints": {
+          "horizontal": "MIN",
+          "vertical": "MIN"
+        },
+        "corner_radius": 43,
+        "stroke_weight": 1,
+        "stroke_align": "INSIDE",
+        "opacity": 1
+      },
+      {
+        "id": "186:76",
+        "name": "Ellipse 3",
+        "type": "ELLIPSE",
+        "bounds": {
+          "x": 3879,
+          "y": 6665,
+          "width": 30,
+          "height": 30
+        },
+        "constraints": {
+          "horizontal": "MIN",
+          "vertical": "MIN"
+        },
+        "corner_radius": null,
+        "stroke_weight": 2,
+        "stroke_align": "INSIDE",
+        "opacity": 1
+      },
+      {
+        "id": "186:77",
+        "name": "Ellipse 5",
+        "type": "ELLIPSE",
+        "bounds": {
+          "x": 3879,
+          "y": 6778,
+          "width": 30,
+          "height": 30
+        },
+        "constraints": {
+          "horizontal": "MIN",
+          "vertical": "MIN"
+        },
+        "corner_radius": null,
+        "stroke_weight": 2,
+        "stroke_align": "INSIDE",
+        "opacity": 1
+      },
+      {
+        "id": "186:78",
+        "name": "Ellipse 4",
+        "type": "ELLIPSE",
+        "bounds": {
+          "x": 4119,
+          "y": 6665,
+          "width": 30,
+          "height": 30
+        },
+        "constraints": {
+          "horizontal": "MIN",
+          "vertical": "MIN"
+        },
+        "corner_radius": null,
+        "stroke_weight": 2,
+        "stroke_align": "INSIDE",
+        "opacity": 1
+      },
+      {
+        "id": "186:79",
+        "name": "Ellipse 6",
+        "type": "ELLIPSE",
+        "bounds": {
+          "x": 4119,
+          "y": 6778,
+          "width": 30,
+          "height": 30
+        },
+        "constraints": {
+          "horizontal": "MIN",
+          "vertical": "MIN"
+        },
+        "corner_radius": null,
+        "stroke_weight": 2,
+        "stroke_align": "INSIDE",
+        "opacity": 1
+      },
+      {
+        "id": "186:80",
+        "name": "Rectangle 31",
+        "type": "RECTANGLE",
+        "bounds": {
+          "x": 3259,
+          "y": 6879,
+          "width": 1169,
+          "height": 205
+        },
+        "constraints": {
+          "horizontal": "MIN",
+          "vertical": "MIN"
+        },
+        "corner_radius": 43,
+        "stroke_weight": 1,
+        "stroke_align": "INSIDE",
+        "opacity": 1
+      },
+      {
+        "id": "186:81",
+        "name": "Записаться на обучение",
+        "type": "TEXT",
+        "bounds": {
+          "x": 3608,
+          "y": 6350,
+          "width": 481,
+          "height": 45
+        },
+        "constraints": {
+          "horizontal": "MIN",
+          "vertical": "MIN"
+        },
+        "corner_radius": null,
+        "stroke_weight": 1,
+        "stroke_align": "OUTSIDE",
+        "opacity": 1
+      },
+      {
+        "id": "186:82",
+        "name": "Rectangle 27",
+        "type": "RECTANGLE",
+        "bounds": {
+          "x": 3259,
+          "y": 6435,
+          "width": 588,
+          "height": 83
+        },
+        "constraints": {
+          "horizontal": "MIN",
+          "vertical": "MIN"
+        },
+        "corner_radius": 41.5,
+        "stroke_weight": 1,
+        "stroke_align": "INSIDE",
+        "opacity": 1
+      },
+      {
+        "id": "186:83",
+        "name": "Rectangle 28",
+        "type": "RECTANGLE",
+        "bounds": {
+          "x": 3259,
+          "y": 6541,
+          "width": 588,
+          "height": 83
+        },
+        "constraints": {
+          "horizontal": "MIN",
+          "vertical": "MIN"
+        },
+        "corner_radius": 41.5,
+        "stroke_weight": 1,
+        "stroke_align": "INSIDE",
+        "opacity": 1
+      },
+      {
+        "id": "186:84",
+        "name": "Rectangle 29",
+        "type": "RECTANGLE",
+        "bounds": {
+          "x": 3259,
+          "y": 6647,
+          "width": 588,
+          "height": 83
+        },
+        "constraints": {
+          "horizontal": "MIN",
+          "vertical": "MIN"
+        },
+        "corner_radius": 41.5,
+        "stroke_weight": 1,
+        "stroke_align": "INSIDE",
+        "opacity": 1
+      },
+      {
+        "id": "186:85",
+        "name": "Rectangle 30",
+        "type": "RECTANGLE",
+        "bounds": {
+          "x": 3259,
+          "y": 6753,
+          "width": 588,
+          "height": 83
+        },
+        "constraints": {
+          "horizontal": "MIN",
+          "vertical": "MIN"
+        },
+        "corner_radius": 41.5,
+        "stroke_weight": 1,
+        "stroke_align": "INSIDE",
+        "opacity": 1
+      },
+      {
+        "id": "186:86",
+        "name": "Выберете программу обучения:",
+        "type": "TEXT",
+        "bounds": {
+          "x": 3966,
+          "y": 6541,
+          "width": 375,
+          "height": 80
+        },
+        "constraints": {
+          "horizontal": "MIN",
+          "vertical": "MIN"
+        },
+        "corner_radius": null,
+        "stroke_weight": 1,
+        "stroke_align": "OUTSIDE",
+        "opacity": 1
+      },
+      {
+        "id": "186:87",
+        "name": "Ирина Ольчик",
+        "type": "TEXT",
+        "bounds": {
+          "x": 3312,
+          "y": 6457,
+          "width": 256,
+          "height": 40
+        },
+        "constraints": {
+          "horizontal": "MIN",
+          "vertical": "MIN"
+        },
+        "corner_radius": null,
+        "stroke_weight": 1,
+        "stroke_align": "OUTSIDE",
+        "opacity": 1
+      },
+      {
+        "id": "186:88",
+        "name": "+ 7 924 456 85 58",
+        "type": "TEXT",
+        "bounds": {
+          "x": 3312,
+          "y": 6563,
+          "width": 317,
+          "height": 40
+        },
+        "constraints": {
+          "horizontal": "MIN",
+          "vertical": "MIN"
+        },
+        "corner_radius": null,
+        "stroke_weight": 1,
+        "stroke_align": "OUTSIDE",
+        "opacity": 1
+      },
+      {
+        "id": "186:89",
+        "name": "Санкт-Петербург",
+        "type": "TEXT",
+        "bounds": {
+          "x": 3312,
+          "y": 6669,
+          "width": 307,
+          "height": 40
+        },
+        "constraints": {
+          "horizontal": "MIN",
+          "vertical": "MIN"
+        },
+        "corner_radius": null,
+        "stroke_weight": 1,
+        "stroke_align": "OUTSIDE",
+        "opacity": 1
+      }
+    ],
+    "texts": [
+      {
+        "id": "186:81",
+        "name": "Записаться на обучение",
+        "text": "Записаться на обучение",
+        "font": null,
+        "size": 45
+      },
+      {
+        "id": "186:86",
+        "name": "Выберете программу обучения:",
+        "text": "Выберете программу\nобучения:",
+        "font": null,
+        "size": 40
+      },
+      {
+        "id": "186:87",
+        "name": "Ирина Ольчик",
+        "text": "Ирина Ольчик",
+        "font": null,
+        "size": 40
+      },
+      {
+        "id": "186:88",
+        "name": "+ 7 924 456 85 58",
+        "text": "+ 7  924 456 85 58",
+        "font": null,
+        "size": 40
+      },
+      {
+        "id": "186:89",
+        "name": "Санкт-Петербург",
+        "text": "Санкт-Петербург",
+        "font": null,
+        "size": 40
+      },
+      {
+        "id": "186:90",
+        "name": "Сестринское дело",
+        "text": "Сестринское дело",
+        "font": null,
+        "size": 40
+      },
+      {
+        "id": "186:98",
+        "name": "Отправить",
+        "text": "Отправить",
+        "font": null,
+        "size": 20
+      },
+      {
+        "id": "186:99",
+        "name": "Заочное",
+        "text": "Заочное",
+        "font": null,
+        "size": 40
+      },
+      {
+        "id": "186:100",
+        "name": "Онлайн",
+        "text": "Онлайн",
+        "font": null,
+        "size": 40
+      },
+      {
+        "id": "186:101",
+        "name": "Здравствуйте! Интересует цена за полный курс обучения.",
+        "text": "Здравствуйте! Интересует цена за полный курс обучения.",
+        "font": null,
+        "size": 40
+      },
+      {
+        "id": "186:102",
+        "name": "Очно-заочное",
+        "text": "Очно-заочное",
+        "font": null,
+        "size": 40
+      },
+      {
+        "id": "186:103",
+        "name": "Очная группа",
+        "text": "Очная группа",
+        "font": null,
+        "size": 40
+      },
+      {
+        "id": "218:371",
+        "name": "Требования к оформлению статей для конференций  К публикации принимаются статьи объемом не менее 5 страниц машинописного текста. Мы просим предоставлять некоторые части статьи на двух языках, ниже вы сможете ознакомиться с требованиями поподробнее.  Для набора текста, формул и таблиц следует использовать редактор Microsoft Word для Windows. Параметры текстового редактора: все поля по 2 см; шрифт Times New Roman, размер – 14; межстрочный интервал – 1,5; выравнивание по ширине; абзацный отступ 1 см; ориентация листа – книжная. Рисунки, выполненные в MS Word, не принимаются. Все рисунки и таблицы, должны быть пронумерованы и снабжены названиями или подрисуночными подписями. Оформление заголовка на русском языке: (прописными, жирными буквами, выравнивание по центру строки) НАЗВАНИЕ СТАТЬИ; на следующей строке (шрифт жирный курсив, выравнивание по правому краю) – Ф.И.О. автора статьи полностью; на следующей строке (шрифт курсив, выравнивание по правому краю) – ученое звание, ученая степень, название вуза или должность и место работы (полностью), страна, город (сокращения не допускаются); на следующей строке (шрифт курсив, выравнивание по правому краю) – E-mail для контактов. Если авторов статьи несколько, то информация повторяется для каждого автора. Оформление заголовка на английском языке: та же информация повторяется на английском языке. Аннотация на русском и английском языке не более 600 знаков (считая с пробелами) для аннотации на каждом языке. Ключевые слова (приводятся на русском и английском языках) отделяются друг от друга точкой запятой.",
+        "text": "Требования к оформлению статей для конференций \nК публикации принимаются статьи объемом не менее 5 с",
+        "font": null,
+        "size": 20
+      },
+      {
+        "id": "221:381",
+        "name": "Анатомия головы и шеи. Строение кожи. Основы диагностики кожных болезней. Принципы терапии в дерматологии. Иннервация и кровоснабжение кожи. Железы кожи сальные и потовые. Себорея. Акне. Лечение угревой сыпи. Атопический дерматит. Экзема. Ихтиоз. Дерматиты. Вирусные дерматозы. Пиодермии. Демодекоз. Розацея. Нарушение пигментации кожи. Гипермеланозы. Отбеливание кожи. Новообразования кожи.     Косметическая химия. Водно-липидный барьер. Типы кожи. Сухая кожа. Купероз. Чувствительная кожа. Герантокосметология. Принцип построения процедур. Экономика процедур в салоне. Уход за деликатными зонами. Веки. Шея. Неотложные состояния в косметологии. Алгоритм работы с клиентом. Пилинги. Практическая косметология по типу кожи на профессиональных брендах. Прокол ушей. Лечение волос в салоне красоты: Трихология. Проблемы. Лечение.   Общие принципы массажа. Массаж шейно-воротниковой зоны. Косметический массаж. Лечебный массаж по Жаке. Пластический массаж. Лимфодренажный массаж.     Общие принципы аппаратной косметологии. Звуковые методы. Механические методы. Вибротерапия. Прессотерапия. Вакуум. Электрические методы. Постоянный ток. Переменный ток низкой частоты. Дарсонвализация. Ток высокой частоты. RF терапия Вапоризация. Брашинг. Ультразвуковой пилинг. Аппаратная чистка лица. Алмазный пилинг. Миостимуляция по лицу и телу. Микротоковая терапия. Электрокоагуляция. Электроэпиляция.     Гидротерапия. Аэротерапия. Талассотерапия. Пелоидотерапия. Термо- и криотерапия. Магнитотерапия. Аппаратные методы трансдермальной доставки веществ. Коррекция основных проблем кожи аппаратными методами. Плазменные методы. Световые методы. IPL. Лазеры. Электро, фото и лазерная эпиляция.   Нормативно-правовые основы. СанПин для мед. учереждений. Косметолог-клиент. Степени ответственности. Эффективное обслуживание клиентов. Права пациентов. Асептика и антисептика. Утилизация отходов. Меры безопасности при эксплуатации электрооборудования. Требования к условиям труда. Профессиональные риски в работе. Лицензирование мед деятельности. Формы собственности. Домашний уход. Побочные эффекты и осложнения. Анатомия и физиология волос. Диагностика. Патология стержня. Алопеция. Виды. Перхоть и себорейный дерматит. Физиотерапия в трихологии. Мезотерапия в трихологии.   Метаболизм жировой ткани. Энергетические субстраты. Целлюлит. Стрии. Дряблость кожи. Варикоз. Ожирение. Методы коррекции. Талассотерапия. Обёртывания.   Мезотерапия тела, лица, волосистой части головы. Биоревитализация. Биоармирование. Тредлифтинг. Контурная пластика. Ботулинотерапия.",
+        "text": "Анатомия головы и шеи. Строение кожи.\nОсновы диагностики кожных болезней. Принципы терапии в дермато",
+        "font": null,
+        "size": 15
+      },
+      {
+        "id": "201:237",
+        "name": "О нас Курсы Новости Контакты",
+        "text": "О нас            Курсы            Новости            Контакты",
+        "font": null,
+        "size": 20
+      },
+      {
+        "id": "201:238",
+        "name": "ГЛАВНАЯ КУРСЫ",
+        "text": "ГЛАВНАЯ       КУРСЫ",
+        "font": null,
+        "size": 20
+      },
+      {
+        "id": "201:240",
+        "name": "+7 (929) 102 62 22",
+        "text": "+7 (929) 102 62 22",
+        "font": null,
+        "size": 15
+      },
+      {
+        "id": "201:246",
+        "name": "Свердловская набережная, дом 58, литера А",
+        "text": "Свердловская набережная, дом 58, литера А",
+        "font": null,
+        "size": 15
+      },
+      {
+        "id": "205:317",
+        "name": "программа обучения по курсу КОСМЕТОЛОГ ЭСТЕТИСТ",
+        "text": "программа обучения по курсу\nКОСМЕТОЛОГ ЭСТЕТИСТ        ",
+        "font": null,
+        "size": "mixed"
+      },
+      {
+        "id": "220:377",
+        "name": "Учебные дисциплины",
+        "text": "Учебные дисциплины",
+        "font": null,
+        "size": 20
+      }
+    ],
+    "effects": [],
+    "auto_layouts": []
+  },
+  "styles": {
+    "fill_styles": [
+      {
+        "name": "estno.ru/Alto",
+        "colors": [
+          "#E0E0E0"
+        ]
+      },
+      {
+        "name": "estno.ru/Black",
+        "colors": [
+          "#000000"
+        ]
+      },
+      {
+        "name": "estno.ru/Bronco",
+        "colors": [
+          "#ADA098"
+        ]
+      },
+      {
+        "name": "estno.ru/Bronco",
+        "colors": [
+          "#AAA195"
+        ]
+      },
+      {
+        "name": "estno.ru/Emperor",
+        "colors": [
+          "#545454"
+        ]
+      },
+      {
+        "name": "estno.ru/Emperor",
+        "colors": [
+          "#525252"
+        ]
+      },
+      {
+        "name": "estno.ru/Gallery",
+        "colors": [
+          "#EEEEEE"
+        ]
+      },
+      {
+        "name": "estno.ru/Gallery",
+        "colors": [
+          "#F0F0F0"
+        ]
+      },
+      {
+        "name": "estno.ru/Gray",
+        "colors": [
+          "#868686"
+        ]
+      },
+      {
+        "name": "estno.ru/Gray",
+        "colors": [
+          "#8A8A8A"
+        ]
+      },
+      {
+        "name": "estno.ru/Mine Shaft",
+        "colors": [
+          "#222222"
+        ]
+      },
+      {
+        "name": "estno.ru/Mine Shaft",
+        "colors": [
+          "#242424"
+        ]
+      },
+      {
+        "name": "estno.ru/Mine Shaft",
+        "colors": [
+          "#242424"
+        ]
+      },
+      {
+        "name": "estno.ru/Silver",
+        "colors": [
+          "#BEBEBE"
+        ]
+      },
+      {
+        "name": "estno.ru/Silver",
+        "colors": [
+          "#BBBBBB"
+        ]
+      },
+      {
+        "name": "estno.ru/Silver",
+        "colors": [
+          "#BEBEBE"
+        ]
+      },
+      {
+        "name": "estno.ru/Silver Chalice",
+        "colors": [
+          "#A1A1A1"
+        ]
+      },
+      {
+        "name": "estno.ru/Tundora",
+        "colors": [
+          "#454545"
+        ]
+      },
+      {
+        "name": "estno.ru/White",
+        "colors": [
+          "#FFFFFF"
+        ]
+      },
+      {
+        "name": "estno.ru/Westar",
+        "colors": [
+          "#DCD8D3"
+        ]
+      },
+      {
+        "name": "estno.ru/White Gallery",
+        "colors": [
+          "#F0F0F0",
+          "#FFFFFF"
+        ]
+      }
+    ],
+    "text_styles": [
+      {
+        "name": "estno.ru/Manrope/Bold upper",
+        "family": "Manrope",
+        "style": "Bold",
+        "size": 18,
+        "line_height": {
+          "unit": "PIXELS",
+          "value": 27.899999618530273
+        },
+        "letter_spacing": {
+          "unit": "PERCENT",
+          "value": 0
+        },
+        "decoration": "NONE"
+      },
+      {
+        "name": "estno.ru/Manrope/Medium",
+        "family": "Manrope",
+        "style": "Medium",
+        "size": 16,
+        "line_height": {
+          "unit": "PIXELS",
+          "value": 21.600000381469727
+        },
+        "letter_spacing": {
+          "unit": "PERCENT",
+          "value": 0
+        },
+        "decoration": "NONE"
+      },
+      {
+        "name": "estno.ru/Manrope/Regular",
+        "family": "Manrope",
+        "style": "Regular",
+        "size": 10.000001907348633,
+        "line_height": {
+          "unit": "PIXELS",
+          "value": 14
+        },
+        "letter_spacing": {
+          "unit": "PERCENT",
+          "value": 0
+        },
+        "decoration": "NONE"
+      },
+      {
+        "name": "estno.ru/Manrope/Regular",
+        "family": "Manrope",
+        "style": "Regular",
+        "size": 18,
+        "line_height": {
+          "unit": "PIXELS",
+          "value": 26
+        },
+        "letter_spacing": {
+          "unit": "PERCENT",
+          "value": 0
+        },
+        "decoration": "NONE"
+      },
+      {
+        "name": "estno.ru/Manrope/SemiBold",
+        "family": "Manrope",
+        "style": "SemiBold",
+        "size": 10.000001907348633,
+        "line_height": {
+          "unit": "PIXELS",
+          "value": 14
+        },
+        "letter_spacing": {
+          "unit": "PERCENT",
+          "value": 0
+        },
+        "decoration": "NONE"
+      },
+      {
+        "name": "estno.ru/Manrope/SemiBold",
+        "family": "Manrope",
+        "style": "SemiBold",
+        "size": 18,
+        "line_height": {
+          "unit": "PIXELS",
+          "value": 25
+        },
+        "letter_spacing": {
+          "unit": "PERCENT",
+          "value": 0
+        },
+        "decoration": "NONE"
+      },
+      {
+        "name": "estno.ru/Manrope/SemiBold",
+        "family": "Manrope",
+        "style": "SemiBold",
+        "size": 18,
+        "line_height": {
+          "unit": "PIXELS",
+          "value": 26
+        },
+        "letter_spacing": {
+          "unit": "PERCENT",
+          "value": 0
+        },
+        "decoration": "NONE"
+      },
+      {
+        "name": "estno.ru/Manrope/SemiBold upper",
+        "family": "Manrope",
+        "style": "SemiBold",
+        "size": 16,
+        "line_height": {
+          "unit": "PIXELS",
+          "value": 24.799999237060547
+        },
+        "letter_spacing": {
+          "unit": "PERCENT",
+          "value": 0
+        },
+        "decoration": "NONE"
+      },
+      {
+        "name": "estno.ru/Manrope/SemiBold upper",
+        "family": "Manrope",
+        "style": "SemiBold",
+        "size": 18,
+        "line_height": {
+          "unit": "PIXELS",
+          "value": 27.899999618530273
+        },
+        "letter_spacing": {
+          "unit": "PERCENT",
+          "value": 0
+        },
+        "decoration": "NONE"
+      },
+      {
+        "name": "estno.ru/Manrope/Regular",
+        "family": "Manrope",
+        "style": "Regular",
+        "size": 16,
+        "line_height": {
+          "unit": "PIXELS",
+          "value": 25
+        },
+        "letter_spacing": {
+          "unit": "PERCENT",
+          "value": 0
+        },
+        "decoration": "NONE"
+      },
+      {
+        "name": "estno.ru/Onest/Bold",
+        "family": "Onest",
+        "style": "Bold",
+        "size": 40,
+        "line_height": {
+          "unit": "PIXELS",
+          "value": 62
+        },
+        "letter_spacing": {
+          "unit": "PERCENT",
+          "value": 0
+        },
+        "decoration": "NONE"
+      },
+      {
+        "name": "estno.ru/Onest/Regular upper",
+        "family": "Onest",
+        "style": "Regular",
+        "size": 33,
+        "line_height": {
+          "unit": "PIXELS",
+          "value": 51
+        },
+        "letter_spacing": {
+          "unit": "PERCENT",
+          "value": 0
+        },
+        "decoration": "NONE"
+      },
+      {
+        "name": "estno.ru/Onest/Bold",
+        "family": "Onest",
+        "style": "Bold",
+        "size": 30,
+        "line_height": {
+          "unit": "PIXELS",
+          "value": 47
+        },
+        "letter_spacing": {
+          "unit": "PERCENT",
+          "value": 0
+        },
+        "decoration": "NONE"
+      },
+      {
+        "name": "estno.ru/Onest/Bold",
+        "family": "Onest",
+        "style": "Bold",
+        "size": 30,
+        "line_height": {
+          "unit": "PIXELS",
+          "value": 36
+        },
+        "letter_spacing": {
+          "unit": "PERCENT",
+          "value": 0
+        },
+        "decoration": "NONE"
+      },
+      {
+        "name": "estno.ru/Onest/Regular upper",
+        "family": "Onest",
+        "style": "Regular",
+        "size": 33,
+        "line_height": {
+          "unit": "PIXELS",
+          "value": 43
+        },
+        "letter_spacing": {
+          "unit": "PERCENT",
+          "value": 0
+        },
+        "decoration": "NONE"
+      },
+      {
+        "name": "estno.ru/Onest/Bold",
+        "family": "Onest",
+        "style": "Bold",
+        "size": 21,
+        "line_height": {
+          "unit": "PIXELS",
+          "value": 30
+        },
+        "letter_spacing": {
+          "unit": "PERCENT",
+          "value": 0
+        },
+        "decoration": "NONE"
+      },
+      {
+        "name": "estno.ru/Semantic/Button",
+        "family": "Manrope",
+        "style": "Bold",
+        "size": 16,
+        "line_height": {
+          "unit": "AUTO"
+        },
+        "letter_spacing": {
+          "unit": "PERCENT",
+          "value": 0
+        },
+        "decoration": "NONE"
+      },
+      {
+        "name": "estno.ru/Semantic/Heading 1 upper",
+        "family": "Onest",
+        "style": "SemiBold",
+        "size": 33,
+        "line_height": {
+          "unit": "PIXELS",
+          "value": 51
+        },
+        "letter_spacing": {
+          "unit": "PERCENT",
+          "value": 0
+        },
+        "decoration": "NONE"
+      },
+      {
+        "name": "estno.ru/Semantic/Heading 2",
+        "family": "Manrope",
+        "style": "Regular",
+        "size": 16,
+        "line_height": {
+          "unit": "PIXELS",
+          "value": 25
+        },
+        "letter_spacing": {
+          "unit": "PERCENT",
+          "value": 0
+        },
+        "decoration": "NONE"
+      },
+      {
+        "name": "estno.ru/Semantic/Heading 3",
+        "family": "Manrope",
+        "style": "Regular",
+        "size": 18,
+        "line_height": {
+          "unit": "PIXELS",
+          "value": 25
+        },
+        "letter_spacing": {
+          "unit": "PERCENT",
+          "value": 0
+        },
+        "decoration": "NONE"
+      },
+      {
+        "name": "estno.ru/Semantic/Heading 3",
+        "family": "Manrope",
+        "style": "SemiBold",
+        "size": 18,
+        "line_height": {
+          "unit": "PIXELS",
+          "value": 25
+        },
+        "letter_spacing": {
+          "unit": "PERCENT",
+          "value": 0
+        },
+        "decoration": "NONE"
+      },
+      {
+        "name": "estno.ru/Semantic/Input",
+        "family": "Manrope",
+        "style": "Regular",
+        "size": 16,
+        "line_height": {
+          "unit": "AUTO"
+        },
+        "letter_spacing": {
+          "unit": "PERCENT",
+          "value": 0
+        },
+        "decoration": "NONE"
+      },
+      {
+        "name": "estno.ru/Semantic/Item",
+        "family": "Manrope",
+        "style": "Regular",
+        "size": 18,
+        "line_height": {
+          "unit": "PIXELS",
+          "value": 25
+        },
+        "letter_spacing": {
+          "unit": "PERCENT",
+          "value": 0
+        },
+        "decoration": "NONE"
+      },
+      {
+        "name": "estno.ru/Semantic/Link",
+        "family": "Manrope",
+        "style": "Regular",
+        "size": 14,
+        "line_height": {
+          "unit": "PIXELS",
+          "value": 18
+        },
+        "letter_spacing": {
+          "unit": "PERCENT",
+          "value": 0
+        },
+        "decoration": "NONE"
+      },
+      {
+        "name": "estno.ru/Semantic/Link",
+        "family": "Manrope",
+        "style": "Bold",
+        "size": 16,
+        "line_height": {
+          "unit": "PIXELS",
+          "value": 25
+        },
+        "letter_spacing": {
+          "unit": "PERCENT",
+          "value": 0
+        },
+        "decoration": "NONE"
+      },
+      {
+        "name": "estno.ru/Semantic/Link underline",
+        "family": "Manrope",
+        "style": "Regular",
+        "size": 14,
+        "line_height": {
+          "unit": "PIXELS",
+          "value": 18
+        },
+        "letter_spacing": {
+          "unit": "PERCENT",
+          "value": 0
+        },
+        "decoration": "UNDERLINE"
+      },
+      {
+        "name": "estno.ru/Semantic/Strikethrough strikethrough",
+        "family": "Manrope",
+        "style": "Regular",
+        "size": 14,
+        "line_height": {
+          "unit": "PIXELS",
+          "value": 22
+        },
+        "letter_spacing": {
+          "unit": "PERCENT",
+          "value": 0
+        },
+        "decoration": "STRIKETHROUGH"
+      }
+    ],
+    "effect_styles": [],
+    "grid_styles": []
+  },
+  "variables": {
+    "colors": {
+      "estno.ru/color/grey/27 (Mode 1)": "#454545",
+      "estno.ru/color/grey/63 (Mode 1)": "#A1A1A1",
+      "estno.ru/color/white/solid (Mode 1)": "#FFFFFF",
+      "estno.ru/color/grey/33 (Mode 1)": "#545454",
+      "estno.ru/color/grey/32 (Mode 1)": "#525252",
+      "estno.ru/color/grey/53 (Mode 1)": "#868686",
+      "estno.ru/color/grey/54 (Mode 1)": "#8A8A8A",
+      "estno.ru/color/orange/64 (Mode 1)": "#ADA098",
+      "estno.ru/color/grey/93 (Mode 1)": "#EEEEEE",
+      "estno.ru/color/grey/13 (Mode 1)": "#222222",
+      "estno.ru/color/orange/63 (Mode 1)": "#AAA195",
+      "estno.ru/color/grey/75 (Mode 1)": "#BEBEBE",
+      "estno.ru/color/grey/94 (Mode 1)": "#F0F0F0",
+      "estno.ru/color/grey/14 (Mode 1)": "#242424",
+      "estno.ru/color/grey/88 (Mode 1)": "#E0E0E0",
+      "estno.ru/color/grey/73 (Mode 1)": "#BBBBBB",
+      "estno.ru/color/black/solid (Mode 1)": "#000000",
+      "estno.ru/color/orange/85 (Mode 1)": "#DCD8D3"
+    },
+    "numbers": {
+      "estno.ru/stroke weight/0_83 (Mode 1)": 0.8333330154418945,
+      "estno.ru/font size/16 (Mode 1)": 16,
+      "estno.ru/font weight/400 (Mode 1)": 400,
+      "estno.ru/line height/25 (Mode 1)": 25,
+      "estno.ru/stroke weight/1 (Mode 1)": 1,
+      "estno.ru/opacity/100 (Mode 1)": 100,
+      "estno.ru/stroke weight/0_8 (Mode 1)": 0.8013421297073364,
+      "estno.ru/stroke weight/1_43 (Mode 1)": 1.4285714626312256,
+      "estno.ru/stroke weight/52_99 (Mode 1)": 52.99197006225586,
+      "estno.ru/stroke weight/0_99 (Mode 1)": 0.9938178658485413,
+      "estno.ru/stroke weight/1_5 (Mode 1)": 1.4957000017166138,
+      "estno.ru/stroke weight/1_01 (Mode 1)": 1.008237361907959,
+      "estno.ru/stroke weight/1_02 (Mode 1)": 1.021276593208313,
+      "estno.ru/stroke weight/2 (Mode 1)": 2,
+      "estno.ru/font size/18 (Mode 1)": 18,
+      "estno.ru/font weight/700 (Mode 1)": 700,
+      "estno.ru/line height/27_9 (Mode 1)": 27.899999618530273,
+      "estno.ru/font weight/600 (Mode 1)": 600,
+      "estno.ru/line height/24_8 (Mode 1)": 24.799999237060547,
+      "estno.ru/width/1000 (Mode 1)": 1000,
+      "estno.ru/font weight/500 (Mode 1)": 500,
+      "estno.ru/line height/21_6 (Mode 1)": 21.600000381469727,
+      "estno.ru/width/1920 (Mode 1)": 1920,
+      "estno.ru/font size/40 (Mode 1)": 40,
+      "estno.ru/line height/62 (Mode 1)": 62,
+      "estno.ru/font size/14 (Mode 1)": 14,
+      "estno.ru/line height/22 (Mode 1)": 22,
+      "estno.ru/font size/33 (Mode 1)": 33,
+      "estno.ru/line height/51 (Mode 1)": 51,
+      "estno.ru/font size/30 (Mode 1)": 30,
+      "estno.ru/line height/47 (Mode 1)": 47,
+      "estno.ru/width/1160 (Mode 1)": 1160,
+      "estno.ru/item spacing/10 (Mode 1)": 10,
+      "estno.ru/opacity/50 (Mode 1)": 50,
+      "estno.ru/item spacing/0 (Mode 1)": -7.319893313706416e-08,
+      "estno.ru/line height/43 (Mode 1)": 43,
+      "estno.ru/line height/36 (Mode 1)": 36,
+      "estno.ru/line height/26 (Mode 1)": 26,
+      "estno.ru/font size/21 (Mode 1)": 21,
+      "estno.ru/width/1200 (Mode 1)": 1200
+    },
+    "strings": {
+      "estno.ru/font family/Font 1 (Mode 1)": "Manrope",
+      "estno.ru/font family/Font 2 (Mode 1)": "Onest"
+    },
+    "booleans": {}
+  },
+  "assets": {
+    "mobile": {
+      "screenshots": 60,
+      "images": 60,
+      "icons": 154
+    },
+    "desktop": {
+      "screenshots": 48,
+      "images": 48,
+      "icons": 167
+    }
+  }
+}

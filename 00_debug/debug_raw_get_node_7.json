@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "{\"id\":\"486:474\",\"name\":\"1. Введение в косметологию 3. История косметологии\",\"type\":\"TEXT\",\"bounds\":{\"x\":25,\"y\":221,\"width\":201,\"height\":40},\"styles\":{\"opacity\":1,\"blendMode\":\"PASS_THROUGH\",\"visible\":true,\"fills\":[{\"type\":\"SOLID\",\"color\":\"#000000\",\"opacity\":1}],\"strokes\":[],\"strokeWeight\":1,\"strokeAlign\":\"OUTSIDE\",\"constraints\":{\"horizontal\":\"MIN\",\"vertical\":\"MIN\"},\"fontSize\":13,\"fontFamily\":\"Circe\",\"fontStyle\":\"Light\",\"fontWeight\":350,\"textDecoration\":\"NONE\",\"lineHeight\":{\"value\":169.0000057220459,\"unit\":\"PERCENT\"},\"letterSpacing\":{\"value\":0,\"unit\":\"PERCENT\"},\"textAlignHorizontal\":\"LEFT\",\"textAlignVertical\":\"TOP\",\"textAutoResize\":\"NONE\"},\"characters\":\"1. Введение в косметологию\\n3. История косметологии\"}"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "{\"id\":\"221:442\",\"name\":\"_1_s_sh_2019 3\",\"type\":\"RECTANGLE\",\"bounds\":{\"x\":34,\"y\":48,\"width\":132,\"height\":34},\"styles\":{\"opacity\":1,\"blendMode\":\"PASS_THROUGH\",\"visible\":true,\"fills\":[{\"type\":\"IMAGE\",\"scaleMode\":\"FILL\",\"imageHash\":\"98e4426061d046a34de68d9c90790491a21d4bd1\",\"imageTransform\":[[1,0,0],[0,1,0]],\"opacity\":1}],\"strokes\":[],\"strokeWeight\":1,\"strokeAlign\":\"INSIDE\",\"cornerRadius\":0,\"constraints\":{\"horizontal\":\"MIN\",\"vertical\":\"MIN\"}}}"
+    }
+  ]
+}

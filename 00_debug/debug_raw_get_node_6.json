@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "{\"id\":\"486:419\",\"name\":\"Rectangle 34\",\"type\":\"RECTANGLE\",\"bounds\":{\"x\":9,\"y\":28,\"width\":371,\"height\":74},\"styles\":{\"opacity\":1,\"blendMode\":\"PASS_THROUGH\",\"visible\":true,\"fills\":[{\"type\":\"SOLID\",\"color\":\"#414141\",\"opacity\":1}],\"strokes\":[],\"strokeWeight\":1,\"strokeAlign\":\"INSIDE\",\"cornerRadius\":43,\"constraints\":{\"horizontal\":\"MIN\",\"vertical\":\"MIN\"}}}"
+    }
+  ]
+}
