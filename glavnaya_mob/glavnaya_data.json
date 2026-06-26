@@ -1,0 +1,7268 @@
+{
+  "meta": {
+    "version": "mobile",
+    "page_name": "главная",
+    "page_id": "222:1317",
+    "safe_name": "glavnaya",
+    "source_document": "figma_export\\01_mobile\\document.json"
+  },
+  "layout": {
+    "bounds": {
+      "x": 435,
+      "y": 0,
+      "width": 390,
+      "height": 9145
+    },
+    "background_color": "#FFFFFF",
+    "width": 390,
+    "height": 9145
+  },
+  "styles": {
+    "colors": [
+      "#000000",
+      "#1E1E1E",
+      "#414141",
+      "#5C4646",
+      "#877A7A",
+      "#A7A7A7",
+      "#D9D9D9",
+      "#E9E2D7",
+      "#FFFFFF"
+    ],
+    "fonts": [
+      "Arimo Hebrew Subset Italic Bold Italic 20px",
+      "Arimo Hebrew Subset Italic Italic 11px",
+      "Circe Bold 10px",
+      "Circe Bold 15px",
+      "Circe Bold 19px",
+      "Circe Bold 20px",
+      "Circe Bold 30px",
+      "Circe ExtraLight 10px",
+      "Circe Light 10px",
+      "Circe Light 12px",
+      "Circe Light 15px",
+      "Circe Light 20px",
+      "Circe Regular 10px",
+      "Circe Regular 15px",
+      "Circe Regular 20px",
+      "Circe Regular 23px",
+      "Circe Regular 9px",
+      "Circe Regular mixedpx",
+      "FK Davinci Regular 25px",
+      "mixed mixed 11px",
+      "mixed mixed 15px",
+      "mixed mixed 20px",
+      "mixed mixed mixedpx"
+    ],
+    "global_styles": {
+      "paints": [
+        {
+          "id": "S:1b38ff213be3e066d52239db74365f7f29579d5e,",
+          "name": "estno.ru/Alto",
+          "paints": [
+            {
+              "type": "SOLID",
+              "visible": true,
+              "opacity": 1,
+              "blendMode": "NORMAL",
+              "color": {
+                "r": 0.8784313797950745,
+                "g": 0.8784313797950745,
+                "b": 0.8784313797950745
+              },
+              "boundVariables": {
+                "color": {
+                  "type": "VARIABLE_ALIAS",
+                  "id": "VariableID:4:680"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "S:c3564069f253fbe2700c9781fcfc10a02596eb85,",
+          "name": "estno.ru/Black",
+          "paints": [
+            {
+              "type": "SOLID",
+              "visible": true,
+              "opacity": 1,
+              "blendMode": "NORMAL",
+              "color": {
+                "r": 0,
+                "g": 0,
+                "b": 0
+              },
+              "boundVariables": {
+                "color": {
+                  "type": "VARIABLE_ALIAS",
+                  "id": "VariableID:4:865"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "S:086f9300354687e1f9f08583b8d058fd95129354,",
+          "name": "estno.ru/Bronco",
+          "paints": [
+            {
+              "type": "SOLID",
+              "visible": true,
+              "opacity": 1,
+              "blendMode": "NORMAL",
+              "color": {
+                "r": 0.6784313917160034,
+                "g": 0.6274510025978088,
+                "b": 0.5960784554481506
+              },
+              "boundVariables": {
+                "color": {
+                  "type": "VARIABLE_ALIAS",
+                  "id": "VariableID:4:338"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "S:f1f51a9c07b1e0897879d7146cbd8cfb071e1095,",
+          "name": "estno.ru/Bronco",
+          "paints": [
+            {
+              "type": "SOLID",
+              "visible": true,
+              "opacity": 1,
+              "blendMode": "NORMAL",
+              "color": {
+                "r": 0.6666666865348816,
+                "g": 0.6313725709915161,
+                "b": 0.5843137502670288
+              },
+              "boundVariables": {
+                "color": {
+                  "type": "VARIABLE_ALIAS",
+                  "id": "VariableID:4:393"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "S:a7ea002a90ab3f418e46e824646f8fbcc9d6760c,",
+          "name": "estno.ru/Emperor",
+          "paints": [
+            {
+              "type": "SOLID",
+              "visible": true,
+              "opacity": 1,
+              "blendMode": "NORMAL",
+              "color": {
+                "r": 0.3294117748737335,
+                "g": 0.3294117748737335,
+                "b": 0.3294117748737335
+              },
+              "boundVariables": {
+                "color": {
+                  "type": "VARIABLE_ALIAS",
+                  "id": "VariableID:4:318"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "S:484d2481d4a14d8fa30d1956e29c87708e362c94,",
+          "name": "estno.ru/Emperor",
+          "paints": [
+            {
+              "type": "SOLID",
+              "visible": true,
+              "opacity": 1,
+              "blendMode": "NORMAL",
+              "color": {
+                "r": 0.32156863808631897,
+                "g": 0.32156863808631897,
+                "b": 0.32156863808631897
+              },
+              "boundVariables": {
+                "color": {
+                  "type": "VARIABLE_ALIAS",
+                  "id": "VariableID:4:319"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "S:1c7ad0bf36545031411dc3ed9a65da239819b6a2,",
+          "name": "estno.ru/Gallery",
+          "paints": [
+            {
+              "type": "SOLID",
+              "visible": true,
+              "opacity": 1,
+              "blendMode": "NORMAL",
+              "color": {
+                "r": 0.9333333373069763,
+                "g": 0.9333333373069763,
+                "b": 0.9333333373069763
+              },
+              "boundVariables": {
+                "color": {
+                  "type": "VARIABLE_ALIAS",
+                  "id": "VariableID:4:353"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "S:6ae79b740eac4802a2f08ed1f1c40f69a65c834d,",
+          "name": "estno.ru/Gallery",
+          "paints": [
+            {
+              "type": "SOLID",
+              "visible": true,
+              "opacity": 1,
+              "blendMode": "NORMAL",
+              "color": {
+                "r": 0.9411764740943909,
+                "g": 0.9411764740943909,
+                "b": 0.9411764740943909
+              },
+              "boundVariables": {
+                "color": {
+                  "type": "VARIABLE_ALIAS",
+                  "id": "VariableID:4:512"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "S:609895a3d38771a861f1ae8fd74f5847e9636291,",
+          "name": "estno.ru/Gray",
+          "paints": [
+            {
+              "type": "SOLID",
+              "visible": true,
+              "opacity": 1,
+              "blendMode": "NORMAL",
+              "color": {
+                "r": 0.5254902243614197,
+                "g": 0.5254902243614197,
+                "b": 0.5254902243614197
+              },
+              "boundVariables": {
+                "color": {
+                  "type": "VARIABLE_ALIAS",
+                  "id": "VariableID:4:330"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "S:24ad1b2730119ba2312c554692c44eef74247f09,",
+          "name": "estno.ru/Gray",
+          "paints": [
+            {
+              "type": "SOLID",
+              "visible": true,
+              "opacity": 1,
+              "blendMode": "NORMAL",
+              "color": {
+                "r": 0.5411764979362488,
+                "g": 0.5411764979362488,
+                "b": 0.5411764979362488
+              },
+              "boundVariables": {
+                "color": {
+                  "type": "VARIABLE_ALIAS",
+                  "id": "VariableID:4:331"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "S:e3a3a22bb08e3ca87506ff95943d073e8a7e7117,",
+          "name": "estno.ru/Mine Shaft",
+          "paints": [
+            {
+              "type": "SOLID",
+              "visible": true,
+              "opacity": 1,
+              "blendMode": "NORMAL",
+              "color": {
+                "r": 0.13333334028720856,
+                "g": 0.13333334028720856,
+                "b": 0.13333334028720856
+              },
+              "boundVariables": {
+                "color": {
+                  "type": "VARIABLE_ALIAS",
+                  "id": "VariableID:4:378"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "S:5f189ade278b1f2c5a8b988ed00047a807f41275,",
+          "name": "estno.ru/Mine Shaft",
+          "paints": [
+            {
+              "type": "SOLID",
+              "visible": true,
+              "opacity": 1,
+              "blendMode": "NORMAL",
+              "color": {
+                "r": 0.1411764770746231,
+                "g": 0.1411764770746231,
+                "b": 0.1411764770746231
+              },
+              "boundVariables": {
+                "color": {
+                  "type": "VARIABLE_ALIAS",
+                  "id": "VariableID:4:582"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "S:e6f42ca0341e34b643a6e7296ebc74ad8580c6ea,",
+          "name": "estno.ru/Mine Shaft",
+          "paints": [
+            {
+              "type": "SOLID",
+              "visible": true,
+              "opacity": 1,
+              "blendMode": "NORMAL",
+              "color": {
+                "r": 0.1411764770746231,
+                "g": 0.1411764770746231,
+                "b": 0.1411764770746231
+              },
+              "boundVariables": {
+                "color": {
+                  "type": "VARIABLE_ALIAS",
+                  "id": "VariableID:4:582"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "S:a8f56297409a443febfbfc10e63e36e46bb28426,",
+          "name": "estno.ru/Silver",
+          "paints": [
+            {
+              "type": "SOLID",
+              "visible": true,
+              "opacity": 1,
+              "blendMode": "NORMAL",
+              "color": {
+                "r": 0.7450980544090271,
+                "g": 0.7450980544090271,
+                "b": 0.7450980544090271
+              },
+              "boundVariables": {
+                "color": {
+                  "type": "VARIABLE_ALIAS",
+                  "id": "VariableID:4:409"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "S:66fef5cc582fbb337403227c7786d50ac22c88de,",
+          "name": "estno.ru/Silver",
+          "paints": [
+            {
+              "type": "SOLID",
+              "visible": true,
+              "opacity": 1,
+              "blendMode": "NORMAL",
+              "color": {
+                "r": 0.7333333492279053,
+                "g": 0.7333333492279053,
+                "b": 0.7333333492279053
+              },
+              "boundVariables": {
+                "color": {
+                  "type": "VARIABLE_ALIAS",
+                  "id": "VariableID:4:729"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "S:e5b5658f93b1c3ab8695c1472d82ea6ab439ebf5,",
+          "name": "estno.ru/Silver",
+          "paints": [
+            {
+              "type": "SOLID",
+              "visible": true,
+              "opacity": 1,
+              "blendMode": "NORMAL",
+              "color": {
+                "r": 0.7450980544090271,
+                "g": 0.7450980544090271,
+                "b": 0.7450980544090271
+              },
+              "boundVariables": {
+                "color": {
+                  "type": "VARIABLE_ALIAS",
+                  "id": "VariableID:4:409"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "S:a1a2c495c04d4018aa9de2348c7469b0a402919e,",
+          "name": "estno.ru/Silver Chalice",
+          "paints": [
+            {
+              "type": "SOLID",
+              "visible": true,
+              "opacity": 1,
+              "blendMode": "NORMAL",
+              "color": {
+                "r": 0.6313725709915161,
+                "g": 0.6313725709915161,
+                "b": 0.6313725709915161
+              },
+              "boundVariables": {
+                "color": {
+                  "type": "VARIABLE_ALIAS",
+                  "id": "VariableID:4:288"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "S:f573145b746e15d53b130125c969f25eef8c0de0,",
+          "name": "estno.ru/Tundora",
+          "paints": [
+            {
+              "type": "SOLID",
+              "visible": true,
+              "opacity": 1,
+              "blendMode": "NORMAL",
+              "color": {
+                "r": 0.2705882489681244,
+                "g": 0.2705882489681244,
+                "b": 0.2705882489681244
+              },
+              "boundVariables": {
+                "color": {
+                  "type": "VARIABLE_ALIAS",
+                  "id": "VariableID:4:278"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "S:9c69ae9a233576b64764c4bcbdf2f57c6110ebec,",
+          "name": "estno.ru/White",
+          "paints": [
+            {
+              "type": "SOLID",
+              "visible": true,
+              "opacity": 1,
+              "blendMode": "NORMAL",
+              "color": {
+                "r": 1,
+                "g": 1,
+                "b": 1
+              },
+              "boundVariables": {
+                "color": {
+                  "type": "VARIABLE_ALIAS",
+                  "id": "VariableID:4:298"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "S:b6b9e2a5723cb95d497ba01d5ce6ee22407f7925,",
+          "name": "estno.ru/Westar",
+          "paints": [
+            {
+              "type": "SOLID",
+              "visible": true,
+              "opacity": 1,
+              "blendMode": "NORMAL",
+              "color": {
+                "r": 0.8627451062202454,
+                "g": 0.8470588326454163,
+                "b": 0.8274509906768799
+              },
+              "boundVariables": {
+                "color": {
+                  "type": "VARIABLE_ALIAS",
+                  "id": "VariableID:4:886"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "S:0ffdffea47d79ded8b6ec420af9fe70169c05f2d,",
+          "name": "estno.ru/White Gallery",
+          "paints": [
+            {
+              "type": "SOLID",
+              "visible": true,
+              "opacity": 1,
+              "blendMode": "NORMAL",
+              "color": {
+                "r": 1,
+                "g": 1,
+                "b": 1
+              },
+              "boundVariables": {
+                "color": {
+                  "type": "VARIABLE_ALIAS",
+                  "id": "VariableID:4:298"
+                }
+              }
+            },
+            {
+              "type": "SOLID",
+              "visible": true,
+              "opacity": 1,
+              "blendMode": "NORMAL",
+              "color": {
+                "r": 0.9411764740943909,
+                "g": 0.9411764740943909,
+                "b": 0.9411764740943909
+              },
+              "boundVariables": {
+                "color": {
+                  "type": "VARIABLE_ALIAS",
+                  "id": "VariableID:4:512"
+                }
+              }
+            }
+          ]
+        }
+      ],
+      "text": [
+        {
+          "id": "S:0e986d97fcc1449288c5df40bc4d23f6d71bf9bb,",
+          "name": "estno.ru/Manrope/Bold upper",
+          "fontSize": 18,
+          "fontName": {
+            "family": "Manrope",
+            "style": "Bold"
+          },
+          "textDecoration": "NONE",
+          "lineHeight": {
+            "unit": "PIXELS",
+            "value": 27.899999618530273
+          },
+          "letterSpacing": {
+            "unit": "PERCENT",
+            "value": 0
+          }
+        },
+        {
+          "id": "S:ee36030a1ee9c1dfc953c555f7a42e207a7d461e,",
+          "name": "estno.ru/Manrope/Medium",
+          "fontSize": 16,
+          "fontName": {
+            "family": "Manrope",
+            "style": "Medium"
+          },
+          "textDecoration": "NONE",
+          "lineHeight": {
+            "unit": "PIXELS",
+            "value": 21.600000381469727
+          },
+          "letterSpacing": {
+            "unit": "PERCENT",
+            "value": 0
+          }
+        },
+        {
+          "id": "S:40761de49bd5d167806bf88e2c3a3636d877d490,",
+          "name": "estno.ru/Manrope/Regular",
+          "fontSize": 10.000001907348633,
+          "fontName": {
+            "family": "Manrope",
+            "style": "Regular"
+          },
+          "textDecoration": "NONE",
+          "lineHeight": {
+            "unit": "PIXELS",
+            "value": 14
+          },
+          "letterSpacing": {
+            "unit": "PERCENT",
+            "value": 0
+          }
+        },
+        {
+          "id": "S:7f0f09090dd4f75de4d18796b80a28e37edd4560,",
+          "name": "estno.ru/Manrope/Regular",
+          "fontSize": 18,
+          "fontName": {
+            "family": "Manrope",
+            "style": "Regular"
+          },
+          "textDecoration": "NONE",
+          "lineHeight": {
+            "unit": "PIXELS",
+            "value": 26
+          },
+          "letterSpacing": {
+            "unit": "PERCENT",
+            "value": 0
+          }
+        },
+        {
+          "id": "S:c341c6cf82c85f7c250487b3330b1f30d4b94f8b,",
+          "name": "estno.ru/Manrope/SemiBold",
+          "fontSize": 10.000001907348633,
+          "fontName": {
+            "family": "Manrope",
+            "style": "SemiBold"
+          },
+          "textDecoration": "NONE",
+          "lineHeight": {
+            "unit": "PIXELS",
+            "value": 14
+          },
+          "letterSpacing": {
+            "unit": "PERCENT",
+            "value": 0
+          }
+        },
+        {
+          "id": "S:b2ee336107ec293df77c37c980e5c47b4903e05c,",
+          "name": "estno.ru/Manrope/SemiBold",
+          "fontSize": 18,
+          "fontName": {
+            "family": "Manrope",
+            "style": "SemiBold"
+          },
+          "textDecoration": "NONE",
+          "lineHeight": {
+            "unit": "PIXELS",
+            "value": 25
+          },
+          "letterSpacing": {
+            "unit": "PERCENT",
+            "value": 0
+          }
+        },
+        {
+          "id": "S:915a672a16e01bc630cffe8a5fd5616bcd5a99ac,",
+          "name": "estno.ru/Manrope/SemiBold",
+          "fontSize": 18,
+          "fontName": {
+            "family": "Manrope",
+            "style": "SemiBold"
+          },
+          "textDecoration": "NONE",
+          "lineHeight": {
+            "unit": "PIXELS",
+            "value": 26
+          },
+          "letterSpacing": {
+            "unit": "PERCENT",
+            "value": 0
+          }
+        },
+        {
+          "id": "S:a9b04ee045f8c5416ebf1123f42ce4d0513635a8,",
+          "name": "estno.ru/Manrope/SemiBold upper",
+          "fontSize": 16,
+          "fontName": {
+            "family": "Manrope",
+            "style": "SemiBold"
+          },
+          "textDecoration": "NONE",
+          "lineHeight": {
+            "unit": "PIXELS",
+            "value": 24.799999237060547
+          },
+          "letterSpacing": {
+            "unit": "PERCENT",
+            "value": 0
+          }
+        },
+        {
+          "id": "S:2b47033aec0286ff6a451e3ab0e8fe5d886e470b,",
+          "name": "estno.ru/Manrope/SemiBold upper",
+          "fontSize": 18,
+          "fontName": {
+            "family": "Manrope",
+            "style": "SemiBold"
+          },
+          "textDecoration": "NONE",
+          "lineHeight": {
+            "unit": "PIXELS",
+            "value": 27.899999618530273
+          },
+          "letterSpacing": {
+            "unit": "PERCENT",
+            "value": 0
+          }
+        },
+        {
+          "id": "S:c3912ffe215559dc567cb52a8971c60fb736314e,",
+          "name": "estno.ru/Manrope/Regular",
+          "fontSize": 16,
+          "fontName": {
+            "family": "Manrope",
+            "style": "Regular"
+          },
+          "textDecoration": "NONE",
+          "lineHeight": {
+            "unit": "PIXELS",
+            "value": 25
+          },
+          "letterSpacing": {
+            "unit": "PERCENT",
+            "value": 0
+          }
+        },
+        {
+          "id": "S:7a44cf1ca2c47dbd36de3f7fd93421e5174e89b0,",
+          "name": "estno.ru/Onest/Bold",
+          "fontSize": 40,
+          "fontName": {
+            "family": "Onest",
+            "style": "Bold"
+          },
+          "textDecoration": "NONE",
+          "lineHeight": {
+            "unit": "PIXELS",
+            "value": 62
+          },
+          "letterSpacing": {
+            "unit": "PERCENT",
+            "value": 0
+          }
+        },
+        {
+          "id": "S:b187e5cae9a5e5d80a02fa33c592d43cd527bcfd,",
+          "name": "estno.ru/Onest/Regular upper",
+          "fontSize": 33,
+          "fontName": {
+            "family": "Onest",
+            "style": "Regular"
+          },
+          "textDecoration": "NONE",
+          "lineHeight": {
+            "unit": "PIXELS",
+            "value": 51
+          },
+          "letterSpacing": {
+            "unit": "PERCENT",
+            "value": 0
+          }
+        },
+        {
+          "id": "S:bdb69f9986bc6bf67e0134a23d9a40dbdd2005d4,",
+          "name": "estno.ru/Onest/Bold",
+          "fontSize": 30,
+          "fontName": {
+            "family": "Onest",
+            "style": "Bold"
+          },
+          "textDecoration": "NONE",
+          "lineHeight": {
+            "unit": "PIXELS",
+            "value": 47
+          },
+          "letterSpacing": {
+            "unit": "PERCENT",
+            "value": 0
+          }
+        },
+        {
+          "id": "S:45ca0b48964555b08c494c8cff852723cb3252e8,",
+          "name": "estno.ru/Onest/Bold",
+          "fontSize": 30,
+          "fontName": {
+            "family": "Onest",
+            "style": "Bold"
+          },
+          "textDecoration": "NONE",
+          "lineHeight": {
+            "unit": "PIXELS",
+            "value": 36
+          },
+          "letterSpacing": {
+            "unit": "PERCENT",
+            "value": 0
+          }
+        },
+        {
+          "id": "S:ffc4691d3d0590ffbbf2e97e43858c7d6a0d3d44,",
+          "name": "estno.ru/Onest/Regular upper",
+          "fontSize": 33,
+          "fontName": {
+            "family": "Onest",
+            "style": "Regular"
+          },
+          "textDecoration": "NONE",
+          "lineHeight": {
+            "unit": "PIXELS",
+            "value": 43
+          },
+          "letterSpacing": {
+            "unit": "PERCENT",
+            "value": 0
+          }
+        },
+        {
+          "id": "S:bc89a4f9042ab6d7d0e7471acc87539549ddc559,",
+          "name": "estno.ru/Onest/Bold",
+          "fontSize": 21,
+          "fontName": {
+            "family": "Onest",
+            "style": "Bold"
+          },
+          "textDecoration": "NONE",
+          "lineHeight": {
+            "unit": "PIXELS",
+            "value": 30
+          },
+          "letterSpacing": {
+            "unit": "PERCENT",
+            "value": 0
+          }
+        },
+        {
+          "id": "S:b87dc8c3587929cb1297a6cbbe488de4ea8411ba,",
+          "name": "estno.ru/Semantic/Button",
+          "fontSize": 16,
+          "fontName": {
+            "family": "Manrope",
+            "style": "Bold"
+          },
+          "textDecoration": "NONE",
+          "lineHeight": {
+            "unit": "AUTO"
+          },
+          "letterSpacing": {
+            "unit": "PERCENT",
+            "value": 0
+          }
+        },
+        {
+          "id": "S:21077c8599c1549f036b0c3d79d9769246844989,",
+          "name": "estno.ru/Semantic/Heading 1 upper",
+          "fontSize": 33,
+          "fontName": {
+            "family": "Onest",
+            "style": "SemiBold"
+          },
+          "textDecoration": "NONE",
+          "lineHeight": {
+            "unit": "PIXELS",
+            "value": 51
+          },
+          "letterSpacing": {
+            "unit": "PERCENT",
+            "value": 0
+          }
+        },
+        {
+          "id": "S:701a80597974514538621b430caea14d0219a7de,",
+          "name": "estno.ru/Semantic/Heading 2",
+          "fontSize": 16,
+          "fontName": {
+            "family": "Manrope",
+            "style": "Regular"
+          },
+          "textDecoration": "NONE",
+          "lineHeight": {
+            "unit": "PIXELS",
+            "value": 25
+          },
+          "letterSpacing": {
+            "unit": "PERCENT",
+            "value": 0
+          }
+        },
+        {
+          "id": "S:a11ffb672f91d9434ff6167a52e42801668dbd0c,",
+          "name": "estno.ru/Semantic/Heading 3",
+          "fontSize": 18,
+          "fontName": {
+            "family": "Manrope",
+            "style": "Regular"
+          },
+          "textDecoration": "NONE",
+          "lineHeight": {
+            "unit": "PIXELS",
+            "value": 25
+          },
+          "letterSpacing": {
+            "unit": "PERCENT",
+            "value": 0
+          }
+        },
+        {
+          "id": "S:f94448d207454b8993acdb317ef3734187aa9405,",
+          "name": "estno.ru/Semantic/Heading 3",
+          "fontSize": 18,
+          "fontName": {
+            "family": "Manrope",
+            "style": "SemiBold"
+          },
+          "textDecoration": "NONE",
+          "lineHeight": {
+            "unit": "PIXELS",
+            "value": 25
+          },
+          "letterSpacing": {
+            "unit": "PERCENT",
+            "value": 0
+          }
+        },
+        {
+          "id": "S:5ae3fd43f8afe0ce2feecaf641641dc20158de0f,",
+          "name": "estno.ru/Semantic/Input",
+          "fontSize": 16,
+          "fontName": {
+            "family": "Manrope",
+            "style": "Regular"
+          },
+          "textDecoration": "NONE",
+          "lineHeight": {
+            "unit": "AUTO"
+          },
+          "letterSpacing": {
+            "unit": "PERCENT",
+            "value": 0
+          }
+        },
+        {
+          "id": "S:1afc833f9f2fa4cbfb76d789fd06e87744968220,",
+          "name": "estno.ru/Semantic/Item",
+          "fontSize": 18,
+          "fontName": {
+            "family": "Manrope",
+            "style": "Regular"
+          },
+          "textDecoration": "NONE",
+          "lineHeight": {
+            "unit": "PIXELS",
+            "value": 25
+          },
+          "letterSpacing": {
+            "unit": "PERCENT",
+            "value": 0
+          }
+        },
+        {
+          "id": "S:1fdcffe8a32e54fc1ba5d162b2280368267ca22b,",
+          "name": "estno.ru/Semantic/Link",
+          "fontSize": 14,
+          "fontName": {
+            "family": "Manrope",
+            "style": "Regular"
+          },
+          "textDecoration": "NONE",
+          "lineHeight": {
+            "unit": "PIXELS",
+            "value": 18
+          },
+          "letterSpacing": {
+            "unit": "PERCENT",
+            "value": 0
+          }
+        },
+        {
+          "id": "S:a4160b6f414b744719b287b3e53794f0e30af6c1,",
+          "name": "estno.ru/Semantic/Link",
+          "fontSize": 16,
+          "fontName": {
+            "family": "Manrope",
+            "style": "Bold"
+          },
+          "textDecoration": "NONE",
+          "lineHeight": {
+            "unit": "PIXELS",
+            "value": 25
+          },
+          "letterSpacing": {
+            "unit": "PERCENT",
+            "value": 0
+          }
+        },
+        {
+          "id": "S:ef1c41a719ee880bab3ec0d21b714761a6eaf4b1,",
+          "name": "estno.ru/Semantic/Link underline",
+          "fontSize": 14,
+          "fontName": {
+            "family": "Manrope",
+            "style": "Regular"
+          },
+          "textDecoration": "UNDERLINE",
+          "lineHeight": {
+            "unit": "PIXELS",
+            "value": 18
+          },
+          "letterSpacing": {
+            "unit": "PERCENT",
+            "value": 0
+          }
+        },
+        {
+          "id": "S:bc0c4e5478542ad7504eeb0fcf23875c248ea8b1,",
+          "name": "estno.ru/Semantic/Strikethrough strikethrough",
+          "fontSize": 14,
+          "fontName": {
+            "family": "Manrope",
+            "style": "Regular"
+          },
+          "textDecoration": "STRIKETHROUGH",
+          "lineHeight": {
+            "unit": "PIXELS",
+            "value": 22
+          },
+          "letterSpacing": {
+            "unit": "PERCENT",
+            "value": 0
+          }
+        }
+      ],
+      "effects": [],
+      "grids": []
+    },
+    "variables": {
+      "collections": [
+        {
+          "id": "VariableCollectionId:4:275",
+          "name": "estno.ru",
+          "modes": [
+            {
+              "modeId": "4:0",
+              "name": "Mode 1"
+            }
+          ],
+          "variables": [
+            {
+              "id": "VariableID:4:277",
+              "name": "stroke weight/0_83",
+              "resolvedType": "FLOAT",
+              "valuesByMode": {
+                "4:0": 0.8333330154418945
+              }
+            },
+            {
+              "id": "VariableID:4:278",
+              "name": "color/grey/27",
+              "resolvedType": "COLOR",
+              "valuesByMode": {
+                "4:0": {
+                  "type": "COLOR",
+                  "r": 0.2705882489681244,
+                  "g": 0.2705882489681244,
+                  "b": 0.2705882489681244,
+                  "a": 1
+                }
+              }
+            },
+            {
+              "id": "VariableID:4:281",
+              "name": "font family/Font 1",
+              "resolvedType": "STRING",
+              "valuesByMode": {
+                "4:0": "Manrope"
+              }
+            },
+            {
+              "id": "VariableID:4:282",
+              "name": "font size/16",
+              "resolvedType": "FLOAT",
+              "valuesByMode": {
+                "4:0": 16
+              }
+            },
+            {
+              "id": "VariableID:4:283",
+              "name": "font weight/400",
+              "resolvedType": "FLOAT",
+              "valuesByMode": {
+                "4:0": 400
+              }
+            },
+            {
+              "id": "VariableID:4:284",
+              "name": "line height/25",
+              "resolvedType": "FLOAT",
+              "valuesByMode": {
+                "4:0": 25
+              }
+            },
+            {
+              "id": "VariableID:4:288",
+              "name": "color/grey/63",
+              "resolvedType": "COLOR",
+              "valuesByMode": {
+                "4:0": {
+                  "type": "COLOR",
+                  "r": 0.6313725709915161,
+                  "g": 0.6313725709915161,
+                  "b": 0.6313725709915161,
+                  "a": 1
+                }
+              }
+            },
+            {
+              "id": "VariableID:4:296",
+              "name": "stroke weight/1",
+              "resolvedType": "FLOAT",
+              "valuesByMode": {
+                "4:0": 1
+              }
+            },
+            {
+              "id": "VariableID:4:297",
+              "name": "opacity/100",
+              "resolvedType": "FLOAT",
+              "valuesByMode": {
+                "4:0": 100
+              }
+            },
+            {
+              "id": "VariableID:4:298",
+              "name": "color/white/solid",
+              "resolvedType": "COLOR",
+              "valuesByMode": {
+                "4:0": {
+                  "type": "COLOR",
+                  "r": 1,
+                  "g": 1,
+                  "b": 1,
+                  "a": 1
+                }
+              }
+            },
+            {
+              "id": "VariableID:4:318",
+              "name": "color/grey/33",
+              "resolvedType": "COLOR",
+              "valuesByMode": {
+                "4:0": {
+                  "type": "COLOR",
+                  "r": 0.3294117748737335,
+                  "g": 0.3294117748737335,
+                  "b": 0.3294117748737335,
+                  "a": 1
+                }
+              }
+            },
+            {
+              "id": "VariableID:4:319",
+              "name": "color/grey/32",
+              "resolvedType": "COLOR",
+              "valuesByMode": {
+                "4:0": {
+                  "type": "COLOR",
+                  "r": 0.32156863808631897,
+                  "g": 0.32156863808631897,
+                  "b": 0.32156863808631897,
+                  "a": 1
+                }
+              }
+            },
+            {
+              "id": "VariableID:4:329",
+              "name": "stroke weight/0_8",
+              "resolvedType": "FLOAT",
+              "valuesByMode": {
+                "4:0": 0.8013421297073364
+              }
+            },
+            {
+              "id": "VariableID:4:330",
+              "name": "color/grey/53",
+              "resolvedType": "COLOR",
+              "valuesByMode": {
+                "4:0": {
+                  "type": "COLOR",
+                  "r": 0.5254902243614197,
+                  "g": 0.5254902243614197,
+                  "b": 0.5254902243614197,
+                  "a": 1
+                }
+              }
+            },
+            {
+              "id": "VariableID:4:331",
+              "name": "color/grey/54",
+              "resolvedType": "COLOR",
+              "valuesByMode": {
+                "4:0": {
+                  "type": "COLOR",
+                  "r": 0.5411764979362488,
+                  "g": 0.5411764979362488,
+                  "b": 0.5411764979362488,
+                  "a": 1
+                }
+              }
+            },
+            {
+              "id": "VariableID:4:338",
+              "name": "color/orange/64",
+              "resolvedType": "COLOR",
+              "valuesByMode": {
+                "4:0": {
+                  "type": "COLOR",
+                  "r": 0.6784313917160034,
+                  "g": 0.6274510025978088,
+                  "b": 0.5960784554481506,
+                  "a": 1
+                }
+              }
+            },
+            {
+              "id": "VariableID:4:348",
+              "name": "stroke weight/1_43",
+              "resolvedType": "FLOAT",
+              "valuesByMode": {
+                "4:0": 1.4285714626312256
+              }
+            },
+            {
+              "id": "VariableID:4:352",
+              "name": "stroke weight/52_99",
+              "resolvedType": "FLOAT",
+              "valuesByMode": {
+                "4:0": 52.99197006225586
+              }
+            },
+            {
+              "id": "VariableID:4:353",
+              "name": "color/grey/93",
+              "resolvedType": "COLOR",
+              "valuesByMode": {
+                "4:0": {
+                  "type": "COLOR",
+                  "r": 0.9333333373069763,
+                  "g": 0.9333333373069763,
+                  "b": 0.9333333373069763,
+                  "a": 1
+                }
+              }
+            },
+            {
+              "id": "VariableID:4:358",
+              "name": "stroke weight/0_99",
+              "resolvedType": "FLOAT",
+              "valuesByMode": {
+                "4:0": 0.9938178658485413
+              }
+            },
+            {
+              "id": "VariableID:4:362",
+              "name": "stroke weight/1_5",
+              "resolvedType": "FLOAT",
+              "valuesByMode": {
+                "4:0": 1.4957000017166138
+              }
+            },
+            {
+              "id": "VariableID:4:366",
+              "name": "stroke weight/1_01",
+              "resolvedType": "FLOAT",
+              "valuesByMode": {
+                "4:0": 1.008237361907959
+              }
+            },
+            {
+              "id": "VariableID:4:370",
+              "name": "stroke weight/1_02",
+              "resolvedType": "FLOAT",
+              "valuesByMode": {
+                "4:0": 1.021276593208313
+              }
+            },
+            {
+              "id": "VariableID:4:377",
+              "name": "stroke weight/2",
+              "resolvedType": "FLOAT",
+              "valuesByMode": {
+                "4:0": 2
+              }
+            },
+            {
+              "id": "VariableID:4:378",
+              "name": "color/grey/13",
+              "resolvedType": "COLOR",
+              "valuesByMode": {
+                "4:0": {
+                  "type": "COLOR",
+                  "r": 0.13333334028720856,
+                  "g": 0.13333334028720856,
+                  "b": 0.13333334028720856,
+                  "a": 1
+                }
+              }
+            },
+            {
+              "id": "VariableID:4:388",
+              "name": "font size/18",
+              "resolvedType": "FLOAT",
+              "valuesByMode": {
+                "4:0": 18
+              }
+            },
+            {
+              "id": "VariableID:4:389",
+              "name": "font weight/700",
+              "resolvedType": "FLOAT",
+              "valuesByMode": {
+                "4:0": 700
+              }
+            },
+            {
+              "id": "VariableID:4:390",
+              "name": "line height/27_9",
+              "resolvedType": "FLOAT",
+              "valuesByMode": {
+                "4:0": 27.899999618530273
+              }
+            },
+            {
+              "id": "VariableID:4:393",
+              "name": "color/orange/63",
+              "resolvedType": "COLOR",
+              "valuesByMode": {
+                "4:0": {
+                  "type": "COLOR",
+                  "r": 0.6666666865348816,
+                  "g": 0.6313725709915161,
+                  "b": 0.5843137502670288,
+                  "a": 1
+                }
+              }
+            },
+            {
+              "id": "VariableID:4:398",
+              "name": "font weight/600",
+              "resolvedType": "FLOAT",
+              "valuesByMode": {
+                "4:0": 600
+              }
+            },
+            {
+              "id": "VariableID:4:404",
+              "name": "line height/24_8",
+              "resolvedType": "FLOAT",
+              "valuesByMode": {
+                "4:0": 24.799999237060547
+              }
+            },
+            {
+              "id": "VariableID:4:409",
+              "name": "color/grey/75",
+              "resolvedType": "COLOR",
+              "valuesByMode": {
+                "4:0": {
+                  "type": "COLOR",
+                  "r": 0.7450980544090271,
+                  "g": 0.7450980544090271,
+                  "b": 0.7450980544090271,
+                  "a": 1
+                }
+              }
+            },
+            {
+              "id": "VariableID:4:413",
+              "name": "width/1000",
+              "resolvedType": "FLOAT",
+              "valuesByMode": {
+                "4:0": 1000
+              }
+            },
+            {
+              "id": "VariableID:4:415",
+              "name": "font weight/500",
+              "resolvedType": "FLOAT",
+              "valuesByMode": {
+                "4:0": 500
+              }
+            },
+            {
+              "id": "VariableID:4:416",
+              "name": "line height/21_6",
+              "resolvedType": "FLOAT",
+              "valuesByMode": {
+                "4:0": 21.600000381469727
+              }
+            },
+            {
+              "id": "VariableID:4:512",
+              "name": "color/grey/94",
+              "resolvedType": "COLOR",
+              "valuesByMode": {
+                "4:0": {
+                  "type": "COLOR",
+                  "r": 0.9411764740943909,
+                  "g": 0.9411764740943909,
+                  "b": 0.9411764740943909,
+                  "a": 1
+                }
+              }
+            },
+            {
+              "id": "VariableID:4:516",
+              "name": "width/1920",
+              "resolvedType": "FLOAT",
+              "valuesByMode": {
+                "4:0": 1920
+              }
+            },
+            {
+              "id": "VariableID:4:525",
+              "name": "font family/Font 2",
+              "resolvedType": "STRING",
+              "valuesByMode": {
+                "4:0": "Onest"
+              }
+            },
+            {
+              "id": "VariableID:4:526",
+              "name": "font size/40",
+              "resolvedType": "FLOAT",
+              "valuesByMode": {
+                "4:0": 40
+              }
+            },
+            {
+              "id": "VariableID:4:527",
+              "name": "line height/62",
+              "resolvedType": "FLOAT",
+              "valuesByMode": {
+                "4:0": 62
+              }
+            },
+            {
+              "id": "VariableID:4:536",
+              "name": "font size/14",
+              "resolvedType": "FLOAT",
+              "valuesByMode": {
+                "4:0": 14
+              }
+            },
+            {
+              "id": "VariableID:4:537",
+              "name": "line height/22",
+              "resolvedType": "FLOAT",
+              "valuesByMode": {
+                "4:0": 22
+              }
+            },
+            {
+              "id": "VariableID:4:582",
+              "name": "color/grey/14",
+              "resolvedType": "COLOR",
+              "valuesByMode": {
+                "4:0": {
+                  "type": "COLOR",
+                  "r": 0.1411764770746231,
+                  "g": 0.1411764770746231,
+                  "b": 0.1411764770746231,
+                  "a": 1
+                }
+              }
+            },
+            {
+              "id": "VariableID:4:588",
+              "name": "font size/33",
+              "resolvedType": "FLOAT",
+              "valuesByMode": {
+                "4:0": 33
+              }
+            },
+            {
+              "id": "VariableID:4:589",
+              "name": "line height/51",
+              "resolvedType": "FLOAT",
+              "valuesByMode": {
+                "4:0": 51
+              }
+            },
+            {
+              "id": "VariableID:4:637",
+              "name": "font size/30",
+              "resolvedType": "FLOAT",
+              "valuesByMode": {
+                "4:0": 30
+              }
+            },
+            {
+              "id": "VariableID:4:638",
+              "name": "line height/47",
+              "resolvedType": "FLOAT",
+              "valuesByMode": {
+                "4:0": 47
+              }
+            },
+            {
+              "id": "VariableID:4:652",
+              "name": "width/1160",
+              "resolvedType": "FLOAT",
+              "valuesByMode": {
+                "4:0": 1160
+              }
+            },
+            {
+              "id": "VariableID:4:678",
+              "name": "item spacing/10",
+              "resolvedType": "FLOAT",
+              "valuesByMode": {
+                "4:0": 10
+              }
+            },
+            {
+              "id": "VariableID:4:680",
+              "name": "color/grey/88",
+              "resolvedType": "COLOR",
+              "valuesByMode": {
+                "4:0": {
+                  "type": "COLOR",
+                  "r": 0.8784313797950745,
+                  "g": 0.8784313797950745,
+                  "b": 0.8784313797950745,
+                  "a": 1
+                }
+              }
+            },
+            {
+              "id": "VariableID:4:683",
+              "name": "opacity/50",
+              "resolvedType": "FLOAT",
+              "valuesByMode": {
+                "4:0": 50
+              }
+            },
+            {
+              "id": "VariableID:4:706",
+              "name": "item spacing/0",
+              "resolvedType": "FLOAT",
+              "valuesByMode": {
+                "4:0": -7.319893313706416e-08
+              }
+            },
+            {
+              "id": "VariableID:4:714",
+              "name": "line height/43",
+              "resolvedType": "FLOAT",
+              "valuesByMode": {
+                "4:0": 43
+              }
+            },
+            {
+              "id": "VariableID:4:729",
+              "name": "color/grey/73",
+              "resolvedType": "COLOR",
+              "valuesByMode": {
+                "4:0": {
+                  "type": "COLOR",
+                  "r": 0.7333333492279053,
+                  "g": 0.7333333492279053,
+                  "b": 0.7333333492279053,
+                  "a": 1
+                }
+              }
+            },
+            {
+              "id": "VariableID:4:832",
+              "name": "line height/36",
+              "resolvedType": "FLOAT",
+              "valuesByMode": {
+                "4:0": 36
+              }
+            },
+            {
+              "id": "VariableID:4:865",
+              "name": "color/black/solid",
+              "resolvedType": "COLOR",
+              "valuesByMode": {
+                "4:0": {
+                  "type": "COLOR",
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 1
+                }
+              }
+            },
+            {
+              "id": "VariableID:4:866",
+              "name": "line height/26",
+              "resolvedType": "FLOAT",
+              "valuesByMode": {
+                "4:0": 26
+              }
+            },
+            {
+              "id": "VariableID:4:886",
+              "name": "color/orange/85",
+              "resolvedType": "COLOR",
+              "valuesByMode": {
+                "4:0": {
+                  "type": "COLOR",
+                  "r": 0.8627451062202454,
+                  "g": 0.8470588326454163,
+                  "b": 0.8274509906768799,
+                  "a": 1
+                }
+              }
+            },
+            {
+              "id": "VariableID:4:895",
+              "name": "font size/21",
+              "resolvedType": "FLOAT",
+              "valuesByMode": {
+                "4:0": 21
+              }
+            },
+            {
+              "id": "VariableID:4:1009",
+              "name": "width/1200",
+              "resolvedType": "FLOAT",
+              "valuesByMode": {
+                "4:0": 1200
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "content": {
+    "texts": [
+      {
+        "id": "222:1560",
+        "name": "Свердловская набережная, дом 58, литера А",
+        "text": "Свердловская набережная, \nдом 58, литера А",
+        "font": {
+          "family": "Circe",
+          "style": "Regular",
+          "size": 9,
+          "weight": 400
+        },
+        "letterSpacing": {
+          "value": 0,
+          "unit": "PERCENT"
+        },
+        "lineHeight": {
+          "unit": "AUTO"
+        },
+        "color": "#414141",
+        "bounds": {
+          "x": 203,
+          "y": 41,
+          "width": 111,
+          "height": 27
+        }
+      },
+      {
+        "id": "222:1567",
+        "name": "Обучение под руководством практикующих врачей-дерматовенерологов и косметологов онлайн и очный формат // практика на моделях // диплом",
+        "text": "Обучение под руководством практикующих \nврачей-дерматовенерологов и косметологов\n\nонлайн и очный формат // практика на моделях // диплом",
+        "font": {
+          "family": "Circe",
+          "style": "Regular",
+          "size": "mixed",
+          "weight": 400
+        },
+        "letterSpacing": {
+          "value": 0,
+          "unit": "PERCENT"
+        },
+        "lineHeight": "mixed",
+        "color": null,
+        "bounds": {
+          "x": 43,
+          "y": 226,
+          "width": 306,
+          "height": 58
+        }
+      },
+      {
+        "id": "222:1568",
+        "name": "Станьте востребованным косметологом в авторской школе Марины Егоровой",
+        "text": "Станьте востребованным \nкосметологом в авторской школе \nМарины Егоровой",
+        "font": {
+          "family": "mixed",
+          "style": "mixed",
+          "size": "mixed",
+          "weight": "mixed"
+        },
+        "letterSpacing": {
+          "value": 0,
+          "unit": "PERCENT"
+        },
+        "lineHeight": "mixed",
+        "color": "#1E1E1E",
+        "bounds": {
+          "x": 43,
+          "y": 110,
+          "width": 304,
+          "height": 90
+        }
+      },
+      {
+        "id": "222:1571",
+        "name": "Выбрать программу",
+        "text": "Выбрать программу",
+        "font": {
+          "family": "Circe",
+          "style": "Regular",
+          "size": 20,
+          "weight": 400
+        },
+        "letterSpacing": {
+          "value": 0,
+          "unit": "PERCENT"
+        },
+        "lineHeight": {
+          "value": 105.9999942779541,
+          "unit": "PERCENT"
+        },
+        "color": "#FFFFFF",
+        "bounds": {
+          "x": 109,
+          "y": 323,
+          "width": 175,
+          "height": 21
+        }
+      },
+      {
+        "id": "222:1572",
+        "name": "Получить консультацию",
+        "text": "Получить консультацию",
+        "font": {
+          "family": "Circe",
+          "style": "Regular",
+          "size": 20,
+          "weight": 400
+        },
+        "letterSpacing": {
+          "value": 0,
+          "unit": "PERCENT"
+        },
+        "lineHeight": {
+          "value": 105.9999942779541,
+          "unit": "PERCENT"
+        },
+        "color": "#FFFFFF",
+        "bounds": {
+          "x": 88,
+          "y": 389,
+          "width": 216,
+          "height": 21
+        }
+      },
+      {
+        "id": "222:1631",
+        "name": "Получить консультацию",
+        "text": "Получить консультацию",
+        "font": {
+          "family": "Circe",
+          "style": "Regular",
+          "size": 20,
+          "weight": 400
+        },
+        "letterSpacing": {
+          "value": 0,
+          "unit": "PERCENT"
+        },
+        "lineHeight": {
+          "value": 105.9999942779541,
+          "unit": "PERCENT"
+        },
+        "color": "#FFFFFF",
+        "bounds": {
+          "x": 88,
+          "y": 2380,
+          "width": 216,
+          "height": 21
+        }
+      },
+      {
+        "id": "222:1575",
+        "name": "Марина Егорова — практикующий специалист с 18-летним опытом, преподаватель, спикер и создатель авторской школы. Она объединила фундаментальные медицинские знания и тонкое понимание эстетики в курсах, которые действительно готовят к работе в профессии",
+        "text": "Марина Егорова — практикующий специалист с 18-летним опытом, преподаватель, спикер \nи создатель авторской школы. Она объединила фундаментальные медицинские знания \nи тонкое понимание эстетики в курсах",
+        "font": {
+          "family": "Circe",
+          "style": "Light",
+          "size": 15,
+          "weight": 350
+        },
+        "letterSpacing": {
+          "value": 0,
+          "unit": "PERCENT"
+        },
+        "lineHeight": {
+          "value": 100,
+          "unit": "PERCENT"
+        },
+        "color": "#414141",
+        "bounds": {
+          "x": 39,
+          "y": 970,
+          "width": 313,
+          "height": 105
+        }
+      },
+      {
+        "id": "222:1578",
+        "name": "«Я верю, что красота начинается с понимания. А профессия — с уважения к себе и другим»",
+        "text": "«Я верю, что красота начинается с понимания.\nА профессия — с уважения\nк себе и другим»",
+        "font": {
+          "family": "FK Davinci",
+          "style": "Regular",
+          "size": 25,
+          "weight": 400
+        },
+        "letterSpacing": {
+          "value": 0,
+          "unit": "PERCENT"
+        },
+        "lineHeight": {
+          "value": 100,
+          "unit": "PERCENT"
+        },
+        "color": "#1E1E1E",
+        "bounds": {
+          "x": 33,
+          "y": 1097,
+          "width": 329,
+          "height": 100
+        }
+      },
+      {
+        "id": "222:1580",
+        "name": "Узнать больше",
+        "text": "Узнать больше",
+        "font": {
+          "family": "Circe",
+          "style": "Regular",
+          "size": 20,
+          "weight": 400
+        },
+        "letterSpacing": {
+          "value": 0,
+          "unit": "PERCENT"
+        },
+        "lineHeight": {
+          "value": 105.9999942779541,
+          "unit": "PERCENT"
+        },
+        "color": "#FFFFFF",
+        "bounds": {
+          "x": 131,
+          "y": 1236,
+          "width": 130,
+          "height": 21
+        }
+      },
+      {
+        "id": "222:1582",
+        "name": "«Марина Егорова — основатель школы, врач, косметолог»",
+        "text": "«Марина Егорова — основатель школы, врач, косметолог»",
+        "font": {
+          "family": "Arimo Hebrew Subset Italic",
+          "style": "Italic",
+          "size": 11,
+          "weight": 400
+        },
+        "letterSpacing": {
+          "value": 0,
+          "unit": "PERCENT"
+        },
+        "lineHeight": {
+          "unit": "AUTO"
+        },
+        "color": "#5C4646",
+        "bounds": {
+          "x": 220,
+          "y": 1407,
+          "width": 124,
+          "height": 58
+        }
+      },
+      {
+        "id": "222:1584",
+        "name": "Кому подойдет обучение?",
+        "text": "Кому подойдет обучение?",
+        "font": {
+          "family": "Circe",
+          "style": "Bold",
+          "size": 30,
+          "weight": 700
+        },
+        "letterSpacing": {
+          "value": 0,
+          "unit": "PERCENT"
+        },
+        "lineHeight": {
+          "value": 100,
+          "unit": "PERCENT"
+        },
+        "color": "#414141",
+        "bounds": {
+          "x": 86,
+          "y": 1722,
+          "width": 219,
+          "height": 60
+        }
+      },
+      {
+        "id": "222:1585",
+        "name": "Наши программы подходят для любого уровня подготовки",
+        "text": "Наши программы подходят для любого уровня подготовки",
+        "font": {
+          "family": "Circe",
+          "style": "Regular",
+          "size": 20,
+          "weight": 400
+        },
+        "letterSpacing": {
+          "value": 0,
+          "unit": "PERCENT"
+        },
+        "lineHeight": {
+          "value": 105.9999942779541,
+          "unit": "PERCENT"
+        },
+        "color": "#5C4646",
+        "bounds": {
+          "x": 34,
+          "y": 1790,
+          "width": 323,
+          "height": 42
+        }
+      },
+      {
+        "id": "222:1633",
+        "name": "Выберите программу, которая откроет вам путь в профессию",
+        "text": "Выберите программу, которая откроет вам путь в профессию",
+        "font": {
+          "family": "Circe",
+          "style": "Bold",
+          "size": 30,
+          "weight": 700
+        },
+        "letterSpacing": {
+          "value": 0,
+          "unit": "PERCENT"
+        },
+        "lineHeight": {
+          "value": 100,
+          "unit": "PERCENT"
+        },
+        "color": "#414141",
+        "bounds": {
+          "x": 49,
+          "y": 2450,
+          "width": 292,
+          "height": 90
+        }
+      },
+      {
+        "id": "222:1634",
+        "name": "6 направлений — для начинающих, медиков и практикующих специалистов Очный и онлайн-формат, диплом ФИС ФРДО и практика на моделях",
+        "text": "6 направлений — для начинающих, медиков и практикующих специалистов Очный и онлайн-формат, диплом ФИС ФРДО и практика на моделях",
+        "font": {
+          "family": "mixed",
+          "style": "mixed",
+          "size": 20,
+          "weight": "mixed"
+        },
+        "letterSpacing": {
+          "value": 0,
+          "unit": "PERCENT"
+        },
+        "lineHeight": {
+          "value": 120.00000476837158,
+          "unit": "PERCENT"
+        },
+        "color": "#5C4646",
+        "bounds": {
+          "x": 40,
+          "y": 2553,
+          "width": 314,
+          "height": 120
+        }
+      },
+      {
+        "id": "231:27",
+        "name": "Почему будущие косметологи выбирают школу Марины Егоровой",
+        "text": "Почему будущие косметологи выбирают\nшколу Марины Егоровой",
+        "font": {
+          "family": "Circe",
+          "style": "Bold",
+          "size": 30,
+          "weight": 700
+        },
+        "letterSpacing": {
+          "value": 0,
+          "unit": "PERCENT"
+        },
+        "lineHeight": {
+          "value": 100,
+          "unit": "PERCENT"
+        },
+        "color": "#414141",
+        "bounds": {
+          "x": 20,
+          "y": 6166,
+          "width": 349,
+          "height": 90
+        }
+      },
+      {
+        "id": "231:14",
+        "name": "Наши преподаватели",
+        "text": "Наши преподаватели",
+        "font": {
+          "family": "Circe",
+          "style": "Bold",
+          "size": 30,
+          "weight": 700
+        },
+        "letterSpacing": {
+          "value": 0,
+          "unit": "PERCENT"
+        },
+        "lineHeight": {
+          "value": 100,
+          "unit": "PERCENT"
+        },
+        "color": "#414141",
+        "bounds": {
+          "x": 49,
+          "y": 4529,
+          "width": 292,
+          "height": 30
+        }
+      },
+      {
+        "id": "231:15",
+        "name": "Преподаватели школы Марины Егоровой — это косметологи, дерматологи, физиологи с многолетним опытом частной практики и преподавания. Каждый из них умеет не только лечить и работать с клиентами, но и доносить сложные вещи простым, понятным языком",
+        "text": "Преподаватели школы Марины Егоровой — это косметологи, дерматологи, физиологи\n с многолетним опытом частной практики и преподавания. \nКаждый из них умеет не только лечить и работать с клиентами, \nно и",
+        "font": {
+          "family": "mixed",
+          "style": "mixed",
+          "size": 20,
+          "weight": "mixed"
+        },
+        "letterSpacing": {
+          "value": 0,
+          "unit": "PERCENT"
+        },
+        "lineHeight": {
+          "value": 113.99999856948853,
+          "unit": "PERCENT"
+        },
+        "color": "#5C4646",
+        "bounds": {
+          "x": 40,
+          "y": 4576,
+          "width": 314,
+          "height": 207
+        }
+      },
+      {
+        "id": "231:21",
+        "name": "Нас выбирают сердцем и рекомендуют в будущем",
+        "text": "Нас выбирают сердцем и рекомендуют в будущем",
+        "font": {
+          "family": "Circe",
+          "style": "Bold",
+          "size": 30,
+          "weight": 700
+        },
+        "letterSpacing": {
+          "value": 0,
+          "unit": "PERCENT"
+        },
+        "lineHeight": {
+          "value": 100,
+          "unit": "PERCENT"
+        },
+        "color": "#414141",
+        "bounds": {
+          "x": 21,
+          "y": 5556,
+          "width": 349,
+          "height": 60
+        }
+      },
+      {
+        "id": "231:22",
+        "name": "Вот что говорят выпускницы школы Марины Егоровой после завершения обучения",
+        "text": "Вот что говорят выпускницы школы Марины Егоровой после завершения обучения",
+        "font": {
+          "family": "Circe",
+          "style": "Regular",
+          "size": 20,
+          "weight": 400
+        },
+        "letterSpacing": {
+          "value": 0,
+          "unit": "PERCENT"
+        },
+        "lineHeight": {
+          "value": 113.99999856948853,
+          "unit": "PERCENT"
+        },
+        "color": "#5C4646",
+        "bounds": {
+          "x": 39,
+          "y": 5637,
+          "width": 314,
+          "height": 69
+        }
+      },
+      {
+        "id": "222:1591",
+        "name": "Овладейте новой профессией с нуля",
+        "text": "Овладейте новой профессией с нуля",
+        "font": {
+          "family": "Circe",
+          "style": "Regular",
+          "size": 15,
+          "weight": 400
+        },
+        "letterSpacing": {
+          "value": 0,
+          "unit": "PERCENT"
+        },
+        "lineHeight": {
+          "value": 105.9999942779541,
+          "unit": "PERCENT"
+        },
+        "color": "#A7A7A7",
+        "bounds": {
+          "x": 109,
+          "y": 1929,
+          "width": 250,
+          "height": 16
+        }
+      },
+      {
+        "id": "222:1592",
+        "name": "Новичкам без медицинского образования",
+        "text": "Новичкам без медицинского\nобразования",
+        "font": {
+          "family": "Circe",
+          "style": "Bold",
+          "size": 19,
+          "weight": 700
+        },
+        "letterSpacing": {
+          "value": 0,
+          "unit": "PERCENT"
+        },
+        "lineHeight": {
+          "value": 105.9999942779541,
+          "unit": "PERCENT"
+        },
+        "color": "#5C4646",
+        "bounds": {
+          "x": 109,
+          "y": 1881,
+          "width": 250,
+          "height": 40
+        }
+      },
+      {
+        "id": "222:1599",
+        "name": "Смените сферу или дополните профиль",
+        "text": "Смените сферу или дополните профиль",
+        "font": {
+          "family": "Circe",
+          "style": "Regular",
+          "size": 15,
+          "weight": 400
+        },
+        "letterSpacing": {
+          "value": 0,
+          "unit": "PERCENT"
+        },
+        "lineHeight": {
+          "value": 105.9999942779541,
+          "unit": "PERCENT"
+        },
+        "color": "#A7A7A7",
+        "bounds": {
+          "x": 90,
+          "y": 2051,
+          "width": 271,
+          "height": 16
+        }
+      },
+      {
+        "id": "222:1600",
+        "name": "Специалистам с медицинским дипломом",
+        "text": "Специалистам\nс медицинским дипломом",
+        "font": {
+          "family": "Circe",
+          "style": "Bold",
+          "size": 19,
+          "weight": 700
+        },
+        "letterSpacing": {
+          "value": 0,
+          "unit": "PERCENT"
+        },
+        "lineHeight": {
+          "value": 105.9999942779541,
+          "unit": "PERCENT"
+        },
+        "color": "#5C4646",
+        "bounds": {
+          "x": 101,
+          "y": 2003,
+          "width": 250,
+          "height": 40
+        }
+      },
+      {
+        "id": "222:1609",
+        "name": "Раскройте новые горизонты в индустрии красоты",
+        "text": "Раскройте новые горизонты \nв индустрии красоты",
+        "font": {
+          "family": "Circe",
+          "style": "Regular",
+          "size": 15,
+          "weight": 400
+        },
+        "letterSpacing": {
+          "value": 0,
+          "unit": "PERCENT"
+        },
+        "lineHeight": {
+          "value": 105.9999942779541,
+          "unit": "PERCENT"
+        },
+        "color": "#A7A7A7",
+        "bounds": {
+          "x": 90,
+          "y": 2154,
+          "width": 271,
+          "height": 32
+        }
+      },
+      {
+        "id": "222:1610",
+        "name": "Фармацевтам и провизорам",
+        "text": "Фармацевтам и провизорам",
+        "font": {
+          "family": "Circe",
+          "style": "Bold",
+          "size": 19,
+          "weight": 700
+        },
+        "letterSpacing": {
+          "value": 0,
+          "unit": "PERCENT"
+        },
+        "lineHeight": {
+          "value": 105.9999942779541,
+          "unit": "PERCENT"
+        },
+        "color": "#5C4646",
+        "bounds": {
+          "x": 101,
+          "y": 2127,
+          "width": 248,
+          "height": 20
+        }
+      },
+      {
+        "id": "222:1621",
+        "name": "Повышайте квалификацию и расширяйте навыки",
+        "text": "Повышайте квалификацию \nи расширяйте навыки",
+        "font": {
+          "family": "Circe",
+          "style": "Regular",
+          "size": 15,
+          "weight": 400
+        },
+        "letterSpacing": {
+          "value": 0,
+          "unit": "PERCENT"
+        },
+        "lineHeight": {
+          "value": 105.9999942779541,
+          "unit": "PERCENT"
+        },
+        "color": "#A7A7A7",
+        "bounds": {
+          "x": 90,
+          "y": 2276,
+          "width": 271,
+          "height": 32
+        }
+      },
+      {
+        "id": "222:1622",
+        "name": "Практикующим косметологам",
+        "text": "Практикующим косметологам",
+        "font": {
+          "family": "Circe",
+          "style": "Bold",
+          "size": 19,
+          "weight": 700
+        },
+        "letterSpacing": {
+          "value": 0,
+          "unit": "PERCENT"
+        },
+        "lineHeight": {
+          "value": 105.9999942779541,
+          "unit": "PERCENT"
+        },
+        "color": "#5C4646",
+        "bounds": {
+          "x": 105,
+          "y": 2249,
+          "width": 257,
+          "height": 20
+        }
+      },
+      {
+        "id": "222:1637",
+        "name": "Косметик-эстетист",
+        "text": "Косметик-эстетист",
+        "font": {
+          "family": "Circe",
+          "style": "Regular",
+          "size": 23,
+          "weight": 400
+        },
+        "letterSpacing": {
+          "value": 0,
+          "unit": "PERCENT"
+        },
+        "lineHeight": {
+          "value": 136.00000143051147,
+          "unit": "PERCENT"
+        },
+        "color": "#E9E2D7",
+        "bounds": {
+          "x": 153,
+          "y": 2725,
+          "width": 196,
+          "height": 24
+        }
+      },
+      {
+        "id": "222:1638",
+        "name": "Продолжительноcть курса: 300 часов Базовая программа для старта с нуля",
+        "text": "Продолжительноcть курса: 300 часов\nБазовая программа для старта с нуля",
+        "font": {
+          "family": "mixed",
+          "style": "mixed",
+          "size": "mixed",
+          "weight": "mixed"
+        },
+        "letterSpacing": {
+          "value": 0,
+          "unit": "PERCENT"
+        },
+        "lineHeight": {
+          "value": 117.99999475479126,
+          "unit": "PERCENT"
+        },
+        "color": "#A7A7A7",
+        "bounds": {
+          "x": 154,
+          "y": 2769,
+          "width": 205,
+          "height": 25
+        }
+      },
+      {
+        "id": "222:1645",
+        "name": "Сестринское дело в косметологии",
+        "text": "Сестринское дело \nв косметологии",
+        "font": {
+          "family": "Circe",
+          "style": "Regular",
+          "size": 23,
+          "weight": 400
+        },
+        "letterSpacing": {
+          "value": 0,
+          "unit": "PERCENT"
+        },
+        "lineHeight": {
+          "value": 82.99999833106995,
+          "unit": "PERCENT"
+        },
+        "color": "#E9E2D7",
+        "bounds": {
+          "x": 153,
+          "y": 2841,
+          "width": 196,
+          "height": 24
+        }
+      },
+      {
+        "id": "222:1646",
+        "name": "Продолжительноcть курса: 288 часов Для специалистов со средним мед.образованием",
+        "text": "Продолжительноcть курса: 288 часов\nДля специалистов со средним мед.образованием",
+        "font": {
+          "family": "mixed",
+          "style": "mixed",
+          "size": "mixed",
+          "weight": "mixed"
+        },
+        "letterSpacing": {
+          "value": 0,
+          "unit": "PERCENT"
+        },
+        "lineHeight": {
+          "value": 117.99999475479126,
+          "unit": "PERCENT"
+        },
+        "color": "#A7A7A7",
+        "bounds": {
+          "x": 154,
+          "y": 2879,
+          "width": 220,
+          "height": 25
+        }
+      },
+      {
+        "id": "222:1658",
+        "name": "Основы косметологии",
+        "text": "Основы косметологии",
+        "font": {
+          "family": "Circe",
+          "style": "Regular",
+          "size": 23,
+          "weight": 400
+        },
+        "letterSpacing": {
+          "value": 0,
+          "unit": "PERCENT"
+        },
+        "lineHeight": {
+          "value": 80.0000011920929,
+          "unit": "PERCENT"
+        },
+        "color": "#E9E2D7",
+        "bounds": {
+          "x": 153,
+          "y": 2951,
+          "width": 208,
+          "height": 52
+        }
+      },
+      {
+        "id": "222:1659",
+        "name": "Продолжительноcть курса: 300 часов Краткий вводный курс - старт в профессию",
+        "text": "Продолжительноcть курса: 300 часов\nКраткий вводный курс - старт в профессию",
+        "font": {
+          "family": "mixed",
+          "style": "mixed",
+          "size": "mixed",
+          "weight": "mixed"
+        },
+        "letterSpacing": {
+          "value": 0,
+          "unit": "PERCENT"
+        },
+        "lineHeight": {
+          "value": 117.99999475479126,
+          "unit": "PERCENT"
+        },
+        "color": "#A7A7A7",
+        "bounds": {
+          "x": 154,
+          "y": 2990,
+          "width": 220,
+          "height": 25
+        }
+      },
+      {
+        "id": "222:1670",
+        "name": "Косметик-эстетист",
+        "text": "Косметик-эстетист",
+        "font": {
+          "family": "Circe",
+          "style": "Regular",
+          "size": 23,
+          "weight": 400
+        },
+        "letterSpacing": {
+          "value": 0,
+          "unit": "PERCENT"
+        },
+        "lineHeight": {
+          "value": 136.00000143051147,
+          "unit": "PERCENT"
+        },
+        "color": "#E9E2D7",
+        "bounds": {
+          "x": 153,
+          "y": 3061,
+          "width": 208,
+          "height": 52
+        }
+      },
+      {
+        "id": "222:1671",
+        "name": "Продолжительноcть курса: 576 часов Для специалистов с высшим мед.образованием",
+        "text": "Продолжительноcть курса: 576 часов\nДля специалистов с высшим мед.образованием",
+        "font": {
+          "family": "mixed",
+          "style": "mixed",
+          "size": "mixed",
+          "weight": "mixed"
+        },
+        "letterSpacing": {
+          "value": 0,
+          "unit": "PERCENT"
+        },
+        "lineHeight": {
+          "value": 117.99999475479126,
+          "unit": "PERCENT"
+        },
+        "color": "#A7A7A7",
+        "bounds": {
+          "x": 154,
+          "y": 3099,
+          "width": 220,
+          "height": 25
+        }
+      },
+      {
+        "id": "222:1683",
+        "name": "Врачебная косметология",
+        "text": "Врачебная\nкосметология",
+        "font": {
+          "family": "Circe",
+          "style": "Regular",
+          "size": 23,
+          "weight": 400
+        },
+        "letterSpacing": {
+          "value": 0,
+          "unit": "PERCENT"
+        },
+        "lineHeight": {
+          "value": 82.99999833106995,
+          "unit": "PERCENT"
+        },
+        "color": "#E9E2D7",
+        "bounds": {
+          "x": 153,
+          "y": 3171,
+          "width": 208,
+          "height": 52
+        }
+      },
+      {
+        "id": "222:1684",
+        "name": "Продолжительноcть курса: 576 часов Для специалистов с высшим мед.образованием",
+        "text": "Продолжительноcть курса: 576 часов\nДля специалистов с высшим мед.образованием",
+        "font": {
+          "family": "mixed",
+          "style": "mixed",
+          "size": "mixed",
+          "weight": "mixed"
+        },
+        "letterSpacing": {
+          "value": 0,
+          "unit": "PERCENT"
+        },
+        "lineHeight": {
+          "value": 117.99999475479126,
+          "unit": "PERCENT"
+        },
+        "color": "#A7A7A7",
+        "bounds": {
+          "x": 154,
+          "y": 3208,
+          "width": 220,
+          "height": 25
+        }
+      },
+      {
+        "id": "222:1697",
+        "name": "Инъекционная косметология",
+        "text": "Инъекционная\nкосметология",
+        "font": {
+          "family": "Circe",
+          "style": "Regular",
+          "size": 23,
+          "weight": 400
+        },
+        "letterSpacing": {
+          "value": 0,
+          "unit": "PERCENT"
+        },
+        "lineHeight": {
+          "value": 82.99999833106995,
+          "unit": "PERCENT"
+        },
+        "color": "#E9E2D7",
+        "bounds": {
+          "x": 153,
+          "y": 3281,
+          "width": 208,
+          "height": 52
+        }
+      },
+      {
+        "id": "222:1698",
+        "name": "Продолжительноcть курса: 100 часов Для специалистов с высшим мед.образованием",
+        "text": "Продолжительноcть курса: 100 часов\nДля специалистов с высшим мед.образованием",
+        "font": {
+          "family": "mixed",
+          "style": "mixed",
+          "size": "mixed",
+          "weight": "mixed"
+        },
+        "letterSpacing": {
+          "value": 0,
+          "unit": "PERCENT"
+        },
+        "lineHeight": {
+          "value": 117.99999475479126,
+          "unit": "PERCENT"
+        },
+        "color": "#A7A7A7",
+        "bounds": {
+          "x": 154,
+          "y": 3320,
+          "width": 220,
+          "height": 25
+        }
+      },
+      {
+        "id": "222:1712",
+        "name": "Авторские курсы Марины Егоровой",
+        "text": "Авторские курсы\nМарины Егоровой",
+        "font": {
+          "family": "Circe",
+          "style": "Regular",
+          "size": 23,
+          "weight": 400
+        },
+        "letterSpacing": {
+          "value": 0,
+          "unit": "PERCENT"
+        },
+        "lineHeight": {
+          "value": 103.99999618530273,
+          "unit": "PERCENT"
+        },
+        "color": "#E9E2D7",
+        "bounds": {
+          "x": 32,
+          "y": 3524,
+          "width": 187,
+          "height": 48
+        }
+      },
+      {
+        "id": "222:1718",
+        "name": "Продолжительноcть курса: 100 часов Для специалистов с высшим мед.образованием",
+        "text": "Продолжительноcть курса: 100 часов\nДля специалистов с высшим мед.образованием",
+        "font": {
+          "family": "mixed",
+          "style": "mixed",
+          "size": 15,
+          "weight": "mixed"
+        },
+        "letterSpacing": {
+          "value": 0,
+          "unit": "PERCENT"
+        },
+        "lineHeight": {
+          "value": 101.99999809265137,
+          "unit": "PERCENT"
+        },
+        "color": "#A7A7A7",
+        "bounds": {
+          "x": 32,
+          "y": 3582,
+          "width": 342,
+          "height": 30
+        }
+      },
+      {
+        "id": "222:1719",
+        "name": "При записи на курсы — подарки, скидки и доступ к закрытым материалам",
+        "text": "При записи на курсы — подарки,\nскидки и доступ к закрытым\nматериалам",
+        "font": {
+          "family": "Arimo Hebrew Subset Italic",
+          "style": "Bold Italic",
+          "size": 20,
+          "weight": 700
+        },
+        "letterSpacing": {
+          "value": 0,
+          "unit": "PERCENT"
+        },
+        "lineHeight": {
+          "value": 124.00000095367432,
+          "unit": "PERCENT"
+        },
+        "color": "#FFFFFF",
+        "bounds": {
+          "x": 35,
+          "y": 3650,
+          "width": 326,
+          "height": 75
+        }
+      },
+      {
+        "id": "222:1725",
+        "name": "Получить консультацию",
+        "text": "Получить консультацию",
+        "font": {
+          "family": "Circe",
+          "style": "Regular",
+          "size": 20,
+          "weight": 400
+        },
+        "letterSpacing": {
+          "value": 0,
+          "unit": "PERCENT"
+        },
+        "lineHeight": {
+          "value": 105.9999942779541,
+          "unit": "PERCENT"
+        },
+        "color": "#5C4646",
+        "bounds": {
+          "x": 88,
+          "y": 3771,
+          "width": 216,
+          "height": 21
+        }
+      },
+      {
+        "id": "222:1727",
+        "name": "Оставить заявку",
+        "text": "Оставить заявку",
+        "font": {
+          "family": "Circe",
+          "style": "Regular",
+          "size": 20,
+          "weight": 400
+        },
+        "letterSpacing": {
+          "value": 0,
+          "unit": "PERCENT"
+        },
+        "lineHeight": {
+          "value": 105.9999942779541,
+          "unit": "PERCENT"
+        },
+        "color": "#5C4646",
+        "bounds": {
+          "x": 124,
+          "y": 3844,
+          "width": 145,
+          "height": 21
+        }
+      },
+      {
+        "id": "222:1729",
+        "name": "Официальный диплом, вносимый в реестр ФИС ФРДО Навыки, с которыми можно сразу начать практику Понимание анатомии, дерматологии и работы с клиентом Практику на моделях в процессе обучения Поддержку куратора и преподавателей Доступ к методическим материалам и закрытому чату Возможность учиться онлайн или очно — в удобном ритме Уважительное, честное отношение и атмосфера, где хочется учиться",
+        "text": "Официальный диплом, вносимый в реестр ФИС ФРДО Навыки, с которыми можно сразу начать практику\nПонимание анатомии, дерматологии и работы с клиентом\nПрактику на моделях в процессе обучения Поддержку кур",
+        "font": {
+          "family": "Circe",
+          "style": "Bold",
+          "size": 10,
+          "weight": 700
+        },
+        "letterSpacing": {
+          "value": 0,
+          "unit": "PERCENT"
+        },
+        "lineHeight": {
+          "value": 289.0000104904175,
+          "unit": "PERCENT"
+        },
+        "color": "#414141",
+        "bounds": {
+          "x": 55,
+          "y": 3949,
+          "width": 306,
+          "height": 232
+        }
+      },
+      {
+        "id": "222:1413",
+        "name": "Диплом школы признаётся в России и СНГ. Выпускники успешно работают в частной практике, салонах, косметологических клиниках и открывают собственные кабинеты",
+        "text": "Диплом школы признаётся\nв России и СНГ. Выпускники\nуспешно работают в частной\nпрактике, салонах,\nкосметологических клиниках\nи открывают собственные кабинеты",
+        "font": {
+          "family": "Arimo Hebrew Subset Italic",
+          "style": "Italic",
+          "size": 11,
+          "weight": 400
+        },
+        "letterSpacing": {
+          "value": 0,
+          "unit": "PERCENT"
+        },
+        "lineHeight": {
+          "value": 137.99999952316284,
+          "unit": "PERCENT"
+        },
+        "color": "#5C4646",
+        "bounds": {
+          "x": 196,
+          "y": 4225,
+          "width": 165,
+          "height": 105
+        }
+      },
+      {
+        "id": "231:12",
+        "name": "Получить консультацию",
+        "text": "Получить консультацию",
+        "font": {
+          "family": "Circe",
+          "style": "Regular",
+          "size": 20,
+          "weight": 400
+        },
+        "letterSpacing": {
+          "value": 0,
+          "unit": "PERCENT"
+        },
+        "lineHeight": {
+          "value": 105.9999942779541,
+          "unit": "PERCENT"
+        },
+        "color": "#FFFFFF",
+        "bounds": {
+          "x": 88,
+          "y": 4428,
+          "width": 216,
+          "height": 21
+        }
+      },
+      {
+        "id": "222:1405",
+        "name": "Карпатенкова Оксана Владимировна",
+        "text": "Карпатенкова \nОксана \nВладимировна",
+        "font": {
+          "family": "Arimo Hebrew Subset Italic",
+          "style": "Bold Italic",
+          "size": 20,
+          "weight": 700
+        },
+        "letterSpacing": {
+          "value": 0,
+          "unit": "PERCENT"
+        },
+        "lineHeight": {
+          "value": 112.00000047683716,
+          "unit": "PERCENT"
+        },
+        "color": "#5C4646",
+        "bounds": {
+          "x": 185,
+          "y": 4853,
+          "width": 176,
+          "height": 61
+        }
+      },
+      {
+        "id": "222:1406",
+        "name": "Врач-дераматовенеролог, косметолог",
+        "text": "Врач-дераматовенеролог, \nкосметолог",
+        "font": {
+          "family": "Circe",
+          "style": "Light",
+          "size": 12,
+          "weight": 350
+        },
+        "letterSpacing": {
+          "value": 0,
+          "unit": "PERCENT"
+        },
+        "lineHeight": {
+          "value": 112.00000047683716,
+          "unit": "PERCENT"
+        },
+        "color": "#414141",
+        "bounds": {
+          "x": 185,
+          "y": 4924,
+          "width": 147,
+          "height": 45
+        }
+      },
+      {
+        "id": "231:18",
+        "name": "Сертификат",
+        "text": "Сертификат",
+        "font": {
+          "family": "Circe",
+          "style": "Light",
+          "size": 12,
+          "weight": 350
+        },
+        "letterSpacing": {
+          "value": 0,
+          "unit": "PERCENT"
+        },
+        "lineHeight": {
+          "value": 112.00000047683716,
+          "unit": "PERCENT"
+        },
+        "color": "#000000",
+        "bounds": {
+          "x": 87,
+          "y": 5326,
+          "width": 64,
+          "height": 13
+        }
+      }
+    ],
+    "images": [
+      {
+        "id": "222:1555",
+        "name": "_1_s_sh_2019 3",
+        "bounds": {
+          "x": 18,
+          "y": 34,
+          "width": 132,
+          "height": 34
+        }
+      },
+      {
+        "id": "222:1573",
+        "name": "IMG_2244 2",
+        "bounds": {
+          "x": 10,
+          "y": 455,
+          "width": 370,
+          "height": 451
+        }
+      },
+      {
+        "id": "481:649",
+        "name": "IMG_4294 1",
+        "bounds": {
+          "x": 10,
+          "y": 1344,
+          "width": 370,
+          "height": 352
+        }
+      },
+      {
+        "id": "222:1643",
+        "name": "anna-keibalo-u3TGN9QtozU-unsplash 1",
+        "bounds": {
+          "x": -0.19290924072265625,
+          "y": 2590.8538208007812,
+          "width": 143.2357177734375,
+          "height": 214.82736206054688
+        }
+      },
+      {
+        "id": "222:1655",
+        "name": "karelys-ruiz-PqyzuzFiQfY-unsplash 1",
+        "bounds": {
+          "x": -102.03195190429688,
+          "y": 2730.014389038086,
+          "width": 389.1523132324219,
+          "height": 258.7862854003906
+        }
+      },
+      {
+        "id": "222:1666",
+        "name": "karelys-ruiz-PqyzuzFiQfY-unsplash 1",
+        "bounds": {
+          "x": -102.03195190429688,
+          "y": 2840.014389038086,
+          "width": 389.1523132324219,
+          "height": 258.7862854003906
+        }
+      },
+      {
+        "id": "222:1667",
+        "name": "dima-solomin-AJ1xeSGWfms-unsplash 1",
+        "bounds": {
+          "x": -7,
+          "y": 3018.76180267334,
+          "width": 117.3707275390625,
+          "height": 176.03460693359375
+        }
+      },
+      {
+        "id": "222:1678",
+        "name": "karelys-ruiz-PqyzuzFiQfY-unsplash 1",
+        "bounds": {
+          "x": -102.03195190429688,
+          "y": 2950.014389038086,
+          "width": 389.1523132324219,
+          "height": 258.7862854003906
+        }
+      },
+      {
+        "id": "222:1679",
+        "name": "dima-solomin-AJ1xeSGWfms-unsplash 1",
+        "bounds": {
+          "x": -7,
+          "y": 3128.76180267334,
+          "width": 117.3707275390625,
+          "height": 176.03460693359375
+        }
+      },
+      {
+        "id": "222:1680",
+        "name": "look-studio-HtXyytr9304-unsplash 1",
+        "bounds": {
+          "x": 6,
+          "y": 3045,
+          "width": 162,
+          "height": 108
+        }
+      },
+      {
+        "id": "222:1691",
+        "name": "karelys-ruiz-PqyzuzFiQfY-unsplash 1",
+        "bounds": {
+          "x": -102.03195190429688,
+          "y": 3060.014389038086,
+          "width": 389.1523132324219,
+          "height": 258.7862854003906
+        }
+      },
+      {
+        "id": "222:1692",
+        "name": "dima-solomin-AJ1xeSGWfms-unsplash 1",
+        "bounds": {
+          "x": -7,
+          "y": 3238.76180267334,
+          "width": 117.3707275390625,
+          "height": 176.03460693359375
+        }
+      },
+      {
+        "id": "222:1693",
+        "name": "look-studio-HtXyytr9304-unsplash 1",
+        "bounds": {
+          "x": 6,
+          "y": 3155,
+          "width": 162,
+          "height": 108
+        }
+      },
+      {
+        "id": "222:1694",
+        "name": "mariia-belinska-y37xruRmhcQ-unsplash 1",
+        "bounds": {
+          "x": 30,
+          "y": 3075,
+          "width": 148,
+          "height": 222
+        }
+      },
+      {
+        "id": "222:1705",
+        "name": "karelys-ruiz-PqyzuzFiQfY-unsplash 1",
+        "bounds": {
+          "x": -102.03195190429688,
+          "y": 3170.014389038086,
+          "width": 389.1523132324219,
+          "height": 258.7862854003906
+        }
+      },
+      {
+        "id": "222:1706",
+        "name": "dima-solomin-AJ1xeSGWfms-unsplash 1",
+        "bounds": {
+          "x": -7,
+          "y": 3348.76180267334,
+          "width": 117.3707275390625,
+          "height": 176.03460693359375
+        }
+      },
+      {
+        "id": "222:1707",
+        "name": "look-studio-HtXyytr9304-unsplash 1",
+        "bounds": {
+          "x": 6,
+          "y": 3265,
+          "width": 162,
+          "height": 108
+        }
+      },
+      {
+        "id": "222:1708",
+        "name": "mariia-belinska-y37xruRmhcQ-unsplash 1",
+        "bounds": {
+          "x": 30,
+          "y": 3185,
+          "width": 148,
+          "height": 222
+        }
+      },
+      {
+        "id": "222:1709",
+        "name": "daria-gordova-rZw9pnacygg-unsplash 1",
+        "bounds": {
+          "x": -76,
+          "y": 3296.6719512939453,
+          "width": 259.9986877441406,
+          "height": 173.35360717773438
+        }
+      },
+      {
+        "id": "222:1717",
+        "name": "IMG_2254 (1) 1",
+        "bounds": {
+          "x": 32,
+          "y": 3238,
+          "width": 329,
+          "height": 493
+        }
+      }
+    ],
+    "rectangles": [
+      {
+        "id": "222:1554",
+        "name": "Rectangle 63",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 9145
+        },
+        "color": "#E9E2D7",
+        "corner_radius": 0
+      },
+      {
+        "id": "222:1564",
+        "name": "Rectangle 50",
+        "bounds": {
+          "x": 338.0570032559335,
+          "y": 43.99981231987476,
+          "width": 21.148208618164062,
+          "height": 3.021172523498535
+        },
+        "color": "#FFFFFF",
+        "corner_radius": 0
+      },
+      {
+        "id": "222:1565",
+        "name": "Rectangle 51",
+        "bounds": {
+          "x": 338.0570032559335,
+          "y": 54.876033782958984,
+          "width": 21.148208618164062,
+          "height": 3.021172523498535
+        },
+        "color": "#FFFFFF",
+        "corner_radius": 0
+      },
+      {
+        "id": "222:1566",
+        "name": "Rectangle 52",
+        "bounds": {
+          "x": 338.0570032559335,
+          "y": 49.437922954559326,
+          "width": 21.148208618164062,
+          "height": 3.021172523498535
+        },
+        "color": "#FFFFFF",
+        "corner_radius": 0
+      },
+      {
+        "id": "222:1569",
+        "name": "Rectangle 5",
+        "bounds": {
+          "x": 43,
+          "y": 310,
+          "width": 306,
+          "height": 47
+        },
+        "color": "#5C4646",
+        "corner_radius": 35
+      },
+      {
+        "id": "222:1570",
+        "name": "Rectangle 6",
+        "bounds": {
+          "x": 43,
+          "y": 376,
+          "width": 306,
+          "height": 47
+        },
+        "color": "#5C4646",
+        "corner_radius": 35
+      },
+      {
+        "id": "222:1630",
+        "name": "Rectangle 67",
+        "bounds": {
+          "x": 43,
+          "y": 2367,
+          "width": 306,
+          "height": 47
+        },
+        "color": "#5C4646",
+        "corner_radius": 35
+      },
+      {
+        "id": "222:1574",
+        "name": "Rectangle 65",
+        "bounds": {
+          "x": 10,
+          "y": 935,
+          "width": 370,
+          "height": 463
+        },
+        "color": "#FFFFFF",
+        "corner_radius": 20
+      },
+      {
+        "id": "222:1579",
+        "name": "Rectangle 66",
+        "bounds": {
+          "x": 43,
+          "y": 1223,
+          "width": 306,
+          "height": 47
+        },
+        "color": "#5C4646",
+        "corner_radius": 35
+      },
+      {
+        "id": "222:1587",
+        "name": "Rectangle 6",
+        "bounds": {
+          "x": 10,
+          "y": 1858,
+          "width": 370,
+          "height": 110
+        },
+        "color": "#FFFFFF",
+        "corner_radius": 20
+      },
+      {
+        "id": "222:1595",
+        "name": "Rectangle 6",
+        "bounds": {
+          "x": 10,
+          "y": 1980,
+          "width": 370,
+          "height": 110
+        },
+        "color": "#FFFFFF",
+        "corner_radius": 20
+      },
+      {
+        "id": "222:1608",
+        "name": "Rectangle 6",
+        "bounds": {
+          "x": 10,
+          "y": 2102,
+          "width": 370,
+          "height": 110
+        },
+        "color": "#FFFFFF",
+        "corner_radius": 20
+      },
+      {
+        "id": "222:1620",
+        "name": "Rectangle 6",
+        "bounds": {
+          "x": 10,
+          "y": 2224,
+          "width": 370,
+          "height": 110
+        },
+        "color": "#FFFFFF",
+        "corner_radius": 20
+      },
+      {
+        "id": "222:1635",
+        "name": "Rectangle 68",
+        "bounds": {
+          "x": 10,
+          "y": 2705,
+          "width": 370,
+          "height": 1200
+        },
+        "color": "#5C4646",
+        "corner_radius": 20
+      },
+      {
+        "id": "222:1642",
+        "name": "Rectangle 10",
+        "bounds": {
+          "x": 33,
+          "y": 2731,
+          "width": 108,
+          "height": 61.32413864135742
+        },
+        "color": "#D9D9D9",
+        "corner_radius": 15
+      },
+      {
+        "id": "222:1649",
+        "name": "Rectangle 10",
+        "bounds": {
+          "x": 33,
+          "y": 2841,
+          "width": 108,
+          "height": 61.32413864135742
+        },
+        "color": "#D9D9D9",
+        "corner_radius": 15
+      },
+      {
+        "id": "222:1654",
+        "name": "Rectangle 11",
+        "bounds": {
+          "x": 33,
+          "y": 2841,
+          "width": 108,
+          "height": 61
+        },
+        "color": "#D9D9D9",
+        "corner_radius": 15
+      },
+      {
+        "id": "222:1662",
+        "name": "Rectangle 10",
+        "bounds": {
+          "x": 33,
+          "y": 2951,
+          "width": 108,
+          "height": 61.32413864135742
+        },
+        "color": "#D9D9D9",
+        "corner_radius": 15
+      },
+      {
+        "id": "222:1665",
+        "name": "Rectangle 11",
+        "bounds": {
+          "x": 33,
+          "y": 2951,
+          "width": 108,
+          "height": 61
+        },
+        "color": "#D9D9D9",
+        "corner_radius": 15
+      },
+      {
+        "id": "222:1674",
+        "name": "Rectangle 10",
+        "bounds": {
+          "x": 33,
+          "y": 3061,
+          "width": 108,
+          "height": 61.32413864135742
+        },
+        "color": "#D9D9D9",
+        "corner_radius": 15
+      },
+      {
+        "id": "222:1677",
+        "name": "Rectangle 11",
+        "bounds": {
+          "x": 33,
+          "y": 3061,
+          "width": 108,
+          "height": 61
+        },
+        "color": "#D9D9D9",
+        "corner_radius": 15
+      },
+      {
+        "id": "222:1687",
+        "name": "Rectangle 10",
+        "bounds": {
+          "x": 33,
+          "y": 3171,
+          "width": 108,
+          "height": 61.32413864135742
+        },
+        "color": "#D9D9D9",
+        "corner_radius": 15
+      },
+      {
+        "id": "222:1690",
+        "name": "Rectangle 11",
+        "bounds": {
+          "x": 33,
+          "y": 3171,
+          "width": 108,
+          "height": 61
+        },
+        "color": "#D9D9D9",
+        "corner_radius": 15
+      },
+      {
+        "id": "222:1701",
+        "name": "Rectangle 10",
+        "bounds": {
+          "x": 33,
+          "y": 3281,
+          "width": 108,
+          "height": 61.32413864135742
+        },
+        "color": "#D9D9D9",
+        "corner_radius": 15
+      },
+      {
+        "id": "222:1704",
+        "name": "Rectangle 11",
+        "bounds": {
+          "x": 33,
+          "y": 3281,
+          "width": 108,
+          "height": 61
+        },
+        "color": "#D9D9D9",
+        "corner_radius": 15
+      },
+      {
+        "id": "222:1716",
+        "name": "Rectangle 15",
+        "bounds": {
+          "x": 34,
+          "y": 3391,
+          "width": 327,
+          "height": 120
+        },
+        "color": "#D9D9D9",
+        "corner_radius": 15
+      },
+      {
+        "id": "222:1724",
+        "name": "Rectangle 69",
+        "bounds": {
+          "x": 43,
+          "y": 3758,
+          "width": 306,
+          "height": 47
+        },
+        "color": "#E9E2D7",
+        "corner_radius": 35
+      },
+      {
+        "id": "222:1726",
+        "name": "Rectangle 70",
+        "bounds": {
+          "x": 43,
+          "y": 3831,
+          "width": 306,
+          "height": 47
+        },
+        "color": "#E9E2D7",
+        "corner_radius": 35
+      },
+      {
+        "id": "222:1728",
+        "name": "Rectangle 71",
+        "bounds": {
+          "x": 10,
+          "y": 3933,
+          "width": 370,
+          "height": 292
+        },
+        "color": "#FFFFFF",
+        "corner_radius": 20
+      },
+      {
+        "id": "231:11",
+        "name": "Rectangle 72",
+        "bounds": {
+          "x": 43,
+          "y": 4415,
+          "width": 306,
+          "height": 47
+        },
+        "color": "#5C4646",
+        "corner_radius": 35
+      }
+    ],
+    "elements_count": 221,
+    "elements": [
+      {
+        "id": "222:1317",
+        "name": "главная",
+        "type": "FRAME",
+        "bounds": {
+          "x": 435,
+          "y": 0,
+          "width": 390,
+          "height": 9145
+        },
+        "color": "#FFFFFF",
+        "font": null,
+        "parent": ""
+      },
+      {
+        "id": "222:1554",
+        "name": "Rectangle 63",
+        "type": "RECTANGLE",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 9145
+        },
+        "color": "#E9E2D7",
+        "font": null,
+        "parent": "главная"
+      },
+      {
+        "id": "222:1557",
+        "name": "Rectangle 64",
+        "type": "VECTOR",
+        "bounds": {
+          "x": 10,
+          "y": 20,
+          "width": 370,
+          "height": 487.5
+        },
+        "color": "#FFFFFF",
+        "font": null,
+        "parent": "главная"
+      },
+      {
+        "id": "222:1555",
+        "name": "_1_s_sh_2019 3",
+        "type": "RECTANGLE",
+        "bounds": {
+          "x": 18,
+          "y": 34,
+          "width": 132,
+          "height": 34
+        },
+        "color": null,
+        "font": null,
+        "parent": "главная"
+      },
+      {
+        "id": "222:1560",
+        "name": "Свердловская набережная, дом 58, литера А",
+        "type": "TEXT",
+        "bounds": {
+          "x": 203,
+          "y": 41,
+          "width": 111,
+          "height": 27
+        },
+        "color": "#414141",
+        "font": {
+          "family": "Circe",
+          "style": "Regular",
+          "size": 9,
+          "weight": 400
+        },
+        "parent": "главная"
+      },
+      {
+        "id": "222:1561",
+        "name": "Vector",
+        "type": "VECTOR",
+        "bounds": {
+          "x": 190,
+          "y": 43,
+          "width": 8,
+          "height": 12
+        },
+        "color": "#414141",
+        "font": null,
+        "parent": "главная"
+      },
+      {
+        "id": "222:1562",
+        "name": "Ellipse 2",
+        "type": "ELLIPSE",
+        "bounds": {
+          "x": 328,
+          "y": 30,
+          "width": 41,
+          "height": 42
+        },
+        "color": "#5C4646",
+        "font": null,
+        "parent": "главная"
+      },
+      {
+        "id": "222:1563",
+        "name": "Union",
+        "type": "BOOLEAN_OPERATION",
+        "bounds": {
+          "x": 338.056640625,
+          "y": 44,
+          "width": 21.1484375,
+          "height": 13.8974609375
+        },
+        "color": "#FFFFFF",
+        "font": null,
+        "parent": "главная"
+      },
+      {
+        "id": "222:1564",
+        "name": "Rectangle 50",
+        "type": "RECTANGLE",
+        "bounds": {
+          "x": 338.0570032559335,
+          "y": 43.99981231987476,
+          "width": 21.148208618164062,
+          "height": 3.021172523498535
+        },
+        "color": "#FFFFFF",
+        "font": null,
+        "parent": "Union"
+      },
+      {
+        "id": "222:1565",
+        "name": "Rectangle 51",
+        "type": "RECTANGLE",
+        "bounds": {
+          "x": 338.0570032559335,
+          "y": 54.876033782958984,
+          "width": 21.148208618164062,
+          "height": 3.021172523498535
+        },
+        "color": "#FFFFFF",
+        "font": null,
+        "parent": "Union"
+      },
+      {
+        "id": "222:1566",
+        "name": "Rectangle 52",
+        "type": "RECTANGLE",
+        "bounds": {
+          "x": 338.0570032559335,
+          "y": 49.437922954559326,
+          "width": 21.148208618164062,
+          "height": 3.021172523498535
+        },
+        "color": "#FFFFFF",
+        "font": null,
+        "parent": "Union"
+      },
+      {
+        "id": "222:1567",
+        "name": "Обучение под руководством практикующих врачей-дерматовенерологов и косметологов онлайн и очный формат // практика на моделях // диплом",
+        "type": "TEXT",
+        "bounds": {
+          "x": 43,
+          "y": 226,
+          "width": 306,
+          "height": 58
+        },
+        "color": null,
+        "font": {
+          "family": "Circe",
+          "style": "Regular",
+          "size": "mixed",
+          "weight": 400
+        },
+        "parent": "главная"
+      },
+      {
+        "id": "222:1568",
+        "name": "Станьте востребованным косметологом в авторской школе Марины Егоровой",
+        "type": "TEXT",
+        "bounds": {
+          "x": 43,
+          "y": 110,
+          "width": 304,
+          "height": 90
+        },
+        "color": "#1E1E1E",
+        "font": {
+          "family": "mixed",
+          "style": "mixed",
+          "size": "mixed",
+          "weight": "mixed"
+        },
+        "parent": "главная"
+      },
+      {
+        "id": "222:1569",
+        "name": "Rectangle 5",
+        "type": "RECTANGLE",
+        "bounds": {
+          "x": 43,
+          "y": 310,
+          "width": 306,
+          "height": 47
+        },
+        "color": "#5C4646",
+        "font": null,
+        "parent": "главная"
+      },
+      {
+        "id": "222:1570",
+        "name": "Rectangle 6",
+        "type": "RECTANGLE",
+        "bounds": {
+          "x": 43,
+          "y": 376,
+          "width": 306,
+          "height": 47
+        },
+        "color": "#5C4646",
+        "font": null,
+        "parent": "главная"
+      },
+      {
+        "id": "222:1630",
+        "name": "Rectangle 67",
+        "type": "RECTANGLE",
+        "bounds": {
+          "x": 43,
+          "y": 2367,
+          "width": 306,
+          "height": 47
+        },
+        "color": "#5C4646",
+        "font": null,
+        "parent": "главная"
+      },
+      {
+        "id": "222:1571",
+        "name": "Выбрать программу",
+        "type": "TEXT",
+        "bounds": {
+          "x": 109,
+          "y": 323,
+          "width": 175,
+          "height": 21
+        },
+        "color": "#FFFFFF",
+        "font": {
+          "family": "Circe",
+          "style": "Regular",
+          "size": 20,
+          "weight": 400
+        },
+        "parent": "главная"
+      },
+      {
+        "id": "222:1572",
+        "name": "Получить консультацию",
+        "type": "TEXT",
+        "bounds": {
+          "x": 88,
+          "y": 389,
+          "width": 216,
+          "height": 21
+        },
+        "color": "#FFFFFF",
+        "font": {
+          "family": "Circe",
+          "style": "Regular",
+          "size": 20,
+          "weight": 400
+        },
+        "parent": "главная"
+      },
+      {
+        "id": "222:1631",
+        "name": "Получить консультацию",
+        "type": "TEXT",
+        "bounds": {
+          "x": 88,
+          "y": 2380,
+          "width": 216,
+          "height": 21
+        },
+        "color": "#FFFFFF",
+        "font": {
+          "family": "Circe",
+          "style": "Regular",
+          "size": 20,
+          "weight": 400
+        },
+        "parent": "главная"
+      },
+      {
+        "id": "222:1573",
+        "name": "IMG_2244 2",
+        "type": "RECTANGLE",
+        "bounds": {
+          "x": 10,
+          "y": 455,
+          "width": 370,
+          "height": 451
+        },
+        "color": null,
+        "font": null,
+        "parent": "главная"
+      },
+      {
+        "id": "222:1574",
+        "name": "Rectangle 65",
+        "type": "RECTANGLE",
+        "bounds": {
+          "x": 10,
+          "y": 935,
+          "width": 370,
+          "height": 463
+        },
+        "color": "#FFFFFF",
+        "font": null,
+        "parent": "главная"
+      },
+      {
+        "id": "222:1575",
+        "name": "Марина Егорова — практикующий специалист с 18-летним опытом, преподаватель, спикер и создатель авторской школы. Она объединила фундаментальные медицинские знания и тонкое понимание эстетики в курсах, которые действительно готовят к работе в профессии",
+        "type": "TEXT",
+        "bounds": {
+          "x": 39,
+          "y": 970,
+          "width": 313,
+          "height": 105
+        },
+        "color": "#414141",
+        "font": {
+          "family": "Circe",
+          "style": "Light",
+          "size": 15,
+          "weight": 350
+        },
+        "parent": "главная"
+      },
+      {
+        "id": "222:1578",
+        "name": "«Я верю, что красота начинается с понимания. А профессия — с уважения к себе и другим»",
+        "type": "TEXT",
+        "bounds": {
+          "x": 33,
+          "y": 1097,
+          "width": 329,
+          "height": 100
+        },
+        "color": "#1E1E1E",
+        "font": {
+          "family": "FK Davinci",
+          "style": "Regular",
+          "size": 25,
+          "weight": 400
+        },
+        "parent": "главная"
+      },
+      {
+        "id": "222:1579",
+        "name": "Rectangle 66",
+        "type": "RECTANGLE",
+        "bounds": {
+          "x": 43,
+          "y": 1223,
+          "width": 306,
+          "height": 47
+        },
+        "color": "#5C4646",
+        "font": null,
+        "parent": "главная"
+      },
+      {
+        "id": "222:1580",
+        "name": "Узнать больше",
+        "type": "TEXT",
+        "bounds": {
+          "x": 131,
+          "y": 1236,
+          "width": 130,
+          "height": 21
+        },
+        "color": "#FFFFFF",
+        "font": {
+          "family": "Circe",
+          "style": "Regular",
+          "size": 20,
+          "weight": 400
+        },
+        "parent": "главная"
+      },
+      {
+        "id": "481:649",
+        "name": "IMG_4294 1",
+        "type": "RECTANGLE",
+        "bounds": {
+          "x": 10,
+          "y": 1344,
+          "width": 370,
+          "height": 352
+        },
+        "color": null,
+        "font": null,
+        "parent": "главная"
+      },
+      {
+        "id": "222:1582",
+        "name": "«Марина Егорова — основатель школы, врач, косметолог»",
+        "type": "TEXT",
+        "bounds": {
+          "x": 220,
+          "y": 1407,
+          "width": 124,
+          "height": 58
+        },
+        "color": "#5C4646",
+        "font": {
+          "family": "Arimo Hebrew Subset Italic",
+          "style": "Italic",
+          "size": 11,
+          "weight": 400
+        },
+        "parent": "главная"
+      },
+      {
+        "id": "222:1583",
+        "name": "заголовок обучение",
+        "type": "GROUP",
+        "bounds": {
+          "x": 34,
+          "y": 1722,
+          "width": 323,
+          "height": 110
+        },
+        "color": null,
+        "font": null,
+        "parent": "главная"
+      },
+      {
+        "id": "222:1584",
+        "name": "Кому подойдет обучение?",
+        "type": "TEXT",
+        "bounds": {
+          "x": 86,
+          "y": 1722,
+          "width": 219,
+          "height": 60
+        },
+        "color": "#414141",
+        "font": {
+          "family": "Circe",
+          "style": "Bold",
+          "size": 30,
+          "weight": 700
+        },
+        "parent": "заголовок обучение"
+      },
+      {
+        "id": "222:1585",
+        "name": "Наши программы подходят для любого уровня подготовки",
+        "type": "TEXT",
+        "bounds": {
+          "x": 34,
+          "y": 1790,
+          "width": 323,
+          "height": 42
+        },
+        "color": "#5C4646",
+        "font": {
+          "family": "Circe",
+          "style": "Regular",
+          "size": 20,
+          "weight": 400
+        },
+        "parent": "заголовок обучение"
+      },
+      {
+        "id": "222:1632",
+        "name": "заголовок обучение",
+        "type": "GROUP",
+        "bounds": {
+          "x": 40,
+          "y": 2450,
+          "width": 314,
+          "height": 223
+        },
+        "color": null,
+        "font": null,
+        "parent": "главная"
+      },
+      {
+        "id": "222:1633",
+        "name": "Выберите программу, которая откроет вам путь в профессию",
+        "type": "TEXT",
+        "bounds": {
+          "x": 49,
+          "y": 2450,
+          "width": 292,
+          "height": 90
+        },
+        "color": "#414141",
+        "font": {
+          "family": "Circe",
+          "style": "Bold",
+          "size": 30,
+          "weight": 700
+        },
+        "parent": "заголовок обучение"
+      },
+      {
+        "id": "222:1634",
+        "name": "6 направлений — для начинающих, медиков и практикующих специалистов Очный и онлайн-формат, диплом ФИС ФРДО и практика на моделях",
+        "type": "TEXT",
+        "bounds": {
+          "x": 40,
+          "y": 2553,
+          "width": 314,
+          "height": 120
+        },
+        "color": "#5C4646",
+        "font": {
+          "family": "mixed",
+          "style": "mixed",
+          "size": 20,
+          "weight": "mixed"
+        },
+        "parent": "заголовок обучение"
+      },
+      {
+        "id": "231:27",
+        "name": "Почему будущие косметологи выбирают школу Марины Егоровой",
+        "type": "TEXT",
+        "bounds": {
+          "x": 20,
+          "y": 6166,
+          "width": 349,
+          "height": 90
+        },
+        "color": "#414141",
+        "font": {
+          "family": "Circe",
+          "style": "Bold",
+          "size": 30,
+          "weight": 700
+        },
+        "parent": "главная"
+      },
+      {
+        "id": "231:13",
+        "name": "заголовок обучение",
+        "type": "GROUP",
+        "bounds": {
+          "x": 40,
+          "y": 4529,
+          "width": 314,
+          "height": 254
+        },
+        "color": null,
+        "font": null,
+        "parent": "главная"
+      },
+      {
+        "id": "231:14",
+        "name": "Наши преподаватели",
+        "type": "TEXT",
+        "bounds": {
+          "x": 49,
+          "y": 4529,
+          "width": 292,
+          "height": 30
+        },
+        "color": "#414141",
+        "font": {
+          "family": "Circe",
+          "style": "Bold",
+          "size": 30,
+          "weight": 700
+        },
+        "parent": "заголовок обучение"
+      },
+      {
+        "id": "231:15",
+        "name": "Преподаватели школы Марины Егоровой — это косметологи, дерматологи, физиологи с многолетним опытом частной практики и преподавания. Каждый из них умеет не только лечить и работать с клиентами, но и доносить сложные вещи простым, понятным языком",
+        "type": "TEXT",
+        "bounds": {
+          "x": 40,
+          "y": 4576,
+          "width": 314,
+          "height": 207
+        },
+        "color": "#5C4646",
+        "font": {
+          "family": "mixed",
+          "style": "mixed",
+          "size": 20,
+          "weight": "mixed"
+        },
+        "parent": "заголовок обучение"
+      },
+      {
+        "id": "231:20",
+        "name": "заголовок обучение",
+        "type": "GROUP",
+        "bounds": {
+          "x": 21,
+          "y": 5556,
+          "width": 349,
+          "height": 150
+        },
+        "color": null,
+        "font": null,
+        "parent": "главная"
+      },
+      {
+        "id": "231:21",
+        "name": "Нас выбирают сердцем и рекомендуют в будущем",
+        "type": "TEXT",
+        "bounds": {
+          "x": 21,
+          "y": 5556,
+          "width": 349,
+          "height": 60
+        },
+        "color": "#414141",
+        "font": {
+          "family": "Circe",
+          "style": "Bold",
+          "size": 30,
+          "weight": 700
+        },
+        "parent": "заголовок обучение"
+      },
+      {
+        "id": "231:22",
+        "name": "Вот что говорят выпускницы школы Марины Егоровой после завершения обучения",
+        "type": "TEXT",
+        "bounds": {
+          "x": 39,
+          "y": 5637,
+          "width": 314,
+          "height": 69
+        },
+        "color": "#5C4646",
+        "font": {
+          "family": "Circe",
+          "style": "Regular",
+          "size": 20,
+          "weight": 400
+        },
+        "parent": "заголовок обучение"
+      },
+      {
+        "id": "222:1586",
+        "name": "новички",
+        "type": "GROUP",
+        "bounds": {
+          "x": 10,
+          "y": 1858,
+          "width": 370,
+          "height": 110
+        },
+        "color": null,
+        "font": null,
+        "parent": "главная"
+      },
+      {
+        "id": "222:1587",
+        "name": "Rectangle 6",
+        "type": "RECTANGLE",
+        "bounds": {
+          "x": 10,
+          "y": 1858,
+          "width": 370,
+          "height": 110
+        },
+        "color": "#FFFFFF",
+        "font": null,
+        "parent": "новички"
+      },
+      {
+        "id": "222:1588",
+        "name": "Group 1",
+        "type": "GROUP",
+        "bounds": {
+          "x": 30,
+          "y": 1895,
+          "width": 59.57502746582031,
+          "height": 35
+        },
+        "color": null,
+        "font": null,
+        "parent": "новички"
+      },
+      {
+        "id": "222:1589",
+        "name": "Vector",
+        "type": "VECTOR",
+        "bounds": {
+          "x": 30,
+          "y": 1895,
+          "width": 34.81214141845703,
+          "height": 35
+        },
+        "color": "#5C4646",
+        "font": null,
+        "parent": "Group 1"
+      },
+      {
+        "id": "222:1590",
+        "name": "NEW",
+        "type": "VECTOR",
+        "bounds": {
+          "x": 58.16250801086426,
+          "y": 1914.887529373169,
+          "width": 31.412519454956055,
+          "height": 9.279152870178223
+        },
+        "color": "#5C4646",
+        "font": null,
+        "parent": "Group 1"
+      },
+      {
+        "id": "222:1591",
+        "name": "Овладейте новой профессией с нуля",
+        "type": "TEXT",
+        "bounds": {
+          "x": 109,
+          "y": 1929,
+          "width": 250,
+          "height": 16
+        },
+        "color": "#A7A7A7",
+        "font": {
+          "family": "Circe",
+          "style": "Regular",
+          "size": 15,
+          "weight": 400
+        },
+        "parent": "новички"
+      },
+      {
+        "id": "222:1592",
+        "name": "Новичкам без медицинского образования",
+        "type": "TEXT",
+        "bounds": {
+          "x": 109,
+          "y": 1881,
+          "width": 250,
+          "height": 40
+        },
+        "color": "#5C4646",
+        "font": {
+          "family": "Circe",
+          "style": "Bold",
+          "size": 19,
+          "weight": 700
+        },
+        "parent": "новички"
+      },
+      {
+        "id": "222:1594",
+        "name": "медики",
+        "type": "GROUP",
+        "bounds": {
+          "x": 10,
+          "y": 1980,
+          "width": 370,
+          "height": 110
+        },
+        "color": null,
+        "font": null,
+        "parent": "главная"
+      },
+      {
+        "id": "222:1595",
+        "name": "Rectangle 6",
+        "type": "RECTANGLE",
+        "bounds": {
+          "x": 10,
+          "y": 1980,
+          "width": 370,
+          "height": 110
+        },
+        "color": "#FFFFFF",
+        "font": null,
+        "parent": "медики"
+      },
+      {
+        "id": "222:1599",
+        "name": "Смените сферу или дополните профиль",
+        "type": "TEXT",
+        "bounds": {
+          "x": 90,
+          "y": 2051,
+          "width": 271,
+          "height": 16
+        },
+        "color": "#A7A7A7",
+        "font": {
+          "family": "Circe",
+          "style": "Regular",
+          "size": 15,
+          "weight": 400
+        },
+        "parent": "медики"
+      },
+      {
+        "id": "222:1600",
+        "name": "Специалистам с медицинским дипломом",
+        "type": "TEXT",
+        "bounds": {
+          "x": 101,
+          "y": 2003,
+          "width": 250,
+          "height": 40
+        },
+        "color": "#5C4646",
+        "font": {
+          "family": "Circe",
+          "style": "Bold",
+          "size": 19,
+          "weight": 700
+        },
+        "parent": "медики"
+      },
+      {
+        "id": "222:1601",
+        "name": "Group 3",
+        "type": "GROUP",
+        "bounds": {
+          "x": 30,
+          "y": 2017,
+          "width": 43.999996185302734,
+          "height": 35.53845977783203
+        },
+        "color": null,
+        "font": null,
+        "parent": "медики"
+      },
+      {
+        "id": "222:1602",
+        "name": "Group 1",
+        "type": "GROUP",
+        "bounds": {
+          "x": 30,
+          "y": 2016.9999906122684,
+          "width": 35.347713470458984,
+          "height": 35.53845977783203
+        },
+        "color": null,
+        "font": null,
+        "parent": "Group 3"
+      },
+      {
+        "id": "222:1603",
+        "name": "Vector",
+        "type": "VECTOR",
+        "bounds": {
+          "x": 30,
+          "y": 2016.9999906122684,
+          "width": 35.347713470458984,
+          "height": 35.53845977783203
+        },
+        "color": "#5C4646",
+        "font": null,
+        "parent": "Group 1"
+      },
+      {
+        "id": "222:1604",
+        "name": "+",
+        "type": "VECTOR",
+        "bounds": {
+          "x": 56.512821197509766,
+          "y": 2033.358964920044,
+          "width": 17.487178802490234,
+          "height": 17.487178802490234
+        },
+        "color": "#5C4646",
+        "font": null,
+        "parent": "Group 3"
+      },
+      {
+        "id": "222:1607",
+        "name": "фарма/провизор",
+        "type": "GROUP",
+        "bounds": {
+          "x": 10,
+          "y": 2102,
+          "width": 370,
+          "height": 110
+        },
+        "color": null,
+        "font": null,
+        "parent": "главная"
+      },
+      {
+        "id": "222:1608",
+        "name": "Rectangle 6",
+        "type": "RECTANGLE",
+        "bounds": {
+          "x": 10,
+          "y": 2102,
+          "width": 370,
+          "height": 110
+        },
+        "color": "#FFFFFF",
+        "font": null,
+        "parent": "фарма/провизор"
+      },
+      {
+        "id": "222:1609",
+        "name": "Раскройте новые горизонты в индустрии красоты",
+        "type": "TEXT",
+        "bounds": {
+          "x": 90,
+          "y": 2154,
+          "width": 271,
+          "height": 32
+        },
+        "color": "#A7A7A7",
+        "font": {
+          "family": "Circe",
+          "style": "Regular",
+          "size": 15,
+          "weight": 400
+        },
+        "parent": "фарма/провизор"
+      },
+      {
+        "id": "222:1610",
+        "name": "Фармацевтам и провизорам",
+        "type": "TEXT",
+        "bounds": {
+          "x": 101,
+          "y": 2127,
+          "width": 248,
+          "height": 20
+        },
+        "color": "#5C4646",
+        "font": {
+          "family": "Circe",
+          "style": "Bold",
+          "size": 19,
+          "weight": 700
+        },
+        "parent": "фарма/провизор"
+      },
+      {
+        "id": "222:1616",
+        "name": "Group 2",
+        "type": "GROUP",
+        "bounds": {
+          "x": 30,
+          "y": 2139,
+          "width": 62.52947998046875,
+          "height": 52.0001220703125
+        },
+        "color": null,
+        "font": null,
+        "parent": "фарма/провизор"
+      },
+      {
+        "id": "222:1617",
+        "name": "Vector",
+        "type": "VECTOR",
+        "bounds": {
+          "x": 29.999999999999943,
+          "y": 2139.0000543892384,
+          "width": 36.5056266784668,
+          "height": 36.70262908935547
+        },
+        "color": "#5C4646",
+        "font": null,
+        "parent": "Group 2"
+      },
+      {
+        "id": "222:1618",
+        "name": "Vector",
+        "type": "VECTOR",
+        "bounds": {
+          "x": 78.93974304199219,
+          "y": 2149.486559867859,
+          "width": 17.14382553100586,
+          "height": 39.185890197753906
+        },
+        "color": "#5C4646",
+        "font": null,
+        "parent": "Group 2"
+      },
+      {
+        "id": "222:1619",
+        "name": "косметологи",
+        "type": "GROUP",
+        "bounds": {
+          "x": 10,
+          "y": 2224,
+          "width": 370,
+          "height": 110
+        },
+        "color": null,
+        "font": null,
+        "parent": "главная"
+      },
+      {
+        "id": "222:1620",
+        "name": "Rectangle 6",
+        "type": "RECTANGLE",
+        "bounds": {
+          "x": 10,
+          "y": 2224,
+          "width": 370,
+          "height": 110
+        },
+        "color": "#FFFFFF",
+        "font": null,
+        "parent": "косметологи"
+      },
+      {
+        "id": "222:1621",
+        "name": "Повышайте квалификацию и расширяйте навыки",
+        "type": "TEXT",
+        "bounds": {
+          "x": 90,
+          "y": 2276,
+          "width": 271,
+          "height": 32
+        },
+        "color": "#A7A7A7",
+        "font": {
+          "family": "Circe",
+          "style": "Regular",
+          "size": 15,
+          "weight": 400
+        },
+        "parent": "косметологи"
+      },
+      {
+        "id": "222:1622",
+        "name": "Практикующим косметологам",
+        "type": "TEXT",
+        "bounds": {
+          "x": 105,
+          "y": 2249,
+          "width": 257,
+          "height": 20
+        },
+        "color": "#5C4646",
+        "font": {
+          "family": "Circe",
+          "style": "Bold",
+          "size": 19,
+          "weight": 700
+        },
+        "parent": "косметологи"
+      },
+      {
+        "id": "222:1626",
+        "name": "Group 4",
+        "type": "GROUP",
+        "bounds": {
+          "x": 30,
+          "y": 2261,
+          "width": 51,
+          "height": 47.613433837890625
+        },
+        "color": null,
+        "font": null,
+        "parent": "косметологи"
+      },
+      {
+        "id": "222:1627",
+        "name": "Group 1",
+        "type": "GROUP",
+        "bounds": {
+          "x": 30,
+          "y": 2261,
+          "width": 36.354740142822266,
+          "height": 36.55092239379883
+        },
+        "color": null,
+        "font": null,
+        "parent": "Group 4"
+      },
+      {
+        "id": "222:1628",
+        "name": "Vector",
+        "type": "VECTOR",
+        "bounds": {
+          "x": 30,
+          "y": 2261,
+          "width": 36.354740142822266,
+          "height": 36.55092239379883
+        },
+        "color": "#5C4646",
+        "font": null,
+        "parent": "Group 1"
+      },
+      {
+        "id": "222:1629",
+        "name": "Vector",
+        "type": "VECTOR",
+        "bounds": {
+          "x": 50.84701347351074,
+          "y": 2278.460548400879,
+          "width": 30.152986526489258,
+          "height": 30.152986526489258
+        },
+        "color": "#5C4646",
+        "font": null,
+        "parent": "Group 4"
+      },
+      {
+        "id": "222:1635",
+        "name": "Rectangle 68",
+        "type": "RECTANGLE",
+        "bounds": {
+          "x": 10,
+          "y": 2705,
+          "width": 370,
+          "height": 1200
+        },
+        "color": "#5C4646",
+        "font": null,
+        "parent": "главная"
+      },
+      {
+        "id": "222:1636",
+        "name": "8",
+        "type": "GROUP",
+        "bounds": {
+          "x": 32,
+          "y": 2725,
+          "width": 327,
+          "height": 92
+        },
+        "color": null,
+        "font": null,
+        "parent": "главная"
+      },
+      {
+        "id": "222:1637",
+        "name": "Косметик-эстетист",
+        "type": "TEXT",
+        "bounds": {
+          "x": 153,
+          "y": 2725,
+          "width": 196,
+          "height": 24
+        },
+        "color": "#E9E2D7",
+        "font": {
+          "family": "Circe",
+          "style": "Regular",
+          "size": 23,
+          "weight": 400
+        },
+        "parent": "8"
+      },
+      {
+        "id": "222:1638",
+        "name": "Продолжительноcть курса: 300 часов Базовая программа для старта с нуля",
+        "type": "TEXT",
+        "bounds": {
+          "x": 154,
+          "y": 2769,
+          "width": 205,
+          "height": 25
+        },
+        "color": "#A7A7A7",
+        "font": {
+          "family": "mixed",
+          "style": "mixed",
+          "size": "mixed",
+          "weight": "mixed"
+        },
+        "parent": "8"
+      },
+      {
+        "id": "222:1639",
+        "name": "Line 1",
+        "type": "LINE",
+        "bounds": {
+          "x": 32,
+          "y": 2817,
+          "width": 327,
+          "height": 0
+        },
+        "color": null,
+        "font": null,
+        "parent": "8"
+      },
+      {
+        "id": "222:1641",
+        "name": "Group 4",
+        "type": "GROUP",
+        "bounds": {
+          "x": 33,
+          "y": 2731,
+          "width": 108,
+          "height": 61.32413864135742
+        },
+        "color": null,
+        "font": null,
+        "parent": "8"
+      },
+      {
+        "id": "222:1642",
+        "name": "Rectangle 10",
+        "type": "RECTANGLE",
+        "bounds": {
+          "x": 33,
+          "y": 2731,
+          "width": 108,
+          "height": 61.32413864135742
+        },
+        "color": "#D9D9D9",
+        "font": null,
+        "parent": "Group 4"
+      },
+      {
+        "id": "222:1643",
+        "name": "anna-keibalo-u3TGN9QtozU-unsplash 1",
+        "type": "RECTANGLE",
+        "bounds": {
+          "x": -0.19290924072265625,
+          "y": 2590.8538208007812,
+          "width": 143.2357177734375,
+          "height": 214.82736206054688
+        },
+        "color": null,
+        "font": null,
+        "parent": "Group 4"
+      },
+      {
+        "id": "222:1644",
+        "name": "9",
+        "type": "GROUP",
+        "bounds": {
+          "x": 32,
+          "y": 2841,
+          "width": 342,
+          "height": 86
+        },
+        "color": null,
+        "font": null,
+        "parent": "главная"
+      },
+      {
+        "id": "222:1645",
+        "name": "Сестринское дело в косметологии",
+        "type": "TEXT",
+        "bounds": {
+          "x": 153,
+          "y": 2841,
+          "width": 196,
+          "height": 24
+        },
+        "color": "#E9E2D7",
+        "font": {
+          "family": "Circe",
+          "style": "Regular",
+          "size": 23,
+          "weight": 400
+        },
+        "parent": "9"
+      },
+      {
+        "id": "222:1646",
+        "name": "Продолжительноcть курса: 288 часов Для специалистов со средним мед.образованием",
+        "type": "TEXT",
+        "bounds": {
+          "x": 154,
+          "y": 2879,
+          "width": 220,
+          "height": 25
+        },
+        "color": "#A7A7A7",
+        "font": {
+          "family": "mixed",
+          "style": "mixed",
+          "size": "mixed",
+          "weight": "mixed"
+        },
+        "parent": "9"
+      },
+      {
+        "id": "222:1647",
+        "name": "Line 1",
+        "type": "LINE",
+        "bounds": {
+          "x": 32,
+          "y": 2927,
+          "width": 327,
+          "height": 0
+        },
+        "color": null,
+        "font": null,
+        "parent": "9"
+      },
+      {
+        "id": "222:1648",
+        "name": "Group 4",
+        "type": "GROUP",
+        "bounds": {
+          "x": 33,
+          "y": 2841,
+          "width": 108,
+          "height": 61.32413864135742
+        },
+        "color": null,
+        "font": null,
+        "parent": "9"
+      },
+      {
+        "id": "222:1649",
+        "name": "Rectangle 10",
+        "type": "RECTANGLE",
+        "bounds": {
+          "x": 33,
+          "y": 2841,
+          "width": 108,
+          "height": 61.32413864135742
+        },
+        "color": "#D9D9D9",
+        "font": null,
+        "parent": "Group 4"
+      },
+      {
+        "id": "222:1652",
+        "name": "Mask group",
+        "type": "GROUP",
+        "bounds": {
+          "x": 33,
+          "y": 2841,
+          "width": 108,
+          "height": 61
+        },
+        "color": null,
+        "font": null,
+        "parent": "Group 4"
+      },
+      {
+        "id": "222:1653",
+        "name": "Mask group",
+        "type": "GROUP",
+        "bounds": {
+          "x": 33,
+          "y": 2841,
+          "width": 108,
+          "height": 61
+        },
+        "color": null,
+        "font": null,
+        "parent": "Mask group"
+      },
+      {
+        "id": "222:1654",
+        "name": "Rectangle 11",
+        "type": "RECTANGLE",
+        "bounds": {
+          "x": 33,
+          "y": 2841,
+          "width": 108,
+          "height": 61
+        },
+        "color": "#D9D9D9",
+        "font": null,
+        "parent": "Mask group"
+      },
+      {
+        "id": "222:1655",
+        "name": "karelys-ruiz-PqyzuzFiQfY-unsplash 1",
+        "type": "RECTANGLE",
+        "bounds": {
+          "x": -102.03195190429688,
+          "y": 2730.014389038086,
+          "width": 389.1523132324219,
+          "height": 258.7862854003906
+        },
+        "color": null,
+        "font": null,
+        "parent": "Mask group"
+      },
+      {
+        "id": "222:1657",
+        "name": "10",
+        "type": "GROUP",
+        "bounds": {
+          "x": 32,
+          "y": 2951,
+          "width": 342,
+          "height": 86
+        },
+        "color": null,
+        "font": null,
+        "parent": "главная"
+      },
+      {
+        "id": "222:1658",
+        "name": "Основы косметологии",
+        "type": "TEXT",
+        "bounds": {
+          "x": 153,
+          "y": 2951,
+          "width": 208,
+          "height": 52
+        },
+        "color": "#E9E2D7",
+        "font": {
+          "family": "Circe",
+          "style": "Regular",
+          "size": 23,
+          "weight": 400
+        },
+        "parent": "10"
+      },
+      {
+        "id": "222:1659",
+        "name": "Продолжительноcть курса: 300 часов Краткий вводный курс - старт в профессию",
+        "type": "TEXT",
+        "bounds": {
+          "x": 154,
+          "y": 2990,
+          "width": 220,
+          "height": 25
+        },
+        "color": "#A7A7A7",
+        "font": {
+          "family": "mixed",
+          "style": "mixed",
+          "size": "mixed",
+          "weight": "mixed"
+        },
+        "parent": "10"
+      },
+      {
+        "id": "222:1660",
+        "name": "Line 1",
+        "type": "LINE",
+        "bounds": {
+          "x": 32,
+          "y": 3037,
+          "width": 327,
+          "height": 0
+        },
+        "color": null,
+        "font": null,
+        "parent": "10"
+      },
+      {
+        "id": "222:1661",
+        "name": "Group 4",
+        "type": "GROUP",
+        "bounds": {
+          "x": 33,
+          "y": 2951,
+          "width": 108,
+          "height": 61.32413864135742
+        },
+        "color": null,
+        "font": null,
+        "parent": "10"
+      },
+      {
+        "id": "222:1662",
+        "name": "Rectangle 10",
+        "type": "RECTANGLE",
+        "bounds": {
+          "x": 33,
+          "y": 2951,
+          "width": 108,
+          "height": 61.32413864135742
+        },
+        "color": "#D9D9D9",
+        "font": null,
+        "parent": "Group 4"
+      },
+      {
+        "id": "222:1663",
+        "name": "Mask group",
+        "type": "GROUP",
+        "bounds": {
+          "x": 33,
+          "y": 2951,
+          "width": 108,
+          "height": 61
+        },
+        "color": null,
+        "font": null,
+        "parent": "Group 4"
+      },
+      {
+        "id": "222:1664",
+        "name": "Mask group",
+        "type": "GROUP",
+        "bounds": {
+          "x": 33,
+          "y": 2951,
+          "width": 108,
+          "height": 61
+        },
+        "color": null,
+        "font": null,
+        "parent": "Mask group"
+      },
+      {
+        "id": "222:1665",
+        "name": "Rectangle 11",
+        "type": "RECTANGLE",
+        "bounds": {
+          "x": 33,
+          "y": 2951,
+          "width": 108,
+          "height": 61
+        },
+        "color": "#D9D9D9",
+        "font": null,
+        "parent": "Mask group"
+      },
+      {
+        "id": "222:1666",
+        "name": "karelys-ruiz-PqyzuzFiQfY-unsplash 1",
+        "type": "RECTANGLE",
+        "bounds": {
+          "x": -102.03195190429688,
+          "y": 2840.014389038086,
+          "width": 389.1523132324219,
+          "height": 258.7862854003906
+        },
+        "color": null,
+        "font": null,
+        "parent": "Mask group"
+      },
+      {
+        "id": "222:1667",
+        "name": "dima-solomin-AJ1xeSGWfms-unsplash 1",
+        "type": "RECTANGLE",
+        "bounds": {
+          "x": -7,
+          "y": 3018.76180267334,
+          "width": 117.3707275390625,
+          "height": 176.03460693359375
+        },
+        "color": null,
+        "font": null,
+        "parent": "Group 4"
+      },
+      {
+        "id": "222:1669",
+        "name": "11",
+        "type": "GROUP",
+        "bounds": {
+          "x": 32,
+          "y": 3061,
+          "width": 342,
+          "height": 86
+        },
+        "color": null,
+        "font": null,
+        "parent": "главная"
+      }
+    ]
+  },
+  "structure": {
+    "name": "главная",
+    "type": "FRAME",
+    "bounds": {
+      "x": 435,
+      "y": 0,
+      "width": 390,
+      "height": 9145
+    },
+    "children": [
+      {
+        "name": "Rectangle 63",
+        "type": "RECTANGLE",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 9145
+        }
+      },
+      {
+        "name": "Rectangle 64",
+        "type": "VECTOR",
+        "bounds": {
+          "x": 10,
+          "y": 20,
+          "width": 370,
+          "height": 487.5
+        }
+      },
+      {
+        "name": "_1_s_sh_2019 3",
+        "type": "RECTANGLE",
+        "bounds": {
+          "x": 18,
+          "y": 34,
+          "width": 132,
+          "height": 34
+        }
+      },
+      {
+        "name": "Свердловская набережная, дом 58, литера А",
+        "type": "TEXT",
+        "bounds": {
+          "x": 203,
+          "y": 41,
+          "width": 111,
+          "height": 27
+        }
+      },
+      {
+        "name": "Vector",
+        "type": "VECTOR",
+        "bounds": {
+          "x": 190,
+          "y": 43,
+          "width": 8,
+          "height": 12
+        }
+      },
+      {
+        "name": "Ellipse 2",
+        "type": "ELLIPSE",
+        "bounds": {
+          "x": 328,
+          "y": 30,
+          "width": 41,
+          "height": 42
+        }
+      },
+      {
+        "name": "Union",
+        "type": "BOOLEAN_OPERATION",
+        "bounds": {
+          "x": 338.056640625,
+          "y": 44,
+          "width": 21.1484375,
+          "height": 13.8974609375
+        },
+        "children": [
+          {
+            "name": "Rectangle 50",
+            "type": "RECTANGLE",
+            "bounds": {
+              "x": 338.0570032559335,
+              "y": 43.99981231987476,
+              "width": 21.148208618164062,
+              "height": 3.021172523498535
+            }
+          },
+          {
+            "name": "Rectangle 51",
+            "type": "RECTANGLE",
+            "bounds": {
+              "x": 338.0570032559335,
+              "y": 54.876033782958984,
+              "width": 21.148208618164062,
+              "height": 3.021172523498535
+            }
+          },
+          {
+            "name": "Rectangle 52",
+            "type": "RECTANGLE",
+            "bounds": {
+              "x": 338.0570032559335,
+              "y": 49.437922954559326,
+              "width": 21.148208618164062,
+              "height": 3.021172523498535
+            }
+          }
+        ]
+      },
+      {
+        "name": "Обучение под руководством практикующих врачей-дерматовенерологов и косметологов онлайн и очный формат // практика на моделях // диплом",
+        "type": "TEXT",
+        "bounds": {
+          "x": 43,
+          "y": 226,
+          "width": 306,
+          "height": 58
+        }
+      },
+      {
+        "name": "Станьте востребованным косметологом в авторской школе Марины Егоровой",
+        "type": "TEXT",
+        "bounds": {
+          "x": 43,
+          "y": 110,
+          "width": 304,
+          "height": 90
+        }
+      },
+      {
+        "name": "Rectangle 5",
+        "type": "RECTANGLE",
+        "bounds": {
+          "x": 43,
+          "y": 310,
+          "width": 306,
+          "height": 47
+        }
+      },
+      {
+        "name": "Rectangle 6",
+        "type": "RECTANGLE",
+        "bounds": {
+          "x": 43,
+          "y": 376,
+          "width": 306,
+          "height": 47
+        }
+      },
+      {
+        "name": "Rectangle 67",
+        "type": "RECTANGLE",
+        "bounds": {
+          "x": 43,
+          "y": 2367,
+          "width": 306,
+          "height": 47
+        }
+      },
+      {
+        "name": "Выбрать программу",
+        "type": "TEXT",
+        "bounds": {
+          "x": 109,
+          "y": 323,
+          "width": 175,
+          "height": 21
+        }
+      },
+      {
+        "name": "Получить консультацию",
+        "type": "TEXT",
+        "bounds": {
+          "x": 88,
+          "y": 389,
+          "width": 216,
+          "height": 21
+        }
+      },
+      {
+        "name": "Получить консультацию",
+        "type": "TEXT",
+        "bounds": {
+          "x": 88,
+          "y": 2380,
+          "width": 216,
+          "height": 21
+        }
+      },
+      {
+        "name": "IMG_2244 2",
+        "type": "RECTANGLE",
+        "bounds": {
+          "x": 10,
+          "y": 455,
+          "width": 370,
+          "height": 451
+        }
+      },
+      {
+        "name": "Rectangle 65",
+        "type": "RECTANGLE",
+        "bounds": {
+          "x": 10,
+          "y": 935,
+          "width": 370,
+          "height": 463
+        }
+      },
+      {
+        "name": "Марина Егорова — практикующий специалист с 18-летним опытом, преподаватель, спикер и создатель авторской школы. Она объединила фундаментальные медицинские знания и тонкое понимание эстетики в курсах, которые действительно готовят к работе в профессии",
+        "type": "TEXT",
+        "bounds": {
+          "x": 39,
+          "y": 970,
+          "width": 313,
+          "height": 105
+        }
+      },
+      {
+        "name": "«Я верю, что красота начинается с понимания. А профессия — с уважения к себе и другим»",
+        "type": "TEXT",
+        "bounds": {
+          "x": 33,
+          "y": 1097,
+          "width": 329,
+          "height": 100
+        }
+      },
+      {
+        "name": "Rectangle 66",
+        "type": "RECTANGLE",
+        "bounds": {
+          "x": 43,
+          "y": 1223,
+          "width": 306,
+          "height": 47
+        }
+      },
+      {
+        "name": "Узнать больше",
+        "type": "TEXT",
+        "bounds": {
+          "x": 131,
+          "y": 1236,
+          "width": 130,
+          "height": 21
+        }
+      },
+      {
+        "name": "IMG_4294 1",
+        "type": "RECTANGLE",
+        "bounds": {
+          "x": 10,
+          "y": 1344,
+          "width": 370,
+          "height": 352
+        }
+      },
+      {
+        "name": "«Марина Егорова — основатель школы, врач, косметолог»",
+        "type": "TEXT",
+        "bounds": {
+          "x": 220,
+          "y": 1407,
+          "width": 124,
+          "height": 58
+        }
+      },
+      {
+        "name": "заголовок обучение",
+        "type": "GROUP",
+        "bounds": {
+          "x": 34,
+          "y": 1722,
+          "width": 323,
+          "height": 110
+        },
+        "children": [
+          {
+            "name": "Кому подойдет обучение?",
+            "type": "TEXT",
+            "bounds": {
+              "x": 86,
+              "y": 1722,
+              "width": 219,
+              "height": 60
+            }
+          },
+          {
+            "name": "Наши программы подходят для любого уровня подготовки",
+            "type": "TEXT",
+            "bounds": {
+              "x": 34,
+              "y": 1790,
+              "width": 323,
+              "height": 42
+            }
+          }
+        ]
+      },
+      {
+        "name": "заголовок обучение",
+        "type": "GROUP",
+        "bounds": {
+          "x": 40,
+          "y": 2450,
+          "width": 314,
+          "height": 223
+        },
+        "children": [
+          {
+            "name": "Выберите программу, которая откроет вам путь в профессию",
+            "type": "TEXT",
+            "bounds": {
+              "x": 49,
+              "y": 2450,
+              "width": 292,
+              "height": 90
+            }
+          },
+          {
+            "name": "6 направлений — для начинающих, медиков и практикующих специалистов Очный и онлайн-формат, диплом ФИС ФРДО и практика на моделях",
+            "type": "TEXT",
+            "bounds": {
+              "x": 40,
+              "y": 2553,
+              "width": 314,
+              "height": 120
+            }
+          }
+        ]
+      },
+      {
+        "name": "Почему будущие косметологи выбирают школу Марины Егоровой",
+        "type": "TEXT",
+        "bounds": {
+          "x": 20,
+          "y": 6166,
+          "width": 349,
+          "height": 90
+        }
+      },
+      {
+        "name": "заголовок обучение",
+        "type": "GROUP",
+        "bounds": {
+          "x": 40,
+          "y": 4529,
+          "width": 314,
+          "height": 254
+        },
+        "children": [
+          {
+            "name": "Наши преподаватели",
+            "type": "TEXT",
+            "bounds": {
+              "x": 49,
+              "y": 4529,
+              "width": 292,
+              "height": 30
+            }
+          },
+          {
+            "name": "Преподаватели школы Марины Егоровой — это косметологи, дерматологи, физиологи с многолетним опытом частной практики и преподавания. Каждый из них умеет не только лечить и работать с клиентами, но и доносить сложные вещи простым, понятным языком",
+            "type": "TEXT",
+            "bounds": {
+              "x": 40,
+              "y": 4576,
+              "width": 314,
+              "height": 207
+            }
+          }
+        ]
+      },
+      {
+        "name": "заголовок обучение",
+        "type": "GROUP",
+        "bounds": {
+          "x": 21,
+          "y": 5556,
+          "width": 349,
+          "height": 150
+        },
+        "children": [
+          {
+            "name": "Нас выбирают сердцем и рекомендуют в будущем",
+            "type": "TEXT",
+            "bounds": {
+              "x": 21,
+              "y": 5556,
+              "width": 349,
+              "height": 60
+            }
+          },
+          {
+            "name": "Вот что говорят выпускницы школы Марины Егоровой после завершения обучения",
+            "type": "TEXT",
+            "bounds": {
+              "x": 39,
+              "y": 5637,
+              "width": 314,
+              "height": 69
+            }
+          }
+        ]
+      },
+      {
+        "name": "новички",
+        "type": "GROUP",
+        "bounds": {
+          "x": 10,
+          "y": 1858,
+          "width": 370,
+          "height": 110
+        },
+        "children": [
+          {
+            "name": "Rectangle 6",
+            "type": "RECTANGLE",
+            "bounds": {
+              "x": 10,
+              "y": 1858,
+              "width": 370,
+              "height": 110
+            }
+          },
+          {
+            "name": "Group 1",
+            "type": "GROUP",
+            "bounds": {
+              "x": 30,
+              "y": 1895,
+              "width": 59.57502746582031,
+              "height": 35
+            },
+            "children": [
+              {
+                "name": "Vector",
+                "type": "VECTOR",
+                "bounds": {
+                  "x": 30,
+                  "y": 1895,
+                  "width": 34.81214141845703,
+                  "height": 35
+                }
+              },
+              {
+                "name": "NEW",
+                "type": "VECTOR",
+                "bounds": {
+                  "x": 58.16250801086426,
+                  "y": 1914.887529373169,
+                  "width": 31.412519454956055,
+                  "height": 9.279152870178223
+                }
+              }
+            ]
+          },
+          {
+            "name": "Овладейте новой профессией с нуля",
+            "type": "TEXT",
+            "bounds": {
+              "x": 109,
+              "y": 1929,
+              "width": 250,
+              "height": 16
+            }
+          },
+          {
+            "name": "Новичкам без медицинского образования",
+            "type": "TEXT",
+            "bounds": {
+              "x": 109,
+              "y": 1881,
+              "width": 250,
+              "height": 40
+            }
+          }
+        ]
+      },
+      {
+        "name": "медики",
+        "type": "GROUP",
+        "bounds": {
+          "x": 10,
+          "y": 1980,
+          "width": 370,
+          "height": 110
+        },
+        "children": [
+          {
+            "name": "Rectangle 6",
+            "type": "RECTANGLE",
+            "bounds": {
+              "x": 10,
+              "y": 1980,
+              "width": 370,
+              "height": 110
+            }
+          },
+          {
+            "name": "Смените сферу или дополните профиль",
+            "type": "TEXT",
+            "bounds": {
+              "x": 90,
+              "y": 2051,
+              "width": 271,
+              "height": 16
+            }
+          },
+          {
+            "name": "Специалистам с медицинским дипломом",
+            "type": "TEXT",
+            "bounds": {
+              "x": 101,
+              "y": 2003,
+              "width": 250,
+              "height": 40
+            }
+          },
+          {
+            "name": "Group 3",
+            "type": "GROUP",
+            "bounds": {
+              "x": 30,
+              "y": 2017,
+              "width": 43.999996185302734,
+              "height": 35.53845977783203
+            },
+            "children": [
+              {
+                "name": "Group 1",
+                "type": "GROUP",
+                "bounds": {
+                  "x": 30,
+                  "y": 2016.9999906122684,
+                  "width": 35.347713470458984,
+                  "height": 35.53845977783203
+                },
+                "children": [
+                  {
+                    "name": "Vector",
+                    "type": "VECTOR",
+                    "bounds": {
+                      "x": 30,
+                      "y": 2016.9999906122684,
+                      "width": 35.347713470458984,
+                      "height": 35.53845977783203
+                    }
+                  }
+                ]
+              },
+              {
+                "name": "+",
+                "type": "VECTOR",
+                "bounds": {
+                  "x": 56.512821197509766,
+                  "y": 2033.358964920044,
+                  "width": 17.487178802490234,
+                  "height": 17.487178802490234
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "фарма/провизор",
+        "type": "GROUP",
+        "bounds": {
+          "x": 10,
+          "y": 2102,
+          "width": 370,
+          "height": 110
+        },
+        "children": [
+          {
+            "name": "Rectangle 6",
+            "type": "RECTANGLE",
+            "bounds": {
+              "x": 10,
+              "y": 2102,
+              "width": 370,
+              "height": 110
+            }
+          },
+          {
+            "name": "Раскройте новые горизонты в индустрии красоты",
+            "type": "TEXT",
+            "bounds": {
+              "x": 90,
+              "y": 2154,
+              "width": 271,
+              "height": 32
+            }
+          },
+          {
+            "name": "Фармацевтам и провизорам",
+            "type": "TEXT",
+            "bounds": {
+              "x": 101,
+              "y": 2127,
+              "width": 248,
+              "height": 20
+            }
+          },
+          {
+            "name": "Group 2",
+            "type": "GROUP",
+            "bounds": {
+              "x": 30,
+              "y": 2139,
+              "width": 62.52947998046875,
+              "height": 52.0001220703125
+            },
+            "children": [
+              {
+                "name": "Vector",
+                "type": "VECTOR",
+                "bounds": {
+                  "x": 29.999999999999943,
+                  "y": 2139.0000543892384,
+                  "width": 36.5056266784668,
+                  "height": 36.70262908935547
+                }
+              },
+              {
+                "name": "Vector",
+                "type": "VECTOR",
+                "bounds": {
+                  "x": 78.93974304199219,
+                  "y": 2149.486559867859,
+                  "width": 17.14382553100586,
+                  "height": 39.185890197753906
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "косметологи",
+        "type": "GROUP",
+        "bounds": {
+          "x": 10,
+          "y": 2224,
+          "width": 370,
+          "height": 110
+        },
+        "children": [
+          {
+            "name": "Rectangle 6",
+            "type": "RECTANGLE",
+            "bounds": {
+              "x": 10,
+              "y": 2224,
+              "width": 370,
+              "height": 110
+            }
+          },
+          {
+            "name": "Повышайте квалификацию и расширяйте навыки",
+            "type": "TEXT",
+            "bounds": {
+              "x": 90,
+              "y": 2276,
+              "width": 271,
+              "height": 32
+            }
+          },
+          {
+            "name": "Практикующим косметологам",
+            "type": "TEXT",
+            "bounds": {
+              "x": 105,
+              "y": 2249,
+              "width": 257,
+              "height": 20
+            }
+          },
+          {
+            "name": "Group 4",
+            "type": "GROUP",
+            "bounds": {
+              "x": 30,
+              "y": 2261,
+              "width": 51,
+              "height": 47.613433837890625
+            },
+            "children": [
+              {
+                "name": "Group 1",
+                "type": "GROUP",
+                "bounds": {
+                  "x": 30,
+                  "y": 2261,
+                  "width": 36.354740142822266,
+                  "height": 36.55092239379883
+                },
+                "children": [
+                  {
+                    "name": "Vector",
+                    "type": "VECTOR",
+                    "bounds": {
+                      "x": 30,
+                      "y": 2261,
+                      "width": 36.354740142822266,
+                      "height": 36.55092239379883
+                    }
+                  }
+                ]
+              },
+              {
+                "name": "Vector",
+                "type": "VECTOR",
+                "bounds": {
+                  "x": 50.84701347351074,
+                  "y": 2278.460548400879,
+                  "width": 30.152986526489258,
+                  "height": 30.152986526489258
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Rectangle 68",
+        "type": "RECTANGLE",
+        "bounds": {
+          "x": 10,
+          "y": 2705,
+          "width": 370,
+          "height": 1200
+        }
+      },
+      {
+        "name": "8",
+        "type": "GROUP",
+        "bounds": {
+          "x": 32,
+          "y": 2725,
+          "width": 327,
+          "height": 92
+        },
+        "children": [
+          {
+            "name": "Косметик-эстетист",
+            "type": "TEXT",
+            "bounds": {
+              "x": 153,
+              "y": 2725,
+              "width": 196,
+              "height": 24
+            }
+          },
+          {
+            "name": "Продолжительноcть курса: 300 часов Базовая программа для старта с нуля",
+            "type": "TEXT",
+            "bounds": {
+              "x": 154,
+              "y": 2769,
+              "width": 205,
+              "height": 25
+            }
+          },
+          {
+            "name": "Line 1",
+            "type": "LINE",
+            "bounds": {
+              "x": 32,
+              "y": 2817,
+              "width": 327,
+              "height": 0
+            }
+          },
+          {
+            "name": "Group 4",
+            "type": "GROUP",
+            "bounds": {
+              "x": 33,
+              "y": 2731,
+              "width": 108,
+              "height": 61.32413864135742
+            },
+            "children": [
+              {
+                "name": "Rectangle 10",
+                "type": "RECTANGLE",
+                "bounds": {
+                  "x": 33,
+                  "y": 2731,
+                  "width": 108,
+                  "height": 61.32413864135742
+                }
+              },
+              {
+                "name": "anna-keibalo-u3TGN9QtozU-unsplash 1",
+                "type": "RECTANGLE",
+                "bounds": {
+                  "x": -0.19290924072265625,
+                  "y": 2590.8538208007812,
+                  "width": 143.2357177734375,
+                  "height": 214.82736206054688
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "9",
+        "type": "GROUP",
+        "bounds": {
+          "x": 32,
+          "y": 2841,
+          "width": 342,
+          "height": 86
+        },
+        "children": [
+          {
+            "name": "Сестринское дело в косметологии",
+            "type": "TEXT",
+            "bounds": {
+              "x": 153,
+              "y": 2841,
+              "width": 196,
+              "height": 24
+            }
+          },
+          {
+            "name": "Продолжительноcть курса: 288 часов Для специалистов со средним мед.образованием",
+            "type": "TEXT",
+            "bounds": {
+              "x": 154,
+              "y": 2879,
+              "width": 220,
+              "height": 25
+            }
+          },
+          {
+            "name": "Line 1",
+            "type": "LINE",
+            "bounds": {
+              "x": 32,
+              "y": 2927,
+              "width": 327,
+              "height": 0
+            }
+          },
+          {
+            "name": "Group 4",
+            "type": "GROUP",
+            "bounds": {
+              "x": 33,
+              "y": 2841,
+              "width": 108,
+              "height": 61.32413864135742
+            },
+            "children": [
+              {
+                "name": "Rectangle 10",
+                "type": "RECTANGLE",
+                "bounds": {
+                  "x": 33,
+                  "y": 2841,
+                  "width": 108,
+                  "height": 61.32413864135742
+                }
+              },
+              {
+                "name": "Mask group",
+                "type": "GROUP",
+                "bounds": {
+                  "x": 33,
+                  "y": 2841,
+                  "width": 108,
+                  "height": 61
+                },
+                "children": [
+                  {
+                    "name": "Mask group",
+                    "type": "GROUP",
+                    "bounds": {
+                      "x": 33,
+                      "y": 2841,
+                      "width": 108,
+                      "height": 61
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "10",
+        "type": "GROUP",
+        "bounds": {
+          "x": 32,
+          "y": 2951,
+          "width": 342,
+          "height": 86
+        },
+        "children": [
+          {
+            "name": "Основы косметологии",
+            "type": "TEXT",
+            "bounds": {
+              "x": 153,
+              "y": 2951,
+              "width": 208,
+              "height": 52
+            }
+          },
+          {
+            "name": "Продолжительноcть курса: 300 часов Краткий вводный курс - старт в профессию",
+            "type": "TEXT",
+            "bounds": {
+              "x": 154,
+              "y": 2990,
+              "width": 220,
+              "height": 25
+            }
+          },
+          {
+            "name": "Line 1",
+            "type": "LINE",
+            "bounds": {
+              "x": 32,
+              "y": 3037,
+              "width": 327,
+              "height": 0
+            }
+          },
+          {
+            "name": "Group 4",
+            "type": "GROUP",
+            "bounds": {
+              "x": 33,
+              "y": 2951,
+              "width": 108,
+              "height": 61.32413864135742
+            },
+            "children": [
+              {
+                "name": "Rectangle 10",
+                "type": "RECTANGLE",
+                "bounds": {
+                  "x": 33,
+                  "y": 2951,
+                  "width": 108,
+                  "height": 61.32413864135742
+                }
+              },
+              {
+                "name": "Mask group",
+                "type": "GROUP",
+                "bounds": {
+                  "x": 33,
+                  "y": 2951,
+                  "width": 108,
+                  "height": 61
+                },
+                "children": [
+                  {
+                    "name": "Mask group",
+                    "type": "GROUP",
+                    "bounds": {
+                      "x": 33,
+                      "y": 2951,
+                      "width": 108,
+                      "height": 61
+                    }
+                  }
+                ]
+              },
+              {
+                "name": "dima-solomin-AJ1xeSGWfms-unsplash 1",
+                "type": "RECTANGLE",
+                "bounds": {
+                  "x": -7,
+                  "y": 3018.76180267334,
+                  "width": 117.3707275390625,
+                  "height": 176.03460693359375
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "11",
+        "type": "GROUP",
+        "bounds": {
+          "x": 32,
+          "y": 3061,
+          "width": 342,
+          "height": 86
+        },
+        "children": [
+          {
+            "name": "Косметик-эстетист",
+            "type": "TEXT",
+            "bounds": {
+              "x": 153,
+              "y": 3061,
+              "width": 208,
+              "height": 52
+            }
+          },
+          {
+            "name": "Продолжительноcть курса: 576 часов Для специалистов с высшим мед.образованием",
+            "type": "TEXT",
+            "bounds": {
+              "x": 154,
+              "y": 3099,
+              "width": 220,
+              "height": 25
+            }
+          },
+          {
+            "name": "Line 1",
+            "type": "LINE",
+            "bounds": {
+              "x": 32,
+              "y": 3147,
+              "width": 327,
+              "height": 0
+            }
+          },
+          {
+            "name": "Group 4",
+            "type": "GROUP",
+            "bounds": {
+              "x": 33,
+              "y": 3061,
+              "width": 108,
+              "height": 61.32413864135742
+            },
+            "children": [
+              {
+                "name": "Rectangle 10",
+                "type": "RECTANGLE",
+                "bounds": {
+                  "x": 33,
+                  "y": 3061,
+                  "width": 108,
+                  "height": 61.32413864135742
+                }
+              },
+              {
+                "name": "Mask group",
+                "type": "GROUP",
+                "bounds": {
+                  "x": 33,
+                  "y": 3061,
+                  "width": 108,
+                  "height": 61
+                },
+                "children": [
+                  {
+                    "name": "Mask group",
+                    "type": "GROUP",
+                    "bounds": {
+                      "x": 33,
+                      "y": 3061,
+                      "width": 108,
+                      "height": 61
+                    }
+                  }
+                ]
+              },
+              {
+                "name": "dima-solomin-AJ1xeSGWfms-unsplash 1",
+                "type": "RECTANGLE",
+                "bounds": {
+                  "x": -7,
+                  "y": 3128.76180267334,
+                  "width": 117.3707275390625,
+                  "height": 176.03460693359375
+                }
+              },
+              {
+                "name": "look-studio-HtXyytr9304-unsplash 1",
+                "type": "RECTANGLE",
+                "bounds": {
+                  "x": 6,
+                  "y": 3045,
+                  "width": 162,
+                  "height": 108
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "12",
+        "type": "GROUP",
+        "bounds": {
+          "x": 32,
+          "y": 3171,
+          "width": 342,
+          "height": 86
+        },
+        "children": [
+          {
+            "name": "Врачебная косметология",
+            "type": "TEXT",
+            "bounds": {
+              "x": 153,
+              "y": 3171,
+              "width": 208,
+              "height": 52
+            }
+          },
+          {
+            "name": "Продолжительноcть курса: 576 часов Для специалистов с высшим мед.образованием",
+            "type": "TEXT",
+            "bounds": {
+              "x": 154,
+              "y": 3208,
+              "width": 220,
+              "height": 25
+            }
+          },
+          {
+            "name": "Line 1",
+            "type": "LINE",
+            "bounds": {
+              "x": 32,
+              "y": 3257,
+              "width": 327,
+              "height": 0
+            }
+          },
+          {
+            "name": "Group 4",
+            "type": "GROUP",
+            "bounds": {
+              "x": 33,
+              "y": 3171,
+              "width": 108,
+              "height": 61.32413864135742
+            },
+            "children": [
+              {
+                "name": "Rectangle 10",
+                "type": "RECTANGLE",
+                "bounds": {
+                  "x": 33,
+                  "y": 3171,
+                  "width": 108,
+                  "height": 61.32413864135742
+                }
+              },
+              {
+                "name": "Mask group",
+                "type": "GROUP",
+                "bounds": {
+                  "x": 33,
+                  "y": 3171,
+                  "width": 108,
+                  "height": 61
+                },
+                "children": [
+                  {
+                    "name": "Mask group",
+                    "type": "GROUP",
+                    "bounds": {
+                      "x": 33,
+                      "y": 3171,
+                      "width": 108,
+                      "height": 61
+                    }
+                  }
+                ]
+              },
+              {
+                "name": "dima-solomin-AJ1xeSGWfms-unsplash 1",
+                "type": "RECTANGLE",
+                "bounds": {
+                  "x": -7,
+                  "y": 3238.76180267334,
+                  "width": 117.3707275390625,
+                  "height": 176.03460693359375
+                }
+              },
+              {
+                "name": "look-studio-HtXyytr9304-unsplash 1",
+                "type": "RECTANGLE",
+                "bounds": {
+                  "x": 6,
+                  "y": 3155,
+                  "width": 162,
+                  "height": 108
+                }
+              },
+              {
+                "name": "mariia-belinska-y37xruRmhcQ-unsplash 1",
+                "type": "RECTANGLE",
+                "bounds": {
+                  "x": 30,
+                  "y": 3075,
+                  "width": 148,
+                  "height": 222
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "13",
+        "type": "GROUP",
+        "bounds": {
+          "x": 32,
+          "y": 3281,
+          "width": 342,
+          "height": 86
+        },
+        "children": [
+          {
+            "name": "Инъекционная косметология",
+            "type": "TEXT",
+            "bounds": {
+              "x": 153,
+              "y": 3281,
+              "width": 208,
+              "height": 52
+            }
+          },
+          {
+            "name": "Продолжительноcть курса: 100 часов Для специалистов с высшим мед.образованием",
+            "type": "TEXT",
+            "bounds": {
+              "x": 154,
+              "y": 3320,
+              "width": 220,
+              "height": 25
+            }
+          },
+          {
+            "name": "Line 1",
+            "type": "LINE",
+            "bounds": {
+              "x": 32,
+              "y": 3367,
+              "width": 327,
+              "height": 0
+            }
+          },
+          {
+            "name": "Group 4",
+            "type": "GROUP",
+            "bounds": {
+              "x": 33,
+              "y": 3281,
+              "width": 108,
+              "height": 61.32413864135742
+            },
+            "children": [
+              {
+                "name": "Rectangle 10",
+                "type": "RECTANGLE",
+                "bounds": {
+                  "x": 33,
+                  "y": 3281,
+                  "width": 108,
+                  "height": 61.32413864135742
+                }
+              },
+              {
+                "name": "Mask group",
+                "type": "GROUP",
+                "bounds": {
+                  "x": 33,
+                  "y": 3281,
+                  "width": 108,
+                  "height": 61
+                },
+                "children": [
+                  {
+                    "name": "Mask group",
+                    "type": "GROUP",
+                    "bounds": {
+                      "x": 33,
+                      "y": 3281,
+                      "width": 108,
+                      "height": 61
+                    }
+                  }
+                ]
+              },
+              {
+                "name": "dima-solomin-AJ1xeSGWfms-unsplash 1",
+                "type": "RECTANGLE",
+                "bounds": {
+                  "x": -7,
+                  "y": 3348.76180267334,
+                  "width": 117.3707275390625,
+                  "height": 176.03460693359375
+                }
+              },
+              {
+                "name": "look-studio-HtXyytr9304-unsplash 1",
+                "type": "RECTANGLE",
+                "bounds": {
+                  "x": 6,
+                  "y": 3265,
+                  "width": 162,
+                  "height": 108
+                }
+              },
+              {
+                "name": "mariia-belinska-y37xruRmhcQ-unsplash 1",
+                "type": "RECTANGLE",
+                "bounds": {
+                  "x": 30,
+                  "y": 3185,
+                  "width": 148,
+                  "height": 222
+                }
+              },
+              {
+                "name": "daria-gordova-rZw9pnacygg-unsplash 1",
+                "type": "RECTANGLE",
+                "bounds": {
+                  "x": -76,
+                  "y": 3296.6719512939453,
+                  "width": 259.9986877441406,
+                  "height": 173.35360717773438
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "8",
+        "type": "GROUP",
+        "bounds": {
+          "x": 32,
+          "y": 3391,
+          "width": 545,
+          "height": 334
+        },
+        "children": [
+          {
+            "name": "Авторские курсы Марины Егоровой",
+            "type": "TEXT",
+            "bounds": {
+              "x": 32,
+              "y": 3524,
+              "width": 187,
+              "height": 48
+            }
+          },
+          {
+            "name": "Vector",
+            "type": "VECTOR",
+            "bounds": {
+              "x": 546,
+              "y": 3415,
+              "width": 31,
+              "height": 31
+            }
+          },
+          {
+            "name": "Mask group",
+            "type": "GROUP",
+            "bounds": {
+              "x": 34,
+              "y": 3391,
+              "width": 327,
+              "height": 120
+            },
+            "children": [
+              {
+                "name": "Rectangle 15",
+                "type": "RECTANGLE",
+                "bounds": {
+                  "x": 34,
+                  "y": 3391,
+                  "width": 327,
+                  "height": 120
+                }
+              },
+              {
+                "name": "IMG_2254 (1) 1",
+                "type": "RECTANGLE",
+                "bounds": {
+                  "x": 32,
+                  "y": 3238,
+                  "width": 329,
+                  "height": 493
+                }
+              }
+            ]
+          },
+          {
+            "name": "Продолжительноcть курса: 100 часов Для специалистов с высшим мед.образованием",
+            "type": "TEXT",
+            "bounds": {
+              "x": 32,
+              "y": 3582,
+              "width": 342,
+              "height": 30
+            }
+          },
+          {
+            "name": "При записи на курсы — подарки, скидки и доступ к закрытым материалам",
+            "type": "TEXT",
+            "bounds": {
+              "x": 35,
+              "y": 3650,
+              "width": 326,
+              "height": 75
+            }
+          }
+        ]
+      },
+      {
+        "name": "Rectangle 69",
+        "type": "RECTANGLE",
+        "bounds": {
+          "x": 43,
+          "y": 3758,
+          "width": 306,
+          "height": 47
+        }
+      },
+      {
+        "name": "Rectangle 70",
+        "type": "RECTANGLE",
+        "bounds": {
+          "x": 43,
+          "y": 3831,
+          "width": 306,
+          "height": 47
+        }
+      },
+      {
+        "name": "Получить консультацию",
+        "type": "TEXT",
+        "bounds": {
+          "x": 88,
+          "y": 3771,
+          "width": 216,
+          "height": 21
+        }
+      },
+      {
+        "name": "Оставить заявку",
+        "type": "TEXT",
+        "bounds": {
+          "x": 124,
+          "y": 3844,
+          "width": 145,
+          "height": 21
+        }
+      },
+      {
+        "name": "Rectangle 71",
+        "type": "RECTANGLE",
+        "bounds": {
+          "x": 10,
+          "y": 3933,
+          "width": 370,
+          "height": 292
+        }
+      },
+      {
+        "name": "Официальный диплом, вносимый в реестр ФИС ФРДО Навыки, с которыми можно сразу начать практику Понимание анатомии, дерматологии и работы с клиентом Практику на моделях в процессе обучения Поддержку куратора и преподавателей Доступ к методическим материалам и закрытому чату Возможность учиться онлайн или очно — в удобном ритме Уважительное, честное отношение и атмосфера, где хочется учиться",
+        "type": "TEXT",
+        "bounds": {
+          "x": 55,
+          "y": 3949,
+          "width": 306,
+          "height": 232
+        }
+      },
+      {
+        "name": "Vector",
+        "type": "VECTOR",
+        "bounds": {
+          "x": 28,
+          "y": 3958,
+          "width": 15,
+          "height": 8
+        }
+      },
+      {
+        "name": "Vector",
+        "type": "VECTOR",
+        "bounds": {
+          "x": 28,
+          "y": 3987,
+          "width": 15,
+          "height": 8
+        }
+      },
+      {
+        "name": "Vector",
+        "type": "VECTOR",
+        "bounds": {
+          "x": 28,
+          "y": 4016,
+          "width": 15,
+          "height": 8
+        }
+      },
+      {
+        "name": "Vector",
+        "type": "VECTOR",
+        "bounds": {
+          "x": 28,
+          "y": 4045,
+          "width": 15,
+          "height": 8
+        }
+      },
+      {
+        "name": "Vector",
+        "type": "VECTOR",
+        "bounds": {
+          "x": 28,
+          "y": 4074,
+          "width": 15,
+          "height": 8
+        }
+      },
+      {
+        "name": "Vector",
+        "type": "VECTOR",
+        "bounds": {
+          "x": 28,
+          "y": 4103,
+          "width": 15,
+          "height": 8
+        }
+      },
+      {
+        "name": "Vector",
+        "type": "VECTOR",
+        "bounds": {
+          "x": 28,
+          "y": 4132,
+          "width": 15,
+          "height": 8
+        }
+      },
+      {
+        "name": "Vector",
+        "type": "VECTOR",
+        "bounds": {
+          "x": 28,
+          "y": 4161,
+          "width": 15,
+          "height": 8
+        }
+      },
+      {
+        "name": "IMG_1808 1",
+        "type": "RECTANGLE",
+        "bounds": {
+          "x": 10,
+          "y": 4202,
+          "width": 370,
+          "height": 290
+        }
+      },
+      {
+        "name": "Диплом школы признаётся в России и СНГ. Выпускники успешно работают в частной практике, салонах, косметологических клиниках и открывают собственные кабинеты",
+        "type": "TEXT",
+        "bounds": {
+          "x": 196,
+          "y": 4225,
+          "width": 165,
+          "height": 105
+        }
+      },
+      {
+        "name": "Rectangle 72",
+        "type": "RECTANGLE",
+        "bounds": {
+          "x": 43,
+          "y": 4415,
+          "width": 306,
+          "height": 47
+        }
+      },
+      {
+        "name": "Получить консультацию",
+        "type": "TEXT",
+        "bounds": {
+          "x": 88,
+          "y": 4428,
+          "width": 216,
+          "height": 21
+        }
+      },
+      {
+        "name": "Rectangle 73",
+        "type": "RECTANGLE",
+        "bounds": {
+          "x": 11,
+          "y": 5143,
+          "width": 369,
+          "height": 336
+        }
+      },
+      {
+        "name": "IMG-20250716-WA0051 1",
+        "type": "RECTANGLE",
+        "bounds": {
+          "x": 10,
+          "y": 4821,
+          "width": 370,
+          "height": 352
+        }
+      },
+      {
+        "name": "Карпатенкова Оксана Владимировна",
+        "type": "TEXT",
+        "bounds": {
+          "x": 185,
+          "y": 4853,
+          "width": 176,
+          "height": 61
+        }
+      },
+      {
+        "name": "Врач-дераматовенеролог, косметолог",
+        "type": "TEXT",
+        "bounds": {
+          "x": 185,
+          "y": 4924,
+          "width": 147,
+          "height": 45
+        }
+      },
+      {
+        "name": "Rectangle 74",
+        "type": "RECTANGLE",
+        "bounds": {
+          "x": 28,
+          "y": 5191,
+          "width": 182,
+          "height": 271
+        }
+      },
+      {
+        "name": "Сертификат",
+        "type": "TEXT",
+        "bounds": {
+          "x": 87,
+          "y": 5326,
+          "width": 64,
+          "height": 13
+        }
+      },
+      {
+        "name": "Инфо о враче грамоты, курсы повышения, заслуги, должности",
+        "type": "TEXT",
+        "bounds": {
+          "x": 229,
+          "y": 5314,
+          "width": 127,
+          "height": 39
+        }
+      },
+      {
+        "name": "кнопка прокрутки",
+        "type": "GROUP",
+        "bounds": {
+          "x": 125,
+          "y": 5493,
+          "width": 139,
+          "height": 11
+        },
+        "children": [
+          {
+            "name": "Rectangle 21",
+            "type": "RECTANGLE",
+            "bounds": {
+              "x": 125,
+              "y": 5493,
+              "width": 76,
+              "height": 11
+            }
+          },
+          {
+            "name": "Rectangle 22",
+            "type": "RECTANGLE",
+            "bounds": {
+              "x": 211,
+              "y": 5493,
+              "width": 32,
+              "height": 11
+            }
+          },
+          {
+            "name": "Rectangle 23",
+            "type": "RECTANGLE",
+            "bounds": {
+              "x": 253,
+              "y": 5493,
+              "width": 11,
+              "height": 11
+            }
+          }
+        ]
+      },
+      {
+        "name": "кнопка прокрутки",
+        "type": "GROUP",
+        "bounds": {
+          "x": 125,
+          "y": 6109,
+          "width": 139,
+          "height": 11
+        },
+        "children": [
+          {
+            "name": "Rectangle 21",
+            "type": "RECTANGLE",
+            "bounds": {
+              "x": 125,
+              "y": 6109,
+              "width": 76,
+              "height": 11
+            }
+          },
+          {
+            "name": "Rectangle 22",
+            "type": "RECTANGLE",
+            "bounds": {
+              "x": 211,
+              "y": 6109,
+              "width": 32,
+              "height": 11
+            }
+          },
+          {
+            "name": "Rectangle 23",
+            "type": "RECTANGLE",
+            "bounds": {
+              "x": 253,
+              "y": 6109,
+              "width": 11,
+              "height": 11
+            }
+          }
+        ]
+      },
+      {
+        "name": "image 1",
+        "type": "RECTANGLE",
+        "bounds": {
+          "x": 11,
+          "y": 5746,
+          "width": 369,
+          "height": 349
+        }
+      },
+      {
+        "name": "Rectangle 75",
+        "type": "RECTANGLE",
+        "bounds": {
+          "x": 11,
+          "y": 6290,
+          "width": 369,
+          "height": 615
+        }
+      },
+      {
+        "name": "Лицензия и диплом гособразца Выдаём документы, которые признаются по всей России и СНГ Можно без медицинского образования Есть программы, с которых можно начать путь с нуля Преподаватели — врачи-практики Вы будете учиться у тех, кто ежедневно работает с пациентами Онлайн и очное обучение Удобный формат для любого ритма жизни и города Живые практики на моделях Не просто теория — вы тренируетесь на реальных клиентах Мягкая рассрочка 0% Обучение — это инвестиция, которую легко начать Поддержка после выпуска Ответы на вопросы, чат, рекомендации по практике 18 лет опыта и более 6000 выпускников Нас рекомендуют — и это говорит лучше любой рекламы",
+        "type": "TEXT",
+        "bounds": {
+          "x": 80,
+          "y": 6317,
+          "width": 267,
+          "height": 480
+        }
+      },
+      {
+        "name": "Vector",
+        "type": "VECTOR",
+        "bounds": {
+          "x": 42,
+          "y": 6325,
+          "width": 22,
+          "height": 440
+        }
+      },
+      {
+        "name": "Rectangle 76",
+        "type": "RECTANGLE",
+        "bounds": {
+          "x": 43,
+          "y": 6832,
+          "width": 306,
+          "height": 47
+        }
+      },
+      {
+        "name": "Записаться на обучение",
+        "type": "TEXT",
+        "bounds": {
+          "x": 89,
+          "y": 6845,
+          "width": 213,
+          "height": 21
+        }
+      },
+      {
+        "name": "Rectangle 77",
+        "type": "RECTANGLE",
+        "bounds": {
+          "x": 11,
+          "y": 6940,
+          "width": 369,
+          "height": 696
+        }
+      },
+      {
+        "name": "FAQ",
+        "type": "TEXT",
+        "bounds": {
+          "x": 157,
+          "y": 6960,
+          "width": 77,
+          "height": 30
+        }
+      },
+      {
+        "name": "Можно ли учиться, если у меня нет медицинского образования? Да! В нашей школе есть программы, которые подойдут начинающим без мед. базы. Мы обучаем с нуля — с вниманием и доступным объяснением Что выдаётся по окончании обучения? Вы получаете официальный диплом установленного образца (ФИС ФРДО), внесённый в государственный реестр. Он позволяет работать легально Будет ли практика, или только теория? Практика — обязательная часть обучения. Доступна на очных форматах обучения. Вы работаете с моделями под руководством преподавателей. Это даёт уверенность ещё до окончания курса Можно ли учиться онлайн? Это эффективно? Да, у нас есть полноценные онлайн-программы. Вы получаете те же знания, доступ к материалам и поддержку преподавателей, как и при очном обучении Есть ли рассрочка? Да, мы предоставляем рассрочку 0%. Оплатить обучение можно частями, без переплат А если я не понимаю, какой курс мне подойдёт? Напишите нам — мы подберём программу, исходя из вашего образования, опыта и целей. Это бесплатно и без обязательств",
+        "type": "TEXT",
+        "bounds": {
+          "x": 35,
+          "y": 7003,
+          "width": 321,
+          "height": 528
+        }
+      },
+      {
+        "name": "Line 9",
+        "type": "LINE",
+        "bounds": {
+          "x": 32,
+          "y": 7076,
+          "width": 317,
+          "height": 0
+        }
+      },
+      {
+        "name": "Line 10",
+        "type": "LINE",
+        "bounds": {
+          "x": 32,
+          "y": 7173,
+          "width": 317,
+          "height": 0
+        }
+      },
+      {
+        "name": "Line 11",
+        "type": "LINE",
+        "bounds": {
+          "x": 32,
+          "y": 7284,
+          "width": 317,
+          "height": 0
+        }
+      },
+      {
+        "name": "Line 12",
+        "type": "LINE",
+        "bounds": {
+          "x": 32,
+          "y": 7384,
+          "width": 317,
+          "height": 0
+        }
+      },
+      {
+        "name": "Line 13",
+        "type": "LINE",
+        "bounds": {
+          "x": 32,
+          "y": 7460,
+          "width": 317,
+          "height": 0
+        }
+      },
+      {
+        "name": "Rectangle 78",
+        "type": "RECTANGLE",
+        "bounds": {
+          "x": 43,
+          "y": 7566,
+          "width": 306,
+          "height": 47
+        }
+      },
+      {
+        "name": "Получить консультацию",
+        "type": "TEXT",
+        "bounds": {
+          "x": 88,
+          "y": 7579,
+          "width": 216,
+          "height": 21
+        }
+      },
+      {
+        "name": "заявка",
+        "type": "GROUP",
+        "bounds": {
+          "x": 11,
+          "y": 7668,
+          "width": 368,
+          "height": 360
+        },
+        "children": [
+          {
+            "name": "Rectangle 27",
+            "type": "RECTANGLE",
+            "bounds": {
+              "x": 11,
+              "y": 7668,
+              "width": 368,
+              "height": 360
+            }
+          },
+          {
+            "name": "Rectangle 82",
+            "type": "RECTANGLE",
+            "bounds": {
+              "x": 42,
+              "y": 7911,
+              "width": 306,
+              "height": 47
+            }
+          },
+          {
+            "name": "Оставить заявку",
+            "type": "TEXT",
+            "bounds": {
+              "x": 122,
+              "y": 7926,
+              "width": 147,
+              "height": 17
+            }
+          },
+          {
+            "name": "Оставьте заявку и мы подберём программу под ваш уровень и цели",
+            "type": "TEXT",
+            "bounds": {
+              "x": 37,
+              "y": 7691,
+              "width": 316,
+              "height": 41
+            }
+          },
+          {
+            "name": "Куратор свяжется с вами, чтобы ответить на все вопросы и помочь начать обучение в удобном формате",
+            "type": "TEXT",
+            "bounds": {
+              "x": 68,
+              "y": 7743,
+              "width": 253,
+              "height": 19
+            }
+          },
+          {
+            "name": "Мы не передаём данные третьим лицам. Ответим на заявку в течение 1 рабочего дня",
+            "type": "TEXT",
+            "bounds": {
+              "x": 92,
+              "y": 7983,
+              "width": 206,
+              "height": 13
+            }
+          },
+          {
+            "name": "Rectangle 80",
+            "type": "RECTANGLE",
+            "bounds": {
+              "x": 42,
+              "y": 7787,
+              "width": 306,
+              "height": 47
+            }
+          },
+          {
+            "name": "Rectangle 81",
+            "type": "RECTANGLE",
+            "bounds": {
+              "x": 42,
+              "y": 7849,
+              "width": 306,
+              "height": 47
+            }
+          },
+          {
+            "name": "Имя Фамилия",
+            "type": "TEXT",
+            "bounds": {
+              "x": 116,
+              "y": 7803,
+              "width": 159,
+              "height": 16
+            }
+          },
+          {
+            "name": "Телефон",
+            "type": "TEXT",
+            "bounds": {
+              "x": 143,
+              "y": 7865,
+              "width": 106,
+              "height": 16
+            }
+          }
+        ]
+      },
+      {
+        "name": "IMG_2168 1",
+        "type": "RECTANGLE",
+        "bounds": {
+          "x": 11,
+          "y": 8028,
+          "width": 368,
+          "height": 412
+        }
+      },
+      {
+        "name": "+7 (929) 102 62 22",
+        "type": "TEXT",
+        "bounds": {
+          "x": 60,
+          "y": 8496,
+          "width": 79,
+          "height": 8
+        }
+      },
+      {
+        "name": "Санкт- Петербург, Свердловская набережная, дом 58, литера А АНО ДПО \"Школа косметологии и анатомии Марины Егоровой\"",
+        "type": "TEXT",
+        "bounds": {
+          "x": 60,
+          "y": 8521,
+          "width": 135,
+          "height": 41
+        }
+      },
+      {
+        "name": "Телефон:",
+        "type": "TEXT",
+        "bounds": {
+          "x": 11,
+          "y": 8495,
+          "width": 43,
+          "height": 10
+        }
+      },
+      {
+        "name": "Адрес:",
+        "type": "TEXT",
+        "bounds": {
+          "x": 11,
+          "y": 8521,
+          "width": 32,
+          "height": 9
+        }
+      },
+      {
+        "name": "Социальные сети:",
+        "type": "TEXT",
+        "bounds": {
+          "x": 213,
+          "y": 8495,
+          "width": 85,
+          "height": 9
+        }
+      },
+      {
+        "name": "Контактная информация",
+        "type": "TEXT",
+        "bounds": {
+          "x": 11,
+          "y": 8465,
+          "width": 170,
+          "height": 16
+        }
+      },
+      {
+        "name": "Vector",
+        "type": "VECTOR",
+        "bounds": {
+          "x": 302,
+          "y": 8495,
+          "width": 13,
+          "height": 13
+        }
+      },
+      {
+        "name": "Vector",
+        "type": "VECTOR",
+        "bounds": {
+          "x": 324,
+          "y": 8495,
+          "width": 13,
+          "height": 13
+        }
+      },
+      {
+        "name": "Vector",
+        "type": "VECTOR",
+        "bounds": {
+          "x": 345,
+          "y": 8495,
+          "width": 13,
+          "height": 13
+        }
+      },
+      {
+        "name": "Vector",
+        "type": "VECTOR",
+        "bounds": {
+          "x": 366,
+          "y": 8495,
+          "width": 13,
+          "height": 13
+        }
+      },
+      {
+        "name": "Снимок экрана 2025-08-14 в 17.11.06 1",
+        "type": "RECTANGLE",
+        "bounds": {
+          "x": 0,
+          "y": 8602,
+          "width": 390,
+          "height": 312
+        }
+      },
+      {
+        "name": "Rectangle 83",
+        "type": "RECTANGLE",
+        "bounds": {
+          "x": 11,
+          "y": 8936,
+          "width": 368,
+          "height": 184
+        }
+      },
+      {
+        "name": "_1_s_sh_2019 2",
+        "type": "RECTANGLE",
+        "bounds": {
+          "x": 40,
+          "y": 8950,
+          "width": 311,
+          "height": 81
+        }
+      },
+      {
+        "name": "О нас Курсы Новости Контакты",
+        "type": "TEXT",
+        "bounds": {
+          "x": 50,
+          "y": 9042,
+          "width": 291,
+          "height": 57
+        }
+      }
+    ]
+  }
+}

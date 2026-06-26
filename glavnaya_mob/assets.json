@@ -1,0 +1,812 @@
+{
+  "page": "glavnaya",
+  "assets_count": 67,
+  "images": [
+    {
+      "filename": "img_241_154.png",
+      "type": "image",
+      "file_size": 256128,
+      "element_id": "241:15",
+      "bounds": {
+        "x": 11,
+        "y": 8521,
+        "width": 32,
+        "height": 9
+      }
+    },
+    {
+      "filename": "img_241_158.png",
+      "type": "image",
+      "file_size": 349306,
+      "element_id": "241:15",
+      "bounds": {
+        "x": 11,
+        "y": 8521,
+        "width": 32,
+        "height": 9
+      }
+    },
+    {
+      "filename": "img_222_1323.png",
+      "type": "image",
+      "file_size": 60340,
+      "element_id": "222:1323",
+      "bounds": {
+        "x": 40,
+        "y": 8950,
+        "width": 311,
+        "height": 81
+      }
+    },
+    {
+      "filename": "img_222_1555.png",
+      "type": "image",
+      "file_size": 17780,
+      "element_id": "222:1555",
+      "bounds": {
+        "x": 18,
+        "y": 34,
+        "width": 132,
+        "height": 34
+      }
+    },
+    {
+      "filename": "img_222_1643.png",
+      "type": "image",
+      "file_size": 39174,
+      "element_id": "222:1643",
+      "bounds": {
+        "x": -0.19290924072265625,
+        "y": 2590.8538208007812,
+        "width": 143.2357177734375,
+        "height": 214.82736206054688
+      }
+    },
+    {
+      "filename": "img_222_1691.png",
+      "type": "image",
+      "file_size": 43151,
+      "element_id": "222:1691",
+      "bounds": {
+        "x": -102.03195190429688,
+        "y": 3060.014389038086,
+        "width": 389.1523132324219,
+        "height": 258.7862854003906
+      }
+    },
+    {
+      "filename": "img_222_1707.png",
+      "type": "image",
+      "file_size": 42410,
+      "element_id": "222:1707",
+      "bounds": {
+        "x": 6,
+        "y": 3265,
+        "width": 162,
+        "height": 108
+      }
+    },
+    {
+      "filename": "img_241_93.png",
+      "type": "image",
+      "file_size": 1088270,
+      "element_id": "241:9",
+      "bounds": {
+        "x": 42,
+        "y": 7787,
+        "width": 306,
+        "height": 47
+      }
+    },
+    {
+      "filename": "img_241_96.png",
+      "type": "image",
+      "file_size": 17780,
+      "element_id": "241:9",
+      "bounds": {
+        "x": 42,
+        "y": 7787,
+        "width": 306,
+        "height": 47
+      }
+    },
+    {
+      "filename": "img_222_1387.png",
+      "type": "image",
+      "file_size": 188754,
+      "element_id": "222:1387",
+      "bounds": {
+        "x": 11,
+        "y": 5746,
+        "width": 369,
+        "height": 349
+      }
+    },
+    {
+      "filename": "img_222_1655.png",
+      "type": "image",
+      "file_size": 43151,
+      "element_id": "222:1655",
+      "bounds": {
+        "x": -102.03195190429688,
+        "y": 2730.014389038086,
+        "width": 389.1523132324219,
+        "height": 258.7862854003906
+      }
+    },
+    {
+      "filename": "img_222_1708.png",
+      "type": "image",
+      "file_size": 45990,
+      "element_id": "222:1708",
+      "bounds": {
+        "x": 30,
+        "y": 3185,
+        "width": 148,
+        "height": 222
+      }
+    },
+    {
+      "filename": "img_222_1680.png",
+      "type": "image",
+      "file_size": 42410,
+      "element_id": "222:1680",
+      "bounds": {
+        "x": 6,
+        "y": 3045,
+        "width": 162,
+        "height": 108
+      }
+    },
+    {
+      "filename": "img_222_1692.png",
+      "type": "image",
+      "file_size": 33887,
+      "element_id": "222:1692",
+      "bounds": {
+        "x": -7,
+        "y": 3238.76180267334,
+        "width": 117.3707275390625,
+        "height": 176.03460693359375
+      }
+    },
+    {
+      "filename": "img_222_1705.png",
+      "type": "image",
+      "file_size": 43151,
+      "element_id": "222:1705",
+      "bounds": {
+        "x": -102.03195190429688,
+        "y": 3170.014389038086,
+        "width": 389.1523132324219,
+        "height": 258.7862854003906
+      }
+    },
+    {
+      "filename": "img_222_1412.png",
+      "type": "image",
+      "file_size": 365788,
+      "element_id": "222:1412",
+      "bounds": {
+        "x": 10,
+        "y": 4202,
+        "width": 370,
+        "height": 290
+      }
+    },
+    {
+      "filename": "img_222_1679.png",
+      "type": "image",
+      "file_size": 33887,
+      "element_id": "222:1679",
+      "bounds": {
+        "x": -7,
+        "y": 3128.76180267334,
+        "width": 117.3707275390625,
+        "height": 176.03460693359375
+      }
+    },
+    {
+      "filename": "img_481_649.png",
+      "type": "image",
+      "file_size": 320582,
+      "element_id": "481:649",
+      "bounds": {
+        "x": 10,
+        "y": 1344,
+        "width": 370,
+        "height": 352
+      }
+    },
+    {
+      "filename": "img_222_1317.png",
+      "type": "image",
+      "file_size": 4572450,
+      "element_id": "222:1317",
+      "bounds": {
+        "x": 435,
+        "y": 0,
+        "width": 390,
+        "height": 9145
+      }
+    },
+    {
+      "filename": "img_222_1678.png",
+      "type": "image",
+      "file_size": 43151,
+      "element_id": "222:1678",
+      "bounds": {
+        "x": -102.03195190429688,
+        "y": 2950.014389038086,
+        "width": 389.1523132324219,
+        "height": 258.7862854003906
+      }
+    },
+    {
+      "filename": "img_222_1324.png",
+      "type": "image",
+      "file_size": 356923,
+      "element_id": "222:1324",
+      "bounds": {
+        "x": 0,
+        "y": 8602,
+        "width": 390,
+        "height": 312
+      }
+    },
+    {
+      "filename": "img_222_1666.png",
+      "type": "image",
+      "file_size": 43151,
+      "element_id": "222:1666",
+      "bounds": {
+        "x": -102.03195190429688,
+        "y": 2840.014389038086,
+        "width": 389.1523132324219,
+        "height": 258.7862854003906
+      }
+    },
+    {
+      "filename": "img_222_1573.png",
+      "type": "image",
+      "file_size": 928194,
+      "element_id": "222:1573",
+      "bounds": {
+        "x": 10,
+        "y": 455,
+        "width": 370,
+        "height": 451
+      }
+    },
+    {
+      "filename": "img_222_1706.png",
+      "type": "image",
+      "file_size": 33887,
+      "element_id": "222:1706",
+      "bounds": {
+        "x": -7,
+        "y": 3348.76180267334,
+        "width": 117.3707275390625,
+        "height": 176.03460693359375
+      }
+    },
+    {
+      "filename": "img_222_1717.png",
+      "type": "image",
+      "file_size": 211156,
+      "element_id": "222:1717",
+      "bounds": {
+        "x": 32,
+        "y": 3238,
+        "width": 329,
+        "height": 493
+      }
+    },
+    {
+      "filename": "img_241_149.png",
+      "type": "image",
+      "file_size": 381398,
+      "element_id": "241:14",
+      "bounds": {
+        "x": 11,
+        "y": 8495,
+        "width": 43,
+        "height": 10
+      }
+    },
+    {
+      "filename": "img_241_41.png",
+      "type": "image",
+      "file_size": 381398,
+      "element_id": "241:4",
+      "bounds": {
+        "x": 32,
+        "y": 7384,
+        "width": 317,
+        "height": 0
+      }
+    },
+    {
+      "filename": "img_241_161.png",
+      "type": "image",
+      "file_size": 17780,
+      "element_id": "241:16",
+      "bounds": {
+        "x": 213,
+        "y": 8495,
+        "width": 85,
+        "height": 9
+      }
+    },
+    {
+      "filename": "img_222_1694.png",
+      "type": "image",
+      "file_size": 45990,
+      "element_id": "222:1694",
+      "bounds": {
+        "x": 30,
+        "y": 3075,
+        "width": 148,
+        "height": 222
+      }
+    },
+    {
+      "filename": "img_222_1693.png",
+      "type": "image",
+      "file_size": 42410,
+      "element_id": "222:1693",
+      "bounds": {
+        "x": 6,
+        "y": 3155,
+        "width": 162,
+        "height": 108
+      }
+    },
+    {
+      "filename": "img_222_1404.png",
+      "type": "image",
+      "file_size": 295582,
+      "element_id": "222:1404",
+      "bounds": {
+        "x": 10,
+        "y": 4821,
+        "width": 370,
+        "height": 352
+      }
+    },
+    {
+      "filename": "img_222_1709.png",
+      "type": "image",
+      "file_size": 43226,
+      "element_id": "222:1709",
+      "bounds": {
+        "x": -76,
+        "y": 3296.6719512939453,
+        "width": 259.9986877441406,
+        "height": 173.35360717773438
+      }
+    },
+    {
+      "filename": "img_222_1667.png",
+      "type": "image",
+      "file_size": 33887,
+      "element_id": "222:1667",
+      "bounds": {
+        "x": -7,
+        "y": 3018.76180267334,
+        "width": 117.3707275390625,
+        "height": 176.03460693359375
+      }
+    },
+    {
+      "filename": "img_222_1339.png",
+      "type": "image",
+      "file_size": 704631,
+      "element_id": "222:1339",
+      "bounds": {
+        "x": 11,
+        "y": 8028,
+        "width": 368,
+        "height": 412
+      }
+    }
+  ],
+  "icons": [
+    {
+      "filename": "icon_241_18.svg",
+      "type": "icon",
+      "file_size": 2196,
+      "element_id": "241:18",
+      "bounds": {
+        "x": 302,
+        "y": 8495,
+        "width": 13,
+        "height": 13
+      }
+    },
+    {
+      "filename": "icon_228_7.svg",
+      "type": "icon",
+      "file_size": 444,
+      "element_id": "228:7",
+      "bounds": {
+        "x": 28,
+        "y": 4074,
+        "width": 15,
+        "height": 8
+      }
+    },
+    {
+      "filename": "icon_228_10.svg",
+      "type": "icon",
+      "file_size": 444,
+      "element_id": "228:10",
+      "bounds": {
+        "x": 28,
+        "y": 4161,
+        "width": 15,
+        "height": 8
+      }
+    },
+    {
+      "filename": "icon_241_20.svg",
+      "type": "icon",
+      "file_size": 503,
+      "element_id": "241:20",
+      "bounds": {
+        "x": 345,
+        "y": 8495,
+        "width": 13,
+        "height": 13
+      }
+    },
+    {
+      "filename": "icon_241_21.svg",
+      "type": "icon",
+      "file_size": 595,
+      "element_id": "241:21",
+      "bounds": {
+        "x": 366,
+        "y": 8495,
+        "width": 13,
+        "height": 13
+      }
+    },
+    {
+      "filename": "icon_222_1603.svg",
+      "type": "icon",
+      "file_size": 447,
+      "element_id": "222:1603",
+      "bounds": {
+        "x": 30,
+        "y": 2016.9999906122684,
+        "width": 35.347713470458984,
+        "height": 35.53845977783203
+      }
+    },
+    {
+      "filename": "icon_241_151.svg",
+      "type": "icon",
+      "file_size": 245,
+      "element_id": "241:15",
+      "bounds": {
+        "x": 11,
+        "y": 8521,
+        "width": 32,
+        "height": 9
+      }
+    },
+    {
+      "filename": "icon_241_19.svg",
+      "type": "icon",
+      "file_size": 2228,
+      "element_id": "241:19",
+      "bounds": {
+        "x": 324,
+        "y": 8495,
+        "width": 13,
+        "height": 13
+      }
+    },
+    {
+      "filename": "icon_222_1629.svg",
+      "type": "icon",
+      "file_size": 1383,
+      "element_id": "222:1629",
+      "bounds": {
+        "x": 50.84701347351074,
+        "y": 2278.460548400879,
+        "width": 30.152986526489258,
+        "height": 30.152986526489258
+      }
+    },
+    {
+      "filename": "icon_222_1604.svg",
+      "type": "icon",
+      "file_size": 262,
+      "element_id": "222:1604",
+      "bounds": {
+        "x": 56.512821197509766,
+        "y": 2033.358964920044,
+        "width": 17.487178802490234,
+        "height": 17.487178802490234
+      }
+    },
+    {
+      "filename": "icon_241_98.svg",
+      "type": "icon",
+      "file_size": 362,
+      "element_id": "241:9",
+      "bounds": {
+        "x": 42,
+        "y": 7787,
+        "width": 306,
+        "height": 47
+      }
+    },
+    {
+      "filename": "icon_241_99.svg",
+      "type": "icon",
+      "file_size": 165,
+      "element_id": "241:9",
+      "bounds": {
+        "x": 42,
+        "y": 7787,
+        "width": 306,
+        "height": 47
+      }
+    },
+    {
+      "filename": "icon_241_170.svg",
+      "type": "icon",
+      "file_size": 220,
+      "element_id": "241:17",
+      "bounds": {
+        "x": 11,
+        "y": 8465,
+        "width": 170,
+        "height": 16
+      }
+    },
+    {
+      "filename": "icon_228_5.svg",
+      "type": "icon",
+      "file_size": 444,
+      "element_id": "228:5",
+      "bounds": {
+        "x": 28,
+        "y": 4016,
+        "width": 15,
+        "height": 8
+      }
+    },
+    {
+      "filename": "icon_228_9.svg",
+      "type": "icon",
+      "file_size": 444,
+      "element_id": "228:9",
+      "bounds": {
+        "x": 28,
+        "y": 4132,
+        "width": 15,
+        "height": 8
+      }
+    },
+    {
+      "filename": "icon_228_6.svg",
+      "type": "icon",
+      "file_size": 444,
+      "element_id": "228:6",
+      "bounds": {
+        "x": 28,
+        "y": 4045,
+        "width": 15,
+        "height": 8
+      }
+    },
+    {
+      "filename": "icon_222_1561.svg",
+      "type": "icon",
+      "file_size": 362,
+      "element_id": "222:1561",
+      "bounds": {
+        "x": 190,
+        "y": 43,
+        "width": 8,
+        "height": 12
+      }
+    },
+    {
+      "filename": "icon_228_8.svg",
+      "type": "icon",
+      "file_size": 444,
+      "element_id": "228:8",
+      "bounds": {
+        "x": 28,
+        "y": 4103,
+        "width": 15,
+        "height": 8
+      }
+    },
+    {
+      "filename": "icon_222_1590.svg",
+      "type": "icon",
+      "file_size": 455,
+      "element_id": "222:1590",
+      "bounds": {
+        "x": 58.16250801086426,
+        "y": 1914.887529373169,
+        "width": 31.412519454956055,
+        "height": 9.279152870178223
+      }
+    },
+    {
+      "filename": "icon_222_1563.svg",
+      "type": "icon",
+      "file_size": 250,
+      "element_id": "222:1563",
+      "bounds": {
+        "x": 338.056640625,
+        "y": 44,
+        "width": 21.1484375,
+        "height": 13.8974609375
+      }
+    },
+    {
+      "filename": "icon_222_1562.svg",
+      "type": "icon",
+      "file_size": 165,
+      "element_id": "222:1562",
+      "bounds": {
+        "x": 328,
+        "y": 30,
+        "width": 41,
+        "height": 42
+      }
+    },
+    {
+      "filename": "icon_222_1618.svg",
+      "type": "icon",
+      "file_size": 918,
+      "element_id": "222:1618",
+      "bounds": {
+        "x": 78.93974304199219,
+        "y": 2149.486559867859,
+        "width": 17.14382553100586,
+        "height": 39.185890197753906
+      }
+    },
+    {
+      "filename": "icon_241_100.svg",
+      "type": "icon",
+      "file_size": 250,
+      "element_id": "241:10",
+      "bounds": {
+        "x": 42,
+        "y": 7849,
+        "width": 306,
+        "height": 47
+      }
+    },
+    {
+      "filename": "icon_241_105.svg",
+      "type": "icon",
+      "file_size": 220,
+      "element_id": "241:10",
+      "bounds": {
+        "x": 42,
+        "y": 7849,
+        "width": 306,
+        "height": 47
+      }
+    },
+    {
+      "filename": "icon_222_1589.svg",
+      "type": "icon",
+      "file_size": 418,
+      "element_id": "222:1589",
+      "bounds": {
+        "x": 30,
+        "y": 1895,
+        "width": 34.81214141845703,
+        "height": 35
+      }
+    },
+    {
+      "filename": "icon_228_4.svg",
+      "type": "icon",
+      "file_size": 444,
+      "element_id": "228:4",
+      "bounds": {
+        "x": 28,
+        "y": 3987,
+        "width": 15,
+        "height": 8
+      }
+    },
+    {
+      "filename": "icon_241_43.svg",
+      "type": "icon",
+      "file_size": 245,
+      "element_id": "241:4",
+      "bounds": {
+        "x": 32,
+        "y": 7384,
+        "width": 317,
+        "height": 0
+      }
+    },
+    {
+      "filename": "icon_241_163.svg",
+      "type": "icon",
+      "file_size": 362,
+      "element_id": "241:16",
+      "bounds": {
+        "x": 213,
+        "y": 8495,
+        "width": 85,
+        "height": 9
+      }
+    },
+    {
+      "filename": "icon_241_164.svg",
+      "type": "icon",
+      "file_size": 165,
+      "element_id": "241:16",
+      "bounds": {
+        "x": 213,
+        "y": 8495,
+        "width": 85,
+        "height": 9
+      }
+    },
+    {
+      "filename": "icon_241_165.svg",
+      "type": "icon",
+      "file_size": 250,
+      "element_id": "241:16",
+      "bounds": {
+        "x": 213,
+        "y": 8495,
+        "width": 85,
+        "height": 9
+      }
+    },
+    {
+      "filename": "icon_222_1628.svg",
+      "type": "icon",
+      "file_size": 447,
+      "element_id": "222:1628",
+      "bounds": {
+        "x": 30,
+        "y": 2261,
+        "width": 36.354740142822266,
+        "height": 36.55092239379883
+      }
+    },
+    {
+      "filename": "icon_222_1617.svg",
+      "type": "icon",
+      "file_size": 469,
+      "element_id": "222:1617",
+      "bounds": {
+        "x": 29.999999999999943,
+        "y": 2139.0000543892384,
+        "width": 36.5056266784668,
+        "height": 36.70262908935547
+      }
+    },
+    {
+      "filename": "icon_228_2.svg",
+      "type": "icon",
+      "file_size": 444,
+      "element_id": "228:2",
+      "bounds": {
+        "x": 28,
+        "y": 3958,
+        "width": 15,
+        "height": 8
+      }
+    }
+  ]
+}
