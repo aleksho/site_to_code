@@ -1,0 +1,1292 @@
+{
+  "page": "glavnaya",
+  "assets_count": 107,
+  "images": [
+    {
+      "filename": "img_31_4.png",
+      "type": "image",
+      "file_size": 38314,
+      "element_id": "31:4",
+      "bounds": {
+        "x": 93,
+        "y": 179,
+        "width": 225,
+        "height": 59
+      }
+    },
+    {
+      "filename": "img_112_125.png",
+      "type": "image",
+      "file_size": 165151,
+      "element_id": "112:125",
+      "bounds": {
+        "x": 729,
+        "y": 2664,
+        "width": 237,
+        "height": 355
+      }
+    },
+    {
+      "filename": "img_113_126.png",
+      "type": "image",
+      "file_size": 1937633,
+      "element_id": "113:126",
+      "bounds": {
+        "x": 80,
+        "y": 3690,
+        "width": 1280,
+        "height": 717
+      }
+    },
+    {
+      "filename": "img_110_62.png",
+      "type": "image",
+      "file_size": 71420,
+      "element_id": "110:62",
+      "bounds": {
+        "x": -31,
+        "y": 2448,
+        "width": 510,
+        "height": 339
+      }
+    },
+    {
+      "filename": "img_181_2.png",
+      "type": "image",
+      "file_size": 776515,
+      "element_id": "181:2",
+      "bounds": {
+        "x": 652,
+        "y": 9382,
+        "width": 673,
+        "height": 539
+      }
+    },
+    {
+      "filename": "img_110_56.png",
+      "type": "image",
+      "file_size": 50566,
+      "element_id": "110:56",
+      "bounds": {
+        "x": 123,
+        "y": 2802.76171875,
+        "width": 117.3707275390625,
+        "height": 176.03460693359375
+      }
+    },
+    {
+      "filename": "img_283_6.png",
+      "type": "image",
+      "file_size": 575362,
+      "element_id": "283:6",
+      "bounds": {
+        "x": 156,
+        "y": 5613,
+        "width": 550,
+        "height": 289
+      }
+    },
+    {
+      "filename": "img_283_10.png",
+      "type": "image",
+      "file_size": 575362,
+      "element_id": "283:10",
+      "bounds": {
+        "x": 734,
+        "y": 5613,
+        "width": 550,
+        "height": 289
+      }
+    },
+    {
+      "filename": "img_110_58.png",
+      "type": "image",
+      "file_size": 66448,
+      "element_id": "110:58",
+      "bounds": {
+        "x": 110,
+        "y": 2815,
+        "width": 214,
+        "height": 143
+      }
+    },
+    {
+      "filename": "img_43_27.png",
+      "type": "image",
+      "file_size": 650919,
+      "element_id": "43:27",
+      "bounds": {
+        "x": 80,
+        "y": 896,
+        "width": 635,
+        "height": 604
+      }
+    },
+    {
+      "filename": "img_110_66.png",
+      "type": "image",
+      "file_size": 70399,
+      "element_id": "110:66",
+      "bounds": {
+        "x": 570,
+        "y": 2618.0561294555664,
+        "width": 432,
+        "height": 288
+      }
+    },
+    {
+      "filename": "img_110_60.png",
+      "type": "image",
+      "file_size": 75772,
+      "element_id": "110:60",
+      "bounds": {
+        "x": 756,
+        "y": 2362,
+        "width": 148,
+        "height": 222
+      }
+    },
+    {
+      "filename": "img_169_41.png",
+      "type": "image",
+      "file_size": 1350988,
+      "element_id": "169:41",
+      "bounds": {
+        "x": 843,
+        "y": 8584,
+        "width": 517,
+        "height": 614
+      }
+    },
+    {
+      "filename": "img_127_10.png",
+      "type": "image",
+      "file_size": 744664,
+      "element_id": "127:10",
+      "bounds": {
+        "x": 80,
+        "y": 4716,
+        "width": 714,
+        "height": 624
+      }
+    },
+    {
+      "filename": "img_109_2.png",
+      "type": "image",
+      "file_size": 62416,
+      "element_id": "109:2",
+      "bounds": {
+        "x": 102,
+        "y": 2276,
+        "width": 187,
+        "height": 281
+      }
+    },
+    {
+      "filename": "img_197_127.png",
+      "type": "image",
+      "file_size": 490437,
+      "element_id": "1:2",
+      "bounds": {
+        "x": 305,
+        "y": 176,
+        "width": 1440,
+        "height": 10271
+      }
+    },
+    {
+      "filename": "img_1_2.png",
+      "type": "image",
+      "file_size": 10870045,
+      "element_id": "1:2",
+      "bounds": {
+        "x": 305,
+        "y": 176,
+        "width": 1440,
+        "height": 10271
+      }
+    },
+    {
+      "filename": "img_201_233.png",
+      "type": "image",
+      "file_size": 571766,
+      "element_id": "1:2",
+      "bounds": {
+        "x": 305,
+        "y": 176,
+        "width": 1440,
+        "height": 10271
+      }
+    },
+    {
+      "filename": "img_201_236.png",
+      "type": "image",
+      "file_size": 35480,
+      "element_id": "1:2",
+      "bounds": {
+        "x": 305,
+        "y": 176,
+        "width": 1440,
+        "height": 10271
+      }
+    },
+    {
+      "filename": "img_374_12.png",
+      "type": "image",
+      "file_size": 31258,
+      "element_id": "1:2",
+      "bounds": {
+        "x": 305,
+        "y": 176,
+        "width": 1440,
+        "height": 10271
+      }
+    },
+    {
+      "filename": "img_481_249.png",
+      "type": "image",
+      "file_size": 152316,
+      "element_id": "1:2",
+      "bounds": {
+        "x": 305,
+        "y": 176,
+        "width": 1440,
+        "height": 10271
+      }
+    },
+    {
+      "filename": "img_31_9.png",
+      "type": "image",
+      "file_size": 1895075,
+      "element_id": "31:9",
+      "bounds": {
+        "x": 882,
+        "y": 147,
+        "width": 478,
+        "height": 710
+      }
+    },
+    {
+      "filename": "img_183_4.png",
+      "type": "image",
+      "file_size": 80692,
+      "element_id": "183:4",
+      "bounds": {
+        "x": 125,
+        "y": 10016,
+        "width": 391,
+        "height": 102
+      }
+    }
+  ],
+  "icons": [
+    {
+      "filename": "icon_182_8.svg",
+      "type": "icon",
+      "file_size": 2133,
+      "element_id": "182:8",
+      "bounds": {
+        "x": 125,
+        "y": 9818,
+        "width": 44,
+        "height": 44
+      }
+    },
+    {
+      "filename": "icon_109_33.svg",
+      "type": "icon",
+      "file_size": 788,
+      "element_id": "109:33",
+      "bounds": {
+        "x": 1271,
+        "y": 2747,
+        "width": 31,
+        "height": 31
+      }
+    },
+    {
+      "filename": "icon_109_40.svg",
+      "type": "icon",
+      "file_size": 788,
+      "element_id": "109:40",
+      "bounds": {
+        "x": 1271,
+        "y": 2482,
+        "width": 31,
+        "height": 31
+      }
+    },
+    {
+      "filename": "icon_157_47.svg",
+      "type": "icon",
+      "file_size": 396,
+      "element_id": "157:47",
+      "bounds": {
+        "x": 1247,
+        "y": 7492.9998779296875,
+        "width": 36.66666793823242,
+        "height": 35.833335876464844
+      }
+    },
+    {
+      "filename": "icon_157_54.svg",
+      "type": "icon",
+      "file_size": 396,
+      "element_id": "157:54",
+      "bounds": {
+        "x": 1247,
+        "y": 8292.999877929688,
+        "width": 36.66666793823242,
+        "height": 35.833335876464844
+      }
+    },
+    {
+      "filename": "icon_157_52.svg",
+      "type": "icon",
+      "file_size": 396,
+      "element_id": "157:52",
+      "bounds": {
+        "x": 1247,
+        "y": 7922.9998779296875,
+        "width": 36.66666793823242,
+        "height": 35.833335876464844
+      }
+    },
+    {
+      "filename": "icon_157_45.svg",
+      "type": "icon",
+      "file_size": 396,
+      "element_id": "157:45",
+      "bounds": {
+        "x": 1247,
+        "y": 7294.999862670898,
+        "width": 36.66666793823242,
+        "height": 35.833335876464844
+      }
+    },
+    {
+      "filename": "icon_32_12.svg",
+      "type": "icon",
+      "file_size": 365,
+      "element_id": "32:12",
+      "bounds": {
+        "x": 510,
+        "y": 181,
+        "width": 12,
+        "height": 16
+      }
+    },
+    {
+      "filename": "icon_121_8.svg",
+      "type": "icon",
+      "file_size": 441,
+      "element_id": "121:8",
+      "bounds": {
+        "x": 227,
+        "y": 3385,
+        "width": 33,
+        "height": 18
+      }
+    },
+    {
+      "filename": "icon_121_10.svg",
+      "type": "icon",
+      "file_size": 441,
+      "element_id": "121:10",
+      "bounds": {
+        "x": 227,
+        "y": 3497,
+        "width": 33,
+        "height": 18
+      }
+    },
+    {
+      "filename": "icon_121_9.svg",
+      "type": "icon",
+      "file_size": 441,
+      "element_id": "121:9",
+      "bounds": {
+        "x": 227,
+        "y": 3441,
+        "width": 33,
+        "height": 18
+      }
+    },
+    {
+      "filename": "icon_121_3.svg",
+      "type": "icon",
+      "file_size": 441,
+      "element_id": "121:3",
+      "bounds": {
+        "x": 227,
+        "y": 3217,
+        "width": 33,
+        "height": 18
+      }
+    },
+    {
+      "filename": "icon_121_12.svg",
+      "type": "icon",
+      "file_size": 441,
+      "element_id": "121:12",
+      "bounds": {
+        "x": 227,
+        "y": 3609,
+        "width": 33,
+        "height": 18
+      }
+    },
+    {
+      "filename": "icon_178_45.svg",
+      "type": "icon",
+      "file_size": 622,
+      "element_id": "78:4",
+      "bounds": {
+        "x": 426,
+        "y": 1574,
+        "width": 588,
+        "height": 50
+      }
+    },
+    {
+      "filename": "icon_121_5.svg",
+      "type": "icon",
+      "file_size": 441,
+      "element_id": "121:5",
+      "bounds": {
+        "x": 227,
+        "y": 3273,
+        "width": 33,
+        "height": 18
+      }
+    },
+    {
+      "filename": "icon_109_32.svg",
+      "type": "icon",
+      "file_size": 788,
+      "element_id": "109:32",
+      "bounds": {
+        "x": 1271,
+        "y": 2618,
+        "width": 31,
+        "height": 31
+      }
+    },
+    {
+      "filename": "icon_481_162.svg",
+      "type": "icon",
+      "file_size": 1339,
+      "element_id": "16:2",
+      "bounds": {
+        "x": 133,
+        "y": 330,
+        "width": 608,
+        "height": 225
+      }
+    },
+    {
+      "filename": "icon_121_6.svg",
+      "type": "icon",
+      "file_size": 441,
+      "element_id": "121:6",
+      "bounds": {
+        "x": 227,
+        "y": 3329,
+        "width": 33,
+        "height": 18
+      }
+    },
+    {
+      "filename": "icon_71_31.svg",
+      "type": "icon",
+      "file_size": 255,
+      "element_id": "71:31",
+      "bounds": {
+        "x": 565,
+        "y": 1763,
+        "width": 31,
+        "height": 31
+      }
+    },
+    {
+      "filename": "icon_182_10.svg",
+      "type": "icon",
+      "file_size": 2240,
+      "element_id": "182:10",
+      "bounds": {
+        "x": 198,
+        "y": 9818,
+        "width": 45,
+        "height": 45
+      }
+    },
+    {
+      "filename": "icon_182_14.svg",
+      "type": "icon",
+      "file_size": 616,
+      "element_id": "182:14",
+      "bounds": {
+        "x": 345,
+        "y": 9818,
+        "width": 45,
+        "height": 45
+      }
+    },
+    {
+      "filename": "icon_109_20.svg",
+      "type": "icon",
+      "file_size": 788,
+      "element_id": "109:20",
+      "bounds": {
+        "x": 656,
+        "y": 2747,
+        "width": 31,
+        "height": 31
+      }
+    },
+    {
+      "filename": "icon_157_53.svg",
+      "type": "icon",
+      "file_size": 396,
+      "element_id": "157:53",
+      "bounds": {
+        "x": 1247,
+        "y": 8121.9998779296875,
+        "width": 36.66666793823242,
+        "height": 35.833335876464844
+      }
+    },
+    {
+      "filename": "icon_121_7.svg",
+      "type": "icon",
+      "file_size": 441,
+      "element_id": "121:7",
+      "bounds": {
+        "x": 227,
+        "y": 3273,
+        "width": 33,
+        "height": 18
+      }
+    },
+    {
+      "filename": "icon_109_16.svg",
+      "type": "icon",
+      "file_size": 788,
+      "element_id": "109:16",
+      "bounds": {
+        "x": 656,
+        "y": 2618,
+        "width": 31,
+        "height": 31
+      }
+    },
+    {
+      "filename": "icon_121_11.svg",
+      "type": "icon",
+      "file_size": 441,
+      "element_id": "121:11",
+      "bounds": {
+        "x": 227,
+        "y": 3553,
+        "width": 33,
+        "height": 18
+      }
+    },
+    {
+      "filename": "icon_157_51.svg",
+      "type": "icon",
+      "file_size": 396,
+      "element_id": "157:51",
+      "bounds": {
+        "x": 1247,
+        "y": 7691.9998779296875,
+        "width": 36.66666793823242,
+        "height": 35.833335876464844
+      }
+    },
+    {
+      "filename": "icon_182_12.svg",
+      "type": "icon",
+      "file_size": 503,
+      "element_id": "182:12",
+      "bounds": {
+        "x": 272,
+        "y": 9818,
+        "width": 44,
+        "height": 44
+      }
+    },
+    {
+      "filename": "icon_109_24.svg",
+      "type": "icon",
+      "file_size": 788,
+      "element_id": "109:2",
+      "bounds": {
+        "x": 102,
+        "y": 2276,
+        "width": 187,
+        "height": 281
+      }
+    },
+    {
+      "filename": "icon_196_112.svg",
+      "type": "icon",
+      "file_size": 2105,
+      "element_id": "1:2",
+      "bounds": {
+        "x": 305,
+        "y": 176,
+        "width": 1440,
+        "height": 10271
+      }
+    },
+    {
+      "filename": "icon_197_123.svg",
+      "type": "icon",
+      "file_size": 215,
+      "element_id": "1:2",
+      "bounds": {
+        "x": 305,
+        "y": 176,
+        "width": 1440,
+        "height": 10271
+      }
+    },
+    {
+      "filename": "icon_201_241.svg",
+      "type": "icon",
+      "file_size": 612,
+      "element_id": "1:2",
+      "bounds": {
+        "x": 305,
+        "y": 176,
+        "width": 1440,
+        "height": 10271
+      }
+    },
+    {
+      "filename": "icon_201_242.svg",
+      "type": "icon",
+      "file_size": 2289,
+      "element_id": "1:2",
+      "bounds": {
+        "x": 305,
+        "y": 176,
+        "width": 1440,
+        "height": 10271
+      }
+    },
+    {
+      "filename": "icon_201_243.svg",
+      "type": "icon",
+      "file_size": 2272,
+      "element_id": "1:2",
+      "bounds": {
+        "x": 305,
+        "y": 176,
+        "width": 1440,
+        "height": 10271
+      }
+    },
+    {
+      "filename": "icon_201_244.svg",
+      "type": "icon",
+      "file_size": 511,
+      "element_id": "1:2",
+      "bounds": {
+        "x": 305,
+        "y": 176,
+        "width": 1440,
+        "height": 10271
+      }
+    },
+    {
+      "filename": "icon_201_245.svg",
+      "type": "icon",
+      "file_size": 644,
+      "element_id": "1:2",
+      "bounds": {
+        "x": 305,
+        "y": 176,
+        "width": 1440,
+        "height": 10271
+      }
+    },
+    {
+      "filename": "icon_201_247.svg",
+      "type": "icon",
+      "file_size": 442,
+      "element_id": "1:2",
+      "bounds": {
+        "x": 305,
+        "y": 176,
+        "width": 1440,
+        "height": 10271
+      }
+    },
+    {
+      "filename": "icon_201_248.svg",
+      "type": "icon",
+      "file_size": 226,
+      "element_id": "1:2",
+      "bounds": {
+        "x": 305,
+        "y": 176,
+        "width": 1440,
+        "height": 10271
+      }
+    },
+    {
+      "filename": "icon_352_12.svg",
+      "type": "icon",
+      "file_size": 637,
+      "element_id": "1:2",
+      "bounds": {
+        "x": 305,
+        "y": 176,
+        "width": 1440,
+        "height": 10271
+      }
+    },
+    {
+      "filename": "icon_471_12.svg",
+      "type": "icon",
+      "file_size": 3275,
+      "element_id": "1:2",
+      "bounds": {
+        "x": 305,
+        "y": 176,
+        "width": 1440,
+        "height": 10271
+      }
+    },
+    {
+      "filename": "icon_481_200.svg",
+      "type": "icon",
+      "file_size": 1339,
+      "element_id": "1:2",
+      "bounds": {
+        "x": 305,
+        "y": 176,
+        "width": 1440,
+        "height": 10271
+      }
+    },
+    {
+      "filename": "icon_481_201.svg",
+      "type": "icon",
+      "file_size": 3275,
+      "element_id": "1:2",
+      "bounds": {
+        "x": 305,
+        "y": 176,
+        "width": 1440,
+        "height": 10271
+      }
+    },
+    {
+      "filename": "icon_481_205.svg",
+      "type": "icon",
+      "file_size": 1339,
+      "element_id": "1:2",
+      "bounds": {
+        "x": 305,
+        "y": 176,
+        "width": 1440,
+        "height": 10271
+      }
+    },
+    {
+      "filename": "icon_481_206.svg",
+      "type": "icon",
+      "file_size": 3275,
+      "element_id": "1:2",
+      "bounds": {
+        "x": 305,
+        "y": 176,
+        "width": 1440,
+        "height": 10271
+      }
+    },
+    {
+      "filename": "icon_481_218.svg",
+      "type": "icon",
+      "file_size": 1339,
+      "element_id": "1:2",
+      "bounds": {
+        "x": 305,
+        "y": 176,
+        "width": 1440,
+        "height": 10271
+      }
+    },
+    {
+      "filename": "icon_481_219.svg",
+      "type": "icon",
+      "file_size": 3275,
+      "element_id": "1:2",
+      "bounds": {
+        "x": 305,
+        "y": 176,
+        "width": 1440,
+        "height": 10271
+      }
+    },
+    {
+      "filename": "icon_I387_116;1287_6436.svg",
+      "type": "icon",
+      "file_size": 1511,
+      "element_id": "1:2",
+      "bounds": {
+        "x": 305,
+        "y": 176,
+        "width": 1440,
+        "height": 10271
+      }
+    },
+    {
+      "filename": "icon_I387_119;1287_6436.svg",
+      "type": "icon",
+      "file_size": 1511,
+      "element_id": "1:2",
+      "bounds": {
+        "x": 305,
+        "y": 176,
+        "width": 1440,
+        "height": 10271
+      }
+    },
+    {
+      "filename": "icon_I387_121;1287_6436.svg",
+      "type": "icon",
+      "file_size": 1511,
+      "element_id": "1:2",
+      "bounds": {
+        "x": 305,
+        "y": 176,
+        "width": 1440,
+        "height": 10271
+      }
+    },
+    {
+      "filename": "icon_I387_123;1287_6436.svg",
+      "type": "icon",
+      "file_size": 1511,
+      "element_id": "1:2",
+      "bounds": {
+        "x": 305,
+        "y": 176,
+        "width": 1440,
+        "height": 10271
+      }
+    },
+    {
+      "filename": "icon_I387_125;1287_6436.svg",
+      "type": "icon",
+      "file_size": 1511,
+      "element_id": "1:2",
+      "bounds": {
+        "x": 305,
+        "y": 176,
+        "width": 1440,
+        "height": 10271
+      }
+    },
+    {
+      "filename": "icon_I387_127;1287_6436.svg",
+      "type": "icon",
+      "file_size": 1511,
+      "element_id": "1:2",
+      "bounds": {
+        "x": 305,
+        "y": 176,
+        "width": 1440,
+        "height": 10271
+      }
+    },
+    {
+      "filename": "icon_I471_15;1287_6436.svg",
+      "type": "icon",
+      "file_size": 1511,
+      "element_id": "1:2",
+      "bounds": {
+        "x": 305,
+        "y": 176,
+        "width": 1440,
+        "height": 10271
+      }
+    },
+    {
+      "filename": "icon_I473_20;1287_6436.svg",
+      "type": "icon",
+      "file_size": 1511,
+      "element_id": "1:2",
+      "bounds": {
+        "x": 305,
+        "y": 176,
+        "width": 1440,
+        "height": 10271
+      }
+    },
+    {
+      "filename": "icon_I474_24;1287_6436.svg",
+      "type": "icon",
+      "file_size": 1511,
+      "element_id": "1:2",
+      "bounds": {
+        "x": 305,
+        "y": 176,
+        "width": 1440,
+        "height": 10271
+      }
+    },
+    {
+      "filename": "icon_I474_27;1287_6436.svg",
+      "type": "icon",
+      "file_size": 1511,
+      "element_id": "1:2",
+      "bounds": {
+        "x": 305,
+        "y": 176,
+        "width": 1440,
+        "height": 10271
+      }
+    },
+    {
+      "filename": "icon_I481_121;1287_6436.svg",
+      "type": "icon",
+      "file_size": 1511,
+      "element_id": "1:2",
+      "bounds": {
+        "x": 305,
+        "y": 176,
+        "width": 1440,
+        "height": 10271
+      }
+    },
+    {
+      "filename": "icon_I481_122;1287_6436.svg",
+      "type": "icon",
+      "file_size": 1511,
+      "element_id": "1:2",
+      "bounds": {
+        "x": 305,
+        "y": 176,
+        "width": 1440,
+        "height": 10271
+      }
+    },
+    {
+      "filename": "icon_I481_147;1287_6436.svg",
+      "type": "icon",
+      "file_size": 1511,
+      "element_id": "1:2",
+      "bounds": {
+        "x": 305,
+        "y": 176,
+        "width": 1440,
+        "height": 10271
+      }
+    },
+    {
+      "filename": "icon_I481_152;1287_6436.svg",
+      "type": "icon",
+      "file_size": 1511,
+      "element_id": "1:2",
+      "bounds": {
+        "x": 305,
+        "y": 176,
+        "width": 1440,
+        "height": 10271
+      }
+    },
+    {
+      "filename": "icon_I481_153;1287_6436.svg",
+      "type": "icon",
+      "file_size": 1511,
+      "element_id": "1:2",
+      "bounds": {
+        "x": 305,
+        "y": 176,
+        "width": 1440,
+        "height": 10271
+      }
+    },
+    {
+      "filename": "icon_I481_157;1287_6436.svg",
+      "type": "icon",
+      "file_size": 1511,
+      "element_id": "1:2",
+      "bounds": {
+        "x": 305,
+        "y": 176,
+        "width": 1440,
+        "height": 10271
+      }
+    },
+    {
+      "filename": "icon_I481_160;1287_6436.svg",
+      "type": "icon",
+      "file_size": 1511,
+      "element_id": "1:2",
+      "bounds": {
+        "x": 305,
+        "y": 176,
+        "width": 1440,
+        "height": 10271
+      }
+    },
+    {
+      "filename": "icon_I481_163;1287_6436.svg",
+      "type": "icon",
+      "file_size": 1511,
+      "element_id": "1:2",
+      "bounds": {
+        "x": 305,
+        "y": 176,
+        "width": 1440,
+        "height": 10271
+      }
+    },
+    {
+      "filename": "icon_I481_170;1287_6436.svg",
+      "type": "icon",
+      "file_size": 1511,
+      "element_id": "1:2",
+      "bounds": {
+        "x": 305,
+        "y": 176,
+        "width": 1440,
+        "height": 10271
+      }
+    },
+    {
+      "filename": "icon_I481_182;1287_6436.svg",
+      "type": "icon",
+      "file_size": 1511,
+      "element_id": "1:2",
+      "bounds": {
+        "x": 305,
+        "y": 176,
+        "width": 1440,
+        "height": 10271
+      }
+    },
+    {
+      "filename": "icon_I481_183;1287_6436.svg",
+      "type": "icon",
+      "file_size": 1511,
+      "element_id": "1:2",
+      "bounds": {
+        "x": 305,
+        "y": 176,
+        "width": 1440,
+        "height": 10271
+      }
+    },
+    {
+      "filename": "icon_I481_187;1287_6436.svg",
+      "type": "icon",
+      "file_size": 1511,
+      "element_id": "1:2",
+      "bounds": {
+        "x": 305,
+        "y": 176,
+        "width": 1440,
+        "height": 10271
+      }
+    },
+    {
+      "filename": "icon_I481_194;1287_6436.svg",
+      "type": "icon",
+      "file_size": 1511,
+      "element_id": "1:2",
+      "bounds": {
+        "x": 305,
+        "y": 176,
+        "width": 1440,
+        "height": 10271
+      }
+    },
+    {
+      "filename": "icon_I481_226;1287_6436.svg",
+      "type": "icon",
+      "file_size": 1511,
+      "element_id": "1:2",
+      "bounds": {
+        "x": 305,
+        "y": 176,
+        "width": 1440,
+        "height": 10271
+      }
+    },
+    {
+      "filename": "icon_I481_238;1287_6436.svg",
+      "type": "icon",
+      "file_size": 1511,
+      "element_id": "1:2",
+      "bounds": {
+        "x": 305,
+        "y": 176,
+        "width": 1440,
+        "height": 10271
+      }
+    },
+    {
+      "filename": "icon_I481_36;1287_6436.svg",
+      "type": "icon",
+      "file_size": 1511,
+      "element_id": "1:2",
+      "bounds": {
+        "x": 305,
+        "y": 176,
+        "width": 1440,
+        "height": 10271
+      }
+    },
+    {
+      "filename": "icon_I481_37;1287_6436.svg",
+      "type": "icon",
+      "file_size": 1511,
+      "element_id": "1:2",
+      "bounds": {
+        "x": 305,
+        "y": 176,
+        "width": 1440,
+        "height": 10271
+      }
+    },
+    {
+      "filename": "icon_I481_38;1287_6436.svg",
+      "type": "icon",
+      "file_size": 1511,
+      "element_id": "1:2",
+      "bounds": {
+        "x": 305,
+        "y": 176,
+        "width": 1440,
+        "height": 10271
+      }
+    },
+    {
+      "filename": "icon_I481_42;1287_6436.svg",
+      "type": "icon",
+      "file_size": 1511,
+      "element_id": "1:2",
+      "bounds": {
+        "x": 305,
+        "y": 176,
+        "width": 1440,
+        "height": 10271
+      }
+    },
+    {
+      "filename": "icon_I481_44;1287_6436.svg",
+      "type": "icon",
+      "file_size": 1511,
+      "element_id": "1:2",
+      "bounds": {
+        "x": 305,
+        "y": 176,
+        "width": 1440,
+        "height": 10271
+      }
+    },
+    {
+      "filename": "icon_I481_73;1287_6436.svg",
+      "type": "icon",
+      "file_size": 1511,
+      "element_id": "1:2",
+      "bounds": {
+        "x": 305,
+        "y": 176,
+        "width": 1440,
+        "height": 10271
+      }
+    },
+    {
+      "filename": "icon_I481_74;1287_6436.svg",
+      "type": "icon",
+      "file_size": 1511,
+      "element_id": "1:2",
+      "bounds": {
+        "x": 305,
+        "y": 176,
+        "width": 1440,
+        "height": 10271
+      }
+    },
+    {
+      "filename": "icon_I481_76;1287_6436.svg",
+      "type": "icon",
+      "file_size": 1511,
+      "element_id": "1:2",
+      "bounds": {
+        "x": 305,
+        "y": 176,
+        "width": 1440,
+        "height": 10271
+      }
+    },
+    {
+      "filename": "icon_I481_89;1287_6436.svg",
+      "type": "icon",
+      "file_size": 1511,
+      "element_id": "1:2",
+      "bounds": {
+        "x": 305,
+        "y": 176,
+        "width": 1440,
+        "height": 10271
+      }
+    },
+    {
+      "filename": "icon_I481_94;1287_6436.svg",
+      "type": "icon",
+      "file_size": 1511,
+      "element_id": "1:2",
+      "bounds": {
+        "x": 305,
+        "y": 176,
+        "width": 1440,
+        "height": 10271
+      }
+    },
+    {
+      "filename": "icon_I481_95;1287_6436.svg",
+      "type": "icon",
+      "file_size": 1511,
+      "element_id": "1:2",
+      "bounds": {
+        "x": 305,
+        "y": 176,
+        "width": 1440,
+        "height": 10271
+      }
+    },
+    {
+      "filename": "icon_102_4.svg",
+      "type": "icon",
+      "file_size": 788,
+      "element_id": "102:4",
+      "bounds": {
+        "x": 656,
+        "y": 2482,
+        "width": 31,
+        "height": 31
+      }
+    },
+    {
+      "filename": "icon_179_47.svg",
+      "type": "icon",
+      "file_size": 298,
+      "element_id": "179:47",
+      "bounds": {
+        "x": 125,
+        "y": 9574,
+        "width": 25.083335876464844,
+        "height": 35.833335876464844
+      }
+    }
+  ]
+}
