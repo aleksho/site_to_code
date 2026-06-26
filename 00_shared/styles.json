@@ -1,0 +1,992 @@
+{
+  "paints": [
+    {
+      "id": "S:1b38ff213be3e066d52239db74365f7f29579d5e,",
+      "name": "estno.ru/Alto",
+      "paints": [
+        {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.8784313797950745,
+            "g": 0.8784313797950745,
+            "b": 0.8784313797950745
+          },
+          "boundVariables": {
+            "color": {
+              "type": "VARIABLE_ALIAS",
+              "id": "VariableID:4:680"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "S:c3564069f253fbe2700c9781fcfc10a02596eb85,",
+      "name": "estno.ru/Black",
+      "paints": [
+        {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0,
+            "g": 0,
+            "b": 0
+          },
+          "boundVariables": {
+            "color": {
+              "type": "VARIABLE_ALIAS",
+              "id": "VariableID:4:865"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "S:086f9300354687e1f9f08583b8d058fd95129354,",
+      "name": "estno.ru/Bronco",
+      "paints": [
+        {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.6784313917160034,
+            "g": 0.6274510025978088,
+            "b": 0.5960784554481506
+          },
+          "boundVariables": {
+            "color": {
+              "type": "VARIABLE_ALIAS",
+              "id": "VariableID:4:338"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "S:f1f51a9c07b1e0897879d7146cbd8cfb071e1095,",
+      "name": "estno.ru/Bronco",
+      "paints": [
+        {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.6666666865348816,
+            "g": 0.6313725709915161,
+            "b": 0.5843137502670288
+          },
+          "boundVariables": {
+            "color": {
+              "type": "VARIABLE_ALIAS",
+              "id": "VariableID:4:393"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "S:a7ea002a90ab3f418e46e824646f8fbcc9d6760c,",
+      "name": "estno.ru/Emperor",
+      "paints": [
+        {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.3294117748737335,
+            "g": 0.3294117748737335,
+            "b": 0.3294117748737335
+          },
+          "boundVariables": {
+            "color": {
+              "type": "VARIABLE_ALIAS",
+              "id": "VariableID:4:318"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "S:484d2481d4a14d8fa30d1956e29c87708e362c94,",
+      "name": "estno.ru/Emperor",
+      "paints": [
+        {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.32156863808631897,
+            "g": 0.32156863808631897,
+            "b": 0.32156863808631897
+          },
+          "boundVariables": {
+            "color": {
+              "type": "VARIABLE_ALIAS",
+              "id": "VariableID:4:319"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "S:1c7ad0bf36545031411dc3ed9a65da239819b6a2,",
+      "name": "estno.ru/Gallery",
+      "paints": [
+        {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.9333333373069763,
+            "g": 0.9333333373069763,
+            "b": 0.9333333373069763
+          },
+          "boundVariables": {
+            "color": {
+              "type": "VARIABLE_ALIAS",
+              "id": "VariableID:4:353"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "S:6ae79b740eac4802a2f08ed1f1c40f69a65c834d,",
+      "name": "estno.ru/Gallery",
+      "paints": [
+        {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.9411764740943909,
+            "g": 0.9411764740943909,
+            "b": 0.9411764740943909
+          },
+          "boundVariables": {
+            "color": {
+              "type": "VARIABLE_ALIAS",
+              "id": "VariableID:4:512"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "S:609895a3d38771a861f1ae8fd74f5847e9636291,",
+      "name": "estno.ru/Gray",
+      "paints": [
+        {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.5254902243614197,
+            "g": 0.5254902243614197,
+            "b": 0.5254902243614197
+          },
+          "boundVariables": {
+            "color": {
+              "type": "VARIABLE_ALIAS",
+              "id": "VariableID:4:330"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "S:24ad1b2730119ba2312c554692c44eef74247f09,",
+      "name": "estno.ru/Gray",
+      "paints": [
+        {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.5411764979362488,
+            "g": 0.5411764979362488,
+            "b": 0.5411764979362488
+          },
+          "boundVariables": {
+            "color": {
+              "type": "VARIABLE_ALIAS",
+              "id": "VariableID:4:331"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "S:e3a3a22bb08e3ca87506ff95943d073e8a7e7117,",
+      "name": "estno.ru/Mine Shaft",
+      "paints": [
+        {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.13333334028720856,
+            "g": 0.13333334028720856,
+            "b": 0.13333334028720856
+          },
+          "boundVariables": {
+            "color": {
+              "type": "VARIABLE_ALIAS",
+              "id": "VariableID:4:378"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "S:5f189ade278b1f2c5a8b988ed00047a807f41275,",
+      "name": "estno.ru/Mine Shaft",
+      "paints": [
+        {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.1411764770746231,
+            "g": 0.1411764770746231,
+            "b": 0.1411764770746231
+          },
+          "boundVariables": {
+            "color": {
+              "type": "VARIABLE_ALIAS",
+              "id": "VariableID:4:582"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "S:e6f42ca0341e34b643a6e7296ebc74ad8580c6ea,",
+      "name": "estno.ru/Mine Shaft",
+      "paints": [
+        {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.1411764770746231,
+            "g": 0.1411764770746231,
+            "b": 0.1411764770746231
+          },
+          "boundVariables": {
+            "color": {
+              "type": "VARIABLE_ALIAS",
+              "id": "VariableID:4:582"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "S:a8f56297409a443febfbfc10e63e36e46bb28426,",
+      "name": "estno.ru/Silver",
+      "paints": [
+        {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.7450980544090271,
+            "g": 0.7450980544090271,
+            "b": 0.7450980544090271
+          },
+          "boundVariables": {
+            "color": {
+              "type": "VARIABLE_ALIAS",
+              "id": "VariableID:4:409"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "S:66fef5cc582fbb337403227c7786d50ac22c88de,",
+      "name": "estno.ru/Silver",
+      "paints": [
+        {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.7333333492279053,
+            "g": 0.7333333492279053,
+            "b": 0.7333333492279053
+          },
+          "boundVariables": {
+            "color": {
+              "type": "VARIABLE_ALIAS",
+              "id": "VariableID:4:729"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "S:e5b5658f93b1c3ab8695c1472d82ea6ab439ebf5,",
+      "name": "estno.ru/Silver",
+      "paints": [
+        {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.7450980544090271,
+            "g": 0.7450980544090271,
+            "b": 0.7450980544090271
+          },
+          "boundVariables": {
+            "color": {
+              "type": "VARIABLE_ALIAS",
+              "id": "VariableID:4:409"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "S:a1a2c495c04d4018aa9de2348c7469b0a402919e,",
+      "name": "estno.ru/Silver Chalice",
+      "paints": [
+        {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.6313725709915161,
+            "g": 0.6313725709915161,
+            "b": 0.6313725709915161
+          },
+          "boundVariables": {
+            "color": {
+              "type": "VARIABLE_ALIAS",
+              "id": "VariableID:4:288"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "S:f573145b746e15d53b130125c969f25eef8c0de0,",
+      "name": "estno.ru/Tundora",
+      "paints": [
+        {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.2705882489681244,
+            "g": 0.2705882489681244,
+            "b": 0.2705882489681244
+          },
+          "boundVariables": {
+            "color": {
+              "type": "VARIABLE_ALIAS",
+              "id": "VariableID:4:278"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "S:9c69ae9a233576b64764c4bcbdf2f57c6110ebec,",
+      "name": "estno.ru/White",
+      "paints": [
+        {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 1,
+            "g": 1,
+            "b": 1
+          },
+          "boundVariables": {
+            "color": {
+              "type": "VARIABLE_ALIAS",
+              "id": "VariableID:4:298"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "S:b6b9e2a5723cb95d497ba01d5ce6ee22407f7925,",
+      "name": "estno.ru/Westar",
+      "paints": [
+        {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.8627451062202454,
+            "g": 0.8470588326454163,
+            "b": 0.8274509906768799
+          },
+          "boundVariables": {
+            "color": {
+              "type": "VARIABLE_ALIAS",
+              "id": "VariableID:4:886"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "S:0ffdffea47d79ded8b6ec420af9fe70169c05f2d,",
+      "name": "estno.ru/White Gallery",
+      "paints": [
+        {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 1,
+            "g": 1,
+            "b": 1
+          },
+          "boundVariables": {
+            "color": {
+              "type": "VARIABLE_ALIAS",
+              "id": "VariableID:4:298"
+            }
+          }
+        },
+        {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.9411764740943909,
+            "g": 0.9411764740943909,
+            "b": 0.9411764740943909
+          },
+          "boundVariables": {
+            "color": {
+              "type": "VARIABLE_ALIAS",
+              "id": "VariableID:4:512"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "text": [
+    {
+      "id": "S:0e986d97fcc1449288c5df40bc4d23f6d71bf9bb,",
+      "name": "estno.ru/Manrope/Bold upper",
+      "fontSize": 18,
+      "fontName": {
+        "family": "Manrope",
+        "style": "Bold"
+      },
+      "textDecoration": "NONE",
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 27.899999618530273
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      }
+    },
+    {
+      "id": "S:ee36030a1ee9c1dfc953c555f7a42e207a7d461e,",
+      "name": "estno.ru/Manrope/Medium",
+      "fontSize": 16,
+      "fontName": {
+        "family": "Manrope",
+        "style": "Medium"
+      },
+      "textDecoration": "NONE",
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 21.600000381469727
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      }
+    },
+    {
+      "id": "S:40761de49bd5d167806bf88e2c3a3636d877d490,",
+      "name": "estno.ru/Manrope/Regular",
+      "fontSize": 10.000001907348633,
+      "fontName": {
+        "family": "Manrope",
+        "style": "Regular"
+      },
+      "textDecoration": "NONE",
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 14
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      }
+    },
+    {
+      "id": "S:7f0f09090dd4f75de4d18796b80a28e37edd4560,",
+      "name": "estno.ru/Manrope/Regular",
+      "fontSize": 18,
+      "fontName": {
+        "family": "Manrope",
+        "style": "Regular"
+      },
+      "textDecoration": "NONE",
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 26
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      }
+    },
+    {
+      "id": "S:c341c6cf82c85f7c250487b3330b1f30d4b94f8b,",
+      "name": "estno.ru/Manrope/SemiBold",
+      "fontSize": 10.000001907348633,
+      "fontName": {
+        "family": "Manrope",
+        "style": "SemiBold"
+      },
+      "textDecoration": "NONE",
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 14
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      }
+    },
+    {
+      "id": "S:b2ee336107ec293df77c37c980e5c47b4903e05c,",
+      "name": "estno.ru/Manrope/SemiBold",
+      "fontSize": 18,
+      "fontName": {
+        "family": "Manrope",
+        "style": "SemiBold"
+      },
+      "textDecoration": "NONE",
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 25
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      }
+    },
+    {
+      "id": "S:915a672a16e01bc630cffe8a5fd5616bcd5a99ac,",
+      "name": "estno.ru/Manrope/SemiBold",
+      "fontSize": 18,
+      "fontName": {
+        "family": "Manrope",
+        "style": "SemiBold"
+      },
+      "textDecoration": "NONE",
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 26
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      }
+    },
+    {
+      "id": "S:a9b04ee045f8c5416ebf1123f42ce4d0513635a8,",
+      "name": "estno.ru/Manrope/SemiBold upper",
+      "fontSize": 16,
+      "fontName": {
+        "family": "Manrope",
+        "style": "SemiBold"
+      },
+      "textDecoration": "NONE",
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 24.799999237060547
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      }
+    },
+    {
+      "id": "S:2b47033aec0286ff6a451e3ab0e8fe5d886e470b,",
+      "name": "estno.ru/Manrope/SemiBold upper",
+      "fontSize": 18,
+      "fontName": {
+        "family": "Manrope",
+        "style": "SemiBold"
+      },
+      "textDecoration": "NONE",
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 27.899999618530273
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      }
+    },
+    {
+      "id": "S:c3912ffe215559dc567cb52a8971c60fb736314e,",
+      "name": "estno.ru/Manrope/Regular",
+      "fontSize": 16,
+      "fontName": {
+        "family": "Manrope",
+        "style": "Regular"
+      },
+      "textDecoration": "NONE",
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 25
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      }
+    },
+    {
+      "id": "S:7a44cf1ca2c47dbd36de3f7fd93421e5174e89b0,",
+      "name": "estno.ru/Onest/Bold",
+      "fontSize": 40,
+      "fontName": {
+        "family": "Onest",
+        "style": "Bold"
+      },
+      "textDecoration": "NONE",
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 62
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      }
+    },
+    {
+      "id": "S:b187e5cae9a5e5d80a02fa33c592d43cd527bcfd,",
+      "name": "estno.ru/Onest/Regular upper",
+      "fontSize": 33,
+      "fontName": {
+        "family": "Onest",
+        "style": "Regular"
+      },
+      "textDecoration": "NONE",
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 51
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      }
+    },
+    {
+      "id": "S:bdb69f9986bc6bf67e0134a23d9a40dbdd2005d4,",
+      "name": "estno.ru/Onest/Bold",
+      "fontSize": 30,
+      "fontName": {
+        "family": "Onest",
+        "style": "Bold"
+      },
+      "textDecoration": "NONE",
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 47
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      }
+    },
+    {
+      "id": "S:45ca0b48964555b08c494c8cff852723cb3252e8,",
+      "name": "estno.ru/Onest/Bold",
+      "fontSize": 30,
+      "fontName": {
+        "family": "Onest",
+        "style": "Bold"
+      },
+      "textDecoration": "NONE",
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 36
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      }
+    },
+    {
+      "id": "S:ffc4691d3d0590ffbbf2e97e43858c7d6a0d3d44,",
+      "name": "estno.ru/Onest/Regular upper",
+      "fontSize": 33,
+      "fontName": {
+        "family": "Onest",
+        "style": "Regular"
+      },
+      "textDecoration": "NONE",
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 43
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      }
+    },
+    {
+      "id": "S:bc89a4f9042ab6d7d0e7471acc87539549ddc559,",
+      "name": "estno.ru/Onest/Bold",
+      "fontSize": 21,
+      "fontName": {
+        "family": "Onest",
+        "style": "Bold"
+      },
+      "textDecoration": "NONE",
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 30
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      }
+    },
+    {
+      "id": "S:b87dc8c3587929cb1297a6cbbe488de4ea8411ba,",
+      "name": "estno.ru/Semantic/Button",
+      "fontSize": 16,
+      "fontName": {
+        "family": "Manrope",
+        "style": "Bold"
+      },
+      "textDecoration": "NONE",
+      "lineHeight": {
+        "unit": "AUTO"
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      }
+    },
+    {
+      "id": "S:21077c8599c1549f036b0c3d79d9769246844989,",
+      "name": "estno.ru/Semantic/Heading 1 upper",
+      "fontSize": 33,
+      "fontName": {
+        "family": "Onest",
+        "style": "SemiBold"
+      },
+      "textDecoration": "NONE",
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 51
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      }
+    },
+    {
+      "id": "S:701a80597974514538621b430caea14d0219a7de,",
+      "name": "estno.ru/Semantic/Heading 2",
+      "fontSize": 16,
+      "fontName": {
+        "family": "Manrope",
+        "style": "Regular"
+      },
+      "textDecoration": "NONE",
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 25
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      }
+    },
+    {
+      "id": "S:a11ffb672f91d9434ff6167a52e42801668dbd0c,",
+      "name": "estno.ru/Semantic/Heading 3",
+      "fontSize": 18,
+      "fontName": {
+        "family": "Manrope",
+        "style": "Regular"
+      },
+      "textDecoration": "NONE",
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 25
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      }
+    },
+    {
+      "id": "S:f94448d207454b8993acdb317ef3734187aa9405,",
+      "name": "estno.ru/Semantic/Heading 3",
+      "fontSize": 18,
+      "fontName": {
+        "family": "Manrope",
+        "style": "SemiBold"
+      },
+      "textDecoration": "NONE",
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 25
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      }
+    },
+    {
+      "id": "S:5ae3fd43f8afe0ce2feecaf641641dc20158de0f,",
+      "name": "estno.ru/Semantic/Input",
+      "fontSize": 16,
+      "fontName": {
+        "family": "Manrope",
+        "style": "Regular"
+      },
+      "textDecoration": "NONE",
+      "lineHeight": {
+        "unit": "AUTO"
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      }
+    },
+    {
+      "id": "S:1afc833f9f2fa4cbfb76d789fd06e87744968220,",
+      "name": "estno.ru/Semantic/Item",
+      "fontSize": 18,
+      "fontName": {
+        "family": "Manrope",
+        "style": "Regular"
+      },
+      "textDecoration": "NONE",
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 25
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      }
+    },
+    {
+      "id": "S:1fdcffe8a32e54fc1ba5d162b2280368267ca22b,",
+      "name": "estno.ru/Semantic/Link",
+      "fontSize": 14,
+      "fontName": {
+        "family": "Manrope",
+        "style": "Regular"
+      },
+      "textDecoration": "NONE",
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 18
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      }
+    },
+    {
+      "id": "S:a4160b6f414b744719b287b3e53794f0e30af6c1,",
+      "name": "estno.ru/Semantic/Link",
+      "fontSize": 16,
+      "fontName": {
+        "family": "Manrope",
+        "style": "Bold"
+      },
+      "textDecoration": "NONE",
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 25
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      }
+    },
+    {
+      "id": "S:ef1c41a719ee880bab3ec0d21b714761a6eaf4b1,",
+      "name": "estno.ru/Semantic/Link underline",
+      "fontSize": 14,
+      "fontName": {
+        "family": "Manrope",
+        "style": "Regular"
+      },
+      "textDecoration": "UNDERLINE",
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 18
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      }
+    },
+    {
+      "id": "S:bc0c4e5478542ad7504eeb0fcf23875c248ea8b1,",
+      "name": "estno.ru/Semantic/Strikethrough strikethrough",
+      "fontSize": 14,
+      "fontName": {
+        "family": "Manrope",
+        "style": "Regular"
+      },
+      "textDecoration": "STRIKETHROUGH",
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 22
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      }
+    }
+  ],
+  "effects": [],
+  "grids": []
+}
